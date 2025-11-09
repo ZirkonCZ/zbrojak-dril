@@ -1,0 +1,3351 @@
+[
+  {
+    "name": "2. Zákon o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "upravuje nakládání se zbraněmi a střelivem, provozování střelnic a výkon státní správy v oblasti zbraní.",
+        "right": true
+      },
+      {
+        "body": "zapracovává příslušné předpisy Evropské unie, zároveň navazuje na přímo použitelné předpisy Organizace spojených národů a upravuje zahraniční obchod se strojním zařízením využitelným pro zbrojní výrobu.",
+        "right": false
+      },
+      {
+        "body": "upravuje nakládání se zbraněmi, střelivem a municí a výkon státní správy v oblasti zbraní, střeliva a munice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "3. Vyňatou veřejnoprávní institucí neboli institucí, která je z působnosti zákona o zbraních a střelivu až na drobné výjimky vyňata, pokud sama se zbraněmi nebo střelivem nakládá, nebo pokud zřizuje a provozuje střelnice, je:",
+    "answers": [
+      {
+        "body": "Ministerstvo vnitra, Ministerstvo obrany, ozbrojené síly České republiky, bezpečnostní sbor České republiky nebo Český úřad pro zkoušení zbraní a střeliva.",
+        "right": true
+      },
+      {
+        "body": "Policie České republiky, obecní policie, Armáda České republiky a Poslanecká sněmovna a Senát Parlamentu České republiky.",
+        "right": false
+      },
+      {
+        "body": "zahraniční obchodní společnost se sídlem na území jiného členského státu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "4. Zbraní je pro účely zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "palná zbraň, plynová zbraň, chladná zbraň a další zařízení nebo přístroj, které jsou zařazeny do některé z kategorií zbraní nebo na které se podle § 9 použijí ustanovení o nakládání se zbraní určité kategorie.",
+        "right": false
+      },
+      {
+        "body": "palná zbraň, plynová zbraň a další zařízení nebo přístroj, které jsou zařazeny do některé z kategorií zbraní nebo na které se podle § 9 použijí ustanovení o nakládání se zbraní určité kategorie.",
+        "right": true
+      },
+      {
+        "body": "pouze střelná zbraň; zákon o zbraních a střelivu se naopak nevztahuje na chladné zbraně, zbraně hromadného ničení a expanzní přístroje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "5. Střelivem jsou pro účely zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "aktivní komponenty střeliva, náboj, nábojka, střela a munice.",
+        "right": false
+      },
+      {
+        "body": "náboje, které jsou zařazeny do některé z kategorií střeliva, jakož i aktivní a pasivní komponenty střeliva.",
+        "right": false
+      },
+      {
+        "body": "náboje, nábojky a aktivní komponenty střeliva, které jsou zařazeny do některé z kategorií střeliva.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "6. Regulovanými součástmi zbraně jsou pro účely zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "hlavní části zbraně, tj. hlaveň, nadlimitní zásobníky, tělo zbraně a závěr.",
+        "right": false
+      },
+      {
+        "body": "hlavní část zbraně, součást zbraně umožňující samočinnou střelbu, polotovar hlavní části zbraně, tlumič hluku výstřelu, nebo nadlimitní zásobník.",
+        "right": true
+      },
+      {
+        "body": "hlavní část zbraně, součást zbraně umožňující samočinnou střelbu, tlumič hluku výstřelu nebo noktovizor.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "7. Tlumič hluku výstřelu je:",
+    "answers": [
+      {
+        "body": "regulovanou součástí zbraně.",
+        "right": true
+      },
+      {
+        "body": "neregulovanou součástí zbraně.",
+        "right": false
+      },
+      {
+        "body": "regulovanou součástí zbraně za předpokladu, že při použití běžného střeliva snižuje hluk výstřelu alespoň o 30 dB.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "9. Mezi regulované součásti zbraně podle zákona o zbraních a střelivu nepatří:",
+    "answers": [
+      {
+        "body": "polotovar hlavní části zbraně.",
+        "right": false
+      },
+      {
+        "body": "tlumič hluku výstřelu.",
+        "right": false
+      },
+      {
+        "body": "střelivo.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "12. Mezi regulované součásti zbraně podle zákona o zbraních a střelivu patří:",
+    "answers": [
+      {
+        "body": "například spoušťové mechanismy samočinných zbraní, polotovary drážkovaných hlavní nebo nadlimitní zásobníky.",
+        "right": true
+      },
+      {
+        "body": "nadlimitní zásobníky, lafety nebo zaměřovací přístroje, o kterých tak stanoví Ministerstvo vnitra nařízením.",
+        "right": false
+      },
+      {
+        "body": "pouze ty součásti zbraní, které jsou zhotovené z kovu nebo alespoň z části obsahují kovové konstrukční prvky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "13. Pro účely zákona o zbraních a střelivu se nakládáním se zbraní má na mysli:",
+    "answers": [
+      {
+        "body": "jakékoli fyzické zacházení se zbraní nebo střelivem, a to včetně zajištění jejich přepravy nebo uložení.",
+        "right": true
+      },
+      {
+        "body": "upravuje-li takový případ zákon o zbraních a střelivu výslovně.",
+        "right": false
+      },
+      {
+        "body": "směřuje-li takové právní jednání orgánu veřejné moci.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "16. Podle zákona o zbraních a střelivu osoba, která má při sobě na místě veřejnosti přístupném nenabitou dlouhou zbraň uloženou v uzavřeném přepravním pouzdře:",
+    "answers": [
+      {
+        "body": "nosí tuto zbraň, pokud lze podle tvaru pouzdra usuzovat na to, že se v něm nachází zbraň.",
+        "right": false
+      },
+      {
+        "body": "tuto zbraň nenosí, pokud u sebe současně taková osoba nemá střelivo, které by bylo možné použít pro nabití dané zbraně.",
+        "right": false
+      },
+      {
+        "body": "tuto zbraň nenosí, pokud není daná zbraň viditelná (např. pouzdro není průhledné nebo část zbraně nepřesahuje mimo přepravní pouzdro).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "17. Pro účely zákona o zbraních a střelivu je sběratelskou činností:",
+    "answers": [
+      {
+        "body": "praktické testování zbraní pro historické, kulturní, vědecké, technické, vzdělávací nebo památkové účely a publikace zjištěných výsledků, a to včetně jejich prezentace v audiovizuální formě.",
+        "right": false
+      },
+      {
+        "body": "činnost spočívající ve shromažďování a uchovávání zbraní, jejich hlavních částí nebo střeliva pro historické, kulturní, vědecké, technické, vzdělávací nebo památkové účely.",
+        "right": true
+      },
+      {
+        "body": "jakékoli nakládání se zbraněmi, jejich hlavními částmi, nadlimitními zásobníky, tlumiči hluku výstřelu nebo střelivem v množství, které přesahuje kvantitativní limity stanovené nařízením vlády.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "20. Zakázanými zbraněmi jsou zbraně kategorie:",
+    "answers": [
+      {
+        "body": "K2 a K9.",
+        "right": false
+      },
+      {
+        "body": "R1 a R2.",
+        "right": true
+      },
+      {
+        "body": "PO a NO.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "23. Kategorizace zbraní a střeliva je mimo jiné ovládána zásadou, podle které:",
+    "answers": [
+      {
+        "body": "zbrani nebo střelivu, kterým lze na základě konstrukčních vlastností nebo funkčního principu přiřadit různé kategorie, se přiřadí kategorie, která je z těchto kategorií nejpřísněji regulována; to neplatí v případě zbraní poplašných a signalizačních.",
+        "right": false
+      },
+      {
+        "body": "zbrani nebo střelivu, které jsou upraveny tak, aby jimi byl způsoben závažnější následek, se přiřadí kategorie o jeden stupeň přísnější, než by tomu bylo u takto neupravené zbraně; znehodnocení zbraně má naopak za následek přiřazení kategorie o jeden stupeň mírnější.",
+        "right": false
+      },
+      {
+        "body": "zbrani nebo střelivu, kterým lze na základě konstrukčních vlastností nebo funkčního principu přiřadit různé kategorie, se přiřadí kategorie, která je z těchto kategorií nejpřísněji regulována; to neplatí v případě zbraní historických nebo neaktivních.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "24. Kategorizace zbraní je mimo jiné ovládána zásadou, podle které:",
+    "answers": [
+      {
+        "body": "pokud není určitá palná zbraň uvedena v příloze č. 2 zákona o zbraních a střelivu, zařadí se taková palná zbraň do stejné kategorie jako zbraň uvedená v příloze č. 2 zákona o zbraních a střelivu, které je svou konstrukcí, funkcí nebo účelem a účinkem nejbližší.",
+        "right": true
+      },
+      {
+        "body": "pokud není určitá palná nebo plynová zbraň výslovně uvedena v příloze č. 2 zákona o zbraních a střelivu, rozhodne o zařazení takové zbraně do kategorie Český úřad pro zkoušení zbraní a střeliva; do doby nabytí právní moci jeho rozhodnutí je daná zbraň z preventivních důvodů předběžně zařazena do kategorie R1.",
+        "right": false
+      },
+      {
+        "body": "sečná zbraň, na kterou se zákon o zbraních a střelivu nevztahuje, je zbraní stejné kategorie jako bodná zbraň uvedená v příloze č. 2 k tomuto zákonu, které je svou konstrukcí nejbližší.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "25. Mezi technické podmínky zařazení zbraně do kategorie PO a NO patří mimo jiné podmínka, podle které:",
+    "answers": [
+      {
+        "body": "zbraň, která by jinak byla na základě konstrukčních vlastností nebo funkčního principu považována za zbraň kategorie PO nebo NO, ale která vznikla nevratnou úpravou zbraně podléhající registraci, je zbraní stejné kategorie jako zbraň podléhající registraci, z níž byla upravena; to neplatí v případě, že úsťová energie střely vystřelené z takto upravené zbraně nepřesahuje 50 J.",
+        "right": false
+      },
+      {
+        "body": "zbraň, která by jinak byla na základě konstrukčních vlastností nebo funkčního principu určena pro použití střeliva kategorie S1 nebo S2, ale která vznikla nevratnou úpravou zbraně podléhající registraci, je zbraní stejné kategorie jako zbraň podléhající oznámení, z níž byla upravena; to neplatí v případě zbraní určených pro použití střeliva obsahujícího aktivní komponenty střeliva.",
+        "right": false
+      },
+      {
+        "body": "zbraň, která by jinak byla na základě konstrukčních vlastností nebo funkčního principu považována za zbraň kategorie PO nebo NO, ale která vznikla nevratnou úpravou zbraně podléhající registraci, je zbraní stejné kategorie jako zbraň podléhající registraci, z níž byla upravena; to neplatí v případě znehodnocené zbraně a řezu zbraně, které odpovídají požadavkům zákona o zbraních a střelivu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "26. Zbraň, která by byla na základě svých konstrukčních vlastností nebo funkčního principu považována za zbraň kategorie PO nebo NO, ale která nesplňuje technické požadavky na výrobní provedení stanovené nařízením vlády č. 187/2025 Sb.:",
+    "answers": [
+      {
+        "body": "je zbraní podléhající registraci a přiřadí se jí konkrétní kategorie na základě jejích konstrukčních vlastností nebo funkčního principu.",
+        "right": true
+      },
+      {
+        "body": "je zakázanou zbraní, to neplatí v případě zbraní určených pouze pro střelbu nábojkami nebo cvičným střelivem.",
+        "right": false
+      },
+      {
+        "body": "musí být předložena krajskému ředitelství policie k provedení úředního zničení regulovaných součástí zbraně, které neodpovídají technickým požadavkům stanoveným nařízením vlády, a to do 10 pracovních dnů ode dne doručení výzvy krajského ředitelství policie osobě, která je oprávněna s danou zbraní nakládat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "27. Osobou oprávněnou nakládat se zbraní kategorie R1 je za podmínek stanovených zákonem o zbraních a střelivu mimo jiné:",
+    "answers": [
+      {
+        "body": "držitel zbrojní licence skupiny ZL1, kterému byla pro nakládání s každou takovou zbraní vydána výjimka kategorie R1, držitel obecného zbrojního oprávnění nebo držitel zapsané autorizace.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL1, držitel zbrojní licence skupiny ZL2, kterému byla pro nakládání s každou takovou zbraní vydána výjimka kategorie R1, nebo osoba oprávněná uskutečnit přeshraniční přemístění takové zbraně.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL1, držitel zbrojní licence skupiny ZL2, kterému byla pro nakládání s každou takovou zbraní vydána výjimka kategorie R1, nebo držitel mimořádné dispenzace, kterou může v případech hodných zvláštního zřetele vydat Ministerstvo vnitra kterékoli zletilé a plně svéprávné fyzické osobě, pokud taková fyzická osoba vykonala mimořádný čin v oblasti vnitřního pořádku nebo bezpečnosti.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "28. Osobou oprávněnou nakládat se zbraní kategorie R1 za podmínek stanovených zákonem o zbraních není:",
+    "answers": [
+      {
+        "body": "držitel zbrojní licence skupiny ZL1.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojního oprávnění, a to s výjimkou určitých specifických případů, na které se vztahují přechodná ustanovení zákona o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL2, kterému byla pro nakládání s každou takovou zbraní vydána výjimka kategorie R1.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "29. Držitel zbrojního oprávnění je za standardních podmínek stanovených zákonem o zbraních a střelivu oprávněn nakládat se zbraněmi:",
+    "answers": [
+      {
+        "body": "R4, R3, R2 a R1; se zbraněmi kategorie R4 a R3 je tento držitel oprávněn nakládat jen v případě, že mu byla k tomuto nakládání vydána příslušná výjimka nebo povolení.",
+        "right": false
+      },
+      {
+        "body": "R2, R3 a R4; se zbraněmi kategorie R2 a R3 je tento držitel oprávněn nakládat jen v případě, že mu byla k tomuto nakládání vydána příslušná výjimka nebo povolení.",
+        "right": true
+      },
+      {
+        "body": "R2, R3 a R4, avšak jen v případě, že mu byla k nakládání s každou takovou zbraní vydána příslušná individuální licence.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "31. Osobou oprávněnou nakládat se zbraní kategorie R2 je za podmínek stanovených zákonem o zbraních a střelivu mimo jiné:",
+    "answers": [
+      {
+        "body": "držitel zbrojní licence skupiny ZL1, držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, kterému byla vydána pro nakládání s každou takovou zbraní výjimka kategorie R2 a osoba oprávněná uskutečnit přeshraniční přemístění takové zbraně.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL1 nebo ZL2, kterému byla pro nakládání s každou takovou zbraní vydána výjimka kategorie R1, a držitel rozšířeného zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL1, držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, kterému bylo vydáno pro nakládání s každou takovou zbraní povolení kategorie R2 a držitel zapsané autorizace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "32. Osobou oprávněnou nakládat se zbraní kategorie R2 za podmínek stanovených zákonem o zbraních a střelivu není:",
+    "answers": [
+      {
+        "body": "osoba oprávněná uskutečnit přeshraniční přemístění takové zbraně.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL2, kterému byla vydána pro nakládání s každou takovou zbraní výjimka kategorie R2.",
+        "right": false
+      },
+      {
+        "body": "držitel zapsané autorizace.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "33. Osobou oprávněnou nakládat se zbraní kategorie R3 je za podmínek stanovených zákonem o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "držitel zbrojní licence skupiny ZL1, kterému byla vydána pro nakládání s každou takovou zbraní výjimka kategorie R3, a osoba, která požádala zastupitelský úřad České republiky o vydání oprávnění uskutečnit přeshraniční přemístění takové zbraně.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL1, držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, kterému bylo vydáno pro nakládání s každou takovou zbraní povolení kategorie R3 a osoba oprávněná uskutečnit přeshraniční přemístění takové zbraně.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojního oprávnění, kterému bylo vydáno povolení kategorie R3, držitel koncese pro nakládání s bezpečnostním materiálem, kterému byla pro ten účel vydány výjimka, provozovatel střelnice a dále pak osoba oprávněná cestovat v rámci tranzitu přes území České republiky se zbraněmi podléhajícími registraci, avšak nejvýše v počtu 3 kusů při jedné tranzitní cestě.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "34. Osobou oprávněnou nakládat se zbraní kategorie R4 je za podmínek stanovených zákonem o zbraních a střelivu mimo jiné:",
+    "answers": [
+      {
+        "body": "držitel zbrojní licence, držitel zbrojního oprávnění, osoba oprávněná uskutečnit přeshraniční přemístění takové zbraně.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojního oprávnění, osoba oprávněná uskutečnit přeshraniční přemístění takové zbraně a držitel zapsané autorizace.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojního oprávnění nebo osoba oprávněná k výkonu práva myslivosti podle zákona č.  449/2001 Sb., o myslivosti. ve znění pozdějších předpisů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "35. Osobou oprávněnou nakládat se zbraní kategorie PO je za podmínek stanovených zákonem o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "držitel autorizace k nakládání se zbraní kategorie PO zapsané do centrálního registru zbraní (zapsaná autorizace) nebo držitel zbrojní licence; držitel zbrojního oprávnění není bez získání zapsané autorizace nakládat se zbraní kategorie PO oprávněn.",
+        "right": false
+      },
+      {
+        "body": "držitel autorizace k nakládání se zbraní kategorie PO zapsané do centrálního registru zbraní, držitel zbrojní licence, držitel zbrojního oprávnění, osoba oprávněná uskutečnit přeshraniční přemístění takové zbraně, nebo nevyňatá veřejnoprávní instituce.",
+        "right": true
+      },
+      {
+        "body": "zletilá fyzická osoba, která má místo pobytu na území České republiky nebo jiného členského státu Evropské unie, pokud je plně svéprávnou právnickou osobou.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "36. Osobou oprávněnou nakládat se zbraní kategorie NO je za podmínek stanovených zákonem o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "plně svéprávná zletilá fyzická osoba, která má místo pobytu na území České republiky, právnická osoba se sídlem nebo odštěpným závodem na území České republiky, držitel zbrojní licence, držitel zbrojního oprávnění, osoba oprávněná uskutečnit přeshraniční přemístění takové zbraně, nebo nevyňatá veřejnoprávní instituce.",
+        "right": true
+      },
+      {
+        "body": "plně svéprávná zletilá fyzická osoba, která má místo pobytu na území České republiky, právnická osoba se sídlem nebo odštěpným závodem na území České republiky a držitel zbrojního oprávnění; se zbraní kategorie NO je mohou tyto osoby ovšem střílet pouze na schválené střelnici, nestanoví-li Český úřad pro zkoušení zbraní a střeliva v opatření obecné povahy jinak.",
+        "right": false
+      },
+      {
+        "body": "pouze plně svéprávná zletilá fyzická osoba, která je občanem České republiky, právnická osoba se sídlem nebo odštěpným závodem na území České republiky, držitel zbrojní licence a držitel zbrojního oprávnění.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "37. Osobou oprávněnou nakládat se střelivem kategorie S1 je za podmínek stanovených zákonem o zbraních a střelivu mimo jiné:",
+    "answers": [
+      {
+        "body": "držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, a to v rámci oprávnění vyplývajících z výjimky kategorie R2 nebo výjimky pro nadlimitní zásobníky.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojního oprávnění, který nakládá se zbraní určenou pro použití takového střeliva.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL2, kterému byla pro nakládání s určitým počtem kusů takového střeliva vydána výjimka kategorie S1.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "38. Osobou oprávněnou nakládat se střelivem kategorie S2 je za podmínek stanovených zákonem o zbraních a střelivu mimo jiné:",
+    "answers": [
+      {
+        "body": "držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, a to v rámci oprávnění vyplývajících z výjimky kategorie R2 nebo výjimky pro nadlimitní zásobníky.",
+        "right": false
+      },
+      {
+        "body": "osoba, které byla udělena registrace kategorie S2 na základě započitatelné praxe.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, kterému byla vydána výjimka kategorie S2.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "41. Osoba, která v souladu se zákonem o zbraních a střelivu nakládá se zbraní kategorie PO nebo NO:",
+    "answers": [
+      {
+        "body": "je oprávněna nakládat i s jakýmkoli rážově příslušným střelivem pro takovou zbraň.",
+        "right": false
+      },
+      {
+        "body": "je oprávněna nakládat se střelivem kategorie S3, které je pro použití v takové zbrani určeno, a se střelivem kategorie S4.",
+        "right": true
+      },
+      {
+        "body": "je oprávněna nakládat pouze s aktivními komponenty střeliva pro předovky, zbraně kategorie PO nebo NO nejsou určeny pro použití jednotných nábojů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "43. Vyberte správné tvrzení:",
+    "answers": [
+      {
+        "body": "tlumič hluku výstřelu je zakázaným doplňkem zbraně a nakládat s ním může pouze držitel zbrojního oprávnění, kterému byla vydána výjimka příslušné kategorie.",
+        "right": false
+      },
+      {
+        "body": "na nakládání s tlumičem hluku výstřelu se zákon o zbraních a střelivu nevztahuje.",
+        "right": false
+      },
+      {
+        "body": "na nakládání s tlumičem hluku výstřelu se použijí ustanovení o nakládání se zbraní kategorie R4.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "44. Na nakládání s hlavní částí zbraně jako se samostatným předmětem:",
+    "answers": [
+      {
+        "body": "se použijí ustanovení o nakládání se zbraní, jejíž taková hlavní část zbraně je nebo má být součástí.",
+        "right": true
+      },
+      {
+        "body": "se obecně vztahují ustanovení o nakládání se zbraní kategorie R4.",
+        "right": false
+      },
+      {
+        "body": "se vztahují pouze ustanovení o označování zbraní a jejich hlavních částí identifikačními údaji zbraně; jakmile je hlavní část zbraně v souladu se zákonem označena a ověřena Státní zkušebnou, může s ní nakládat každá zletilá a plně svéprávná fyzická osoba nebo právnická osoba se sídlem na území České republiky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "45. Se součástí zbraně umožňující samočinnou střelbu smí nakládat pouze:",
+    "answers": [
+      {
+        "body": "osoba oprávněná nakládat se samočinnou zbraní příslušné kategorie.",
+        "right": false
+      },
+      {
+        "body": "držitel výjimky kategorie R1.",
+        "right": false
+      },
+      {
+        "body": "příslušník ozbrojených sil nebo bezpečnostního sboru, který absolvoval výcvik pro odpovídající služební zbraň nebo je určeným zbrojířem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "46. Se součástí zbraně umožňující samočinnou střelbu smí nakládat pouze osoba oprávněná nakládat se samočinnou zbraní:",
+    "answers": [
+      {
+        "body": "kategorie R1.",
+        "right": false
+      },
+      {
+        "body": "příslušné kategorie; pokud jde například o samočinnou akustickou nebo salutní zbraň kategorie R2, je s příslušnou součástí zbraně umožňující samočinnou střelbu oprávněn nakládat i oprávněný držitel takové zbraně.",
+        "right": true
+      },
+      {
+        "body": "v rámci činnosti držitele zbrojní licence.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "47. S polotovarem hlavní části zbraně určeným pro zhotovení hlavní části zbraně podléhající registraci smí nakládat pouze:",
+    "answers": [
+      {
+        "body": "držitel zbrojního oprávnění nebo zbrojní licence anebo osoba oprávněná provést přeshraniční přemístění takového polotovaru.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence nebo osoba oprávněná provést přeshraniční přemístění takového polotovaru.",
+        "right": true
+      },
+      {
+        "body": "pouze držitel zbraně, u které má dojít k výměně hlavní části zbraně, a daný polotovar je určen pro zhotovení takové hlavní části zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "49. Pro podnikání v oblasti zbraní a střeliva zákon o zbraních a střelivu mj. vyžaduje:",
+    "answers": [
+      {
+        "body": "aby budoucí podnikatel nejdříve získal všechny jednotlivé výjimky a povolení pro všechny kategorie zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "aby byl podnikatel držitelem zbrojní licence skupiny ZL1, pokud je předmětem podnikání například nákup, prodej nebo výroba zbraní podléhajících registraci, zbraní kategorie PO nebo se střeliva kategorie S1, S2 nebo S3.",
+        "right": true
+      },
+      {
+        "body": "aby podnikatel byl podnikatel držitelem zbrojní licence skupiny ZL1 nebo v případě fyzických osob skupiny ZL3.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "50. Pro podnikání v oblasti zbraní a střeliva zákon o zbraních a střelivu mj. vyžaduje:",
+    "answers": [
+      {
+        "body": "aby byl podnikatel držitelem zbrojního oprávnění, pokud má být předmětem podnikání přeprava zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "souhlas Českého úřadu pro zkoušení zbraní a střeliva s vnitřním předpisem podnikatele; tento souhlas je vydáván mimo správní řízení a zákon nepřipouští uplatnění opravných prostředků.",
+        "right": false
+      },
+      {
+        "body": "aby byl podnikatel držitelem zbrojní licence, pokud je předmětem podnikání například nákup, prodej nebo výroba zbraní kategorie NO nebo se střeliva kategorie S4.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "52. Při vložení nadlimitního zásobníku do samonabíjecí palné zbraně pro jednotné střelivo se středovým zápalem:",
+    "answers": [
+      {
+        "body": "dochází ke změně kategorie takové zbraně na kategorii R2; změna kategorie zbraně se považuje za nevratnou úpravu zbraně a musí být do 10 pracovních dnů oznámena místně příslušnému krajskému ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "musí být osoba, která takto s danou samonabíjecí zbraní nakládá, držitelem výjimky kategorie R2 nebo výjimky kategorie S2 vydané pro nadlimitní zásobníky.",
+        "right": true
+      },
+      {
+        "body": "dochází ke změně kategorie zbraně na kategorii R2, a to s výjimkou použití takové samonabíjecí zbraně s vloženým nadlimitním zásobníkem na schválené střelnici.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "53. Nabývání zbraní podléhajících registraci, zbraní kategorie PO, palných zbraní kategorie NO a střeliva prostřednictvím spotřebitelských smluv uzavřených na dálku je:",
+    "answers": [
+      {
+        "body": "dovoleno za podmínky, je-li spotřebitelská smlouva uzavřena držitelem zbrojního oprávnění starším 18 let.",
+        "right": false
+      },
+      {
+        "body": "dovoleno, je ale vyloučena možnost odstoupení od smlouvy ve lhůtě 14 dnů.",
+        "right": false
+      },
+      {
+        "body": "zakázáno.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "56. Každý je povinen předložit na výzvu Ministerstva obrany:",
+    "answers": [
+      {
+        "body": "zbraň zvláště účinnou, zákeřnou zbraň, samočinnou palnou zbraň a samonabíjecí palnou zbraň, jakož i příslušné střelivo, nadlimitní zásobníky a související doklady a listiny.",
+        "right": false
+      },
+      {
+        "body": "zbraň zvláště účinnou, na kterou se vztahuje mezinárodní kontrolní režim, jakož i související doklady a listiny.",
+        "right": true
+      },
+      {
+        "body": "zbraň nebo střelivo, se kterými nakládá, popřípadě související doklady a listiny.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "57. Vyberte správné tvrzení:",
+    "answers": [
+      {
+        "body": "každý je povinen předložit na výzvu Ministerstva vnitra zbraň nebo střelivo, se kterými nakládá, popřípadě související doklady a listiny.",
+        "right": false
+      },
+      {
+        "body": "každý je povinen předložit na výzvu Ministerstva vnitra zbraň, se kterou nakládá, popřípadě související doklady a listiny, ne však střelivo.",
+        "right": false
+      },
+      {
+        "body": "Ministerstvo vnitra není oprávněno požadovat předložení zbraně nebo střeliva, se kterými nakládá, toto oprávnění má pouze Policie České republiky a v některých případech také Ministerstvo obrany.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "60. Použití zbraně k ostré střelbě je každý povinen ohlásit Policii České republiky:",
+    "answers": [
+      {
+        "body": "při jakémkoliv použití zbraně, např. i na střelnici.",
+        "right": false
+      },
+      {
+        "body": "pouze po úspěšném použití zbraně v nutné obraně.",
+        "right": false
+      },
+      {
+        "body": "došlo-li k použití zbraně v krajní nouzi nebo nutné obraně.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "61. Každý je povinen střílet ze zbraně, se kterou nakládá, pouze:",
+    "answers": [
+      {
+        "body": "v místech, kde jiné osobě nehrozí újma na životě, zdraví nebo nehrozí-li dle trestního zákoníku větší škoda na majetku.",
+        "right": false
+      },
+      {
+        "body": "v místech, kde je k tomu oprávněn podle zákona o zbraních a střelivu nebo podle jiného právního předpisu.",
+        "right": true
+      },
+      {
+        "body": "na střelnicích, jejichž provoz byl povolen podle zákona o zbraních a střelivu nebo podle jiného právního předpisu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "63. Každý je povinen, pokud se pohybuje na střelnici:",
+    "answers": [
+      {
+        "body": "dodržovat provozní řád střelnice a uposlechnout pokyny správce střelnice, které směřují k zajištění bezpečného nakládání se zbraněmi a střelivem.",
+        "right": true
+      },
+      {
+        "body": "uposlechnout pokyny pravidelných návštěvníků střelnice, kteří mají dlouholetou praxi a místní znalost.",
+        "right": false
+      },
+      {
+        "body": "dodržovat technický řád střelnice a uposlechnout pokyny provozovatele střelnice; tyto pokyny mohou být předávány v písemné podobě, a to zejména tehdy, pokud je provozovatelem střelnice právnická osoba.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "70. Nikdo nesmí:",
+    "answers": [
+      {
+        "body": "nakládat se zbraní nebo střelivem, aniž by k tomu byla vyškolena certifikovaným instruktorem.",
+        "right": false
+      },
+      {
+        "body": "nakládat se zbraní nebo střelivem, tak že ohrozí život, zdraví nebo majetek jiné osoby, vůči které v mezích zákonných limitů postupuje v rámci nutné obrany nebo krajní nouze.",
+        "right": false
+      },
+      {
+        "body": "nakládat se zbraní nebo střelivem tak, že ohrozí život, zdraví nebo majetek jiné osoby tím, že nedbá zvýšené opatrnosti odpovídající povaze a stavu zbraně nebo střeliva.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "71. Nikdo nesmí:",
+    "answers": [
+      {
+        "body": "při nošení nebo jiné manipulaci se zbraní na místě veřejnosti přístupném požívat alkoholické nápoje nebo užívat jiné návykové látky, pokud jeho schopnost bezpečně nakládat se zbraní není současně kompenzována užitím adekvátních stimulujících léků.",
+        "right": false
+      },
+      {
+        "body": "nakládat se zbraní nebo střelivem tak, že ohrozí život, zdraví nebo majetek jiné osoby tím, že manipuluje se zbraní nebo střelivem pod vlivem alkoholu nebo jiné návykové látky anebo je-li jeho schopnost bezpečně nakládat se zbraní nebo střelivem snížena užitím léků nebo v důsledku jeho zdravotního stavu.",
+        "right": true
+      },
+      {
+        "body": "pod vlivem alkoholu nebo jiné návykové látky anebo užívá-li dlouhodobě léky nebo jiné humánní léčivé přípravky, anebo pokud ode dne nitrosvalové aplikace mRNA vakcíny proti infekčním onemocněním neuběhlo alespoň 10 pracovních dnů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "73. Vyberte správné tvrzení:",
+    "answers": [
+      {
+        "body": "nikdo nesmí bez povolení provozovat střelnici, jejíž provozování podléhá povolení podle zákona o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "nikdo nesmí zřídit střelnici bez předchozího souhlasu krajského úřadu místně příslušného podle místa pobytu nebo sídla provozovatele takové střelnice.",
+        "right": false
+      },
+      {
+        "body": "nikdo nesmí bez povolení provozovat střelnici; to neplatí v případě příležitostných střelnic, které nejsou podle provozního řádu využívány častěji než 26 dnů v kalendářním roce.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "74. Nikdo nesmí nosit zbraň podléhající registraci:",
+    "answers": [
+      {
+        "body": "která nebyla zaregistrována.",
+        "right": false
+      },
+      {
+        "body": "která nebyla zaregistrována; to neplatí, jde-li o zbraň přenechanou držitelem zbrojní licence skupiny ZL1.",
+        "right": true
+      },
+      {
+        "body": "která nebyla zaregistrována a následně též po dobu 10 pracovních dnů ode dne její registrace; to neplatí, jde-li o zbraň přenechanou držitelem rozšířeného zbrojního oprávnění nebo držitelem zbrojní licence skupiny ZL1.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "76. Vyberte správné tvrzení:",
+    "answers": [
+      {
+        "body": "nikdo nesmí provést přeshraniční přemístění zbraně nebo střeliva v rozporu se zákonem o zbraních a střelivu nebo s jiným právním předpisem.",
+        "right": true
+      },
+      {
+        "body": "nikdo nesmí provést přeshraniční přemístění zbraně nebo střeliva v rozporu se zákonem o zbraních a střelivu nebo s jiným právním předpisem; to neplatí pro přeshraniční přemístění zbraně nebo střeliva do země, která je členem Evropské Unie.",
+        "right": false
+      },
+      {
+        "body": "nikdo nesmí provést přeshraniční přemístění zbraně nebo střeliva v rozporu se zákonem o zbraních a střelivu nebo s jiným právním předpisem; to neplatí pro přeshraniční přemístění zbraně nebo střeliva držitelem rozšířeného zbrojního oprávnění za účelem jeho účasti ve střelecké soutěži v zemi, která je členem Evropské Unie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "78. Zbrojní oprávnění opravňuje svého držitele – fyzickou osobu:",
+    "answers": [
+      {
+        "body": "podnikat v oblasti zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "nakládat se zbraněmi podléhajícími registraci a střelivem, a to za dalších podmínek podle zákona o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "zajišťovat v rámci samostatné výdělečné činnosti ostrahu a nosit při výkonu této činnosti skrytě zbraň kategorie R3.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "79. Ve smyslu zákona o zbraních a střelivu se rozlišuje zbrojní oprávnění:",
+    "answers": [
+      {
+        "body": "obecné a rozšířené; obecné zbrojní oprávnění a rozšířené zbrojní oprávnění se liší účelem a podmínkami pro vydání, z hlediska rozsahu oprávnění se obecné a rozšířené zbrojní oprávnění nepřekrývají.",
+        "right": false
+      },
+      {
+        "body": "obecné a rozšířené; součástí rozšířeného zbrojního oprávnění je rovněž obecné zbrojní oprávnění.",
+        "right": true
+      },
+      {
+        "body": "základní, obecné a rozšířené; rozšířené oprávnění může být vydáno žadateli, který je držitelem základního a obecného zbrojního oprávnění a dosáhl minimálního stanoveného věku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "81. Rozšířené zbrojní oprávnění je podle zákona o zbraních a střelivu vyžadováno:",
+    "answers": [
+      {
+        "body": "pro výkon činnosti zkušebního komisaře, pro výkon činnosti hlavního zbrojíře držitele zbrojní licence skupiny ZL1 nebo ZL3, pro skryté nošení zbraně podléhající registraci a u osob, které plní některé úkoly držitele zbrojní licence a o kterých tak stanoví § 90 zákona o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "pro výkon činnosti zkušebního komisaře, pro výkon činnosti hlavního zbrojíře držitele zbrojní licence skupiny ZL2, pro skryté nošení palné nebo plynové zbraně a u osob, o kterých tak stanoví zákon o ověřování zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "pro výkon činnosti hlavního zbrojíře na střelnici, pro skryté nošení zbraně podléhající registraci a dále pak u osob, které plní úkoly při zajišťování průběhu zkoušek odborné způsobilosti nebo komisionálních zkoušek, a to na základě výzvy krajského ředitelství policie, která musí být těmto osobám doručena nejméně 10 pracovních dnů přede dnem konání příslušné zkoušky odborné způsobilosti nebo komisionální zkoušky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "82. Podmínky zbrojního oprávnění splňuje fyzická osoba, která:",
+    "answers": [
+      {
+        "body": "je občanem České republiky, dosáhla stanoveného věku, je plně svéprávná (nejde-li o vydání zbrojního oprávnění osobě mladší 18 let v případech, kdy to zákon o zbraních a střelivu umožňuje), je psychologicky způsobilá, je bezúhonná a politicky spolehlivá.",
+        "right": false
+      },
+      {
+        "body": "má místo pobytu na území České republiky, dosáhla stanoveného věku, je plně svéprávná (nejde-li o vydání zbrojního oprávnění osobě mladší 18 let v případech, kdy to zákon o zbraních a střelivu umožňuje), je zdravotně způsobilá, je bezúhonná a spolehlivá a je odborně způsobilá.",
+        "right": true
+      },
+      {
+        "body": "má místo pobytu na území České republiky, dosáhla stanoveného věku, je plně svéprávná, je zdravotně způsobilá (nejde-li o vydání zbrojního oprávnění osobě mladší 18 let v případech, kdy to zákon o zbraních a střelivu umožňuje), je bezúhonná, je odborně způsobilá a byla vyškolena a vycvičena Policií České republiky nebo jiným ozbrojeným bezpečnostním sborem České republiky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "83. Jednou z podmínek vydání zbrojního oprávnění je podle zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "psychická odolnost (tzv. resilience).",
+        "right": false
+      },
+      {
+        "body": "spolehlivost; spolehlivostí se rozumí trestní a přestupková zachovalost a vyloučení rizika alkoholismu a zneužívání jiných návykových látek.",
+        "right": true
+      },
+      {
+        "body": "uznatelná praxe v oblasti nakládání se zbraněmi a střelivem; uznatelnou praxí se rozumí mimo jiné sportovně-střelecká činnost, výkon práva myslivosti, služba v Aktivní záloze Armády České republiky nebo dobrovolné převzetí branné povinnosti.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "85. I v případě, že jsou jinak splněny podmínky pro vydání zbrojního oprávnění podle zákona o zbraních a střelivu, krajské ředitelství policie může mimo jiné:",
+    "answers": [
+      {
+        "body": "z důvodu ochrany vnitřního pořádku nebo bezpečnosti zamítnout žádost o vydání zbrojního oprávnění cizince, který není občanem členského státu Evropské Unie.",
+        "right": true
+      },
+      {
+        "body": "z důvodu zajišťování potřeb ozbrojených sil České republiky zamítnout žádost o vydání zbrojního oprávnění cizince, který je občanem jiného členského státu Organizace Severoatlantické smlouvy.",
+        "right": false
+      },
+      {
+        "body": "vydat zbrojní oprávnění podmíněně, v omezeném rozsahu nebo se zkrácenou dobou platnosti, pokud je to z hlediska ochrany vnitřního pořádku nebo bezpečnosti nezbytné.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "87. Zbrojní oprávnění lze mimo jiné vydat fyzické osobě, která dosáhla věku 15 let:",
+    "answers": [
+      {
+        "body": "pokud jde o obecné zbrojní oprávnění a žadatel je členem spolku, který se zabývá sportovně-střeleckou činností, nebo je členem ozbrojené skupiny podle zákona o nakládání se zbraněmi v některých případech ovlivňujících vnitřní pořádek nebo bezpečnost České republiky.",
+        "right": false
+      },
+      {
+        "body": "pokud jde o obecné nebo rozšířené zbrojní oprávnění a je žákem střední školy v bezpečnostně-právní oblasti, přičemž je vyžadován písemný souhlas pouze jejího zákonného zástupce, opatrovníka nebo poručníka.",
+        "right": false
+      },
+      {
+        "body": "pokud jde o obecné zbrojní oprávnění a žadatel je žákem střední školy v oboru zahrnujícím výuku myslivosti, přičemž je vyžadován písemný souhlas jejího zákonného zástupce, opatrovníka nebo poručníka a příslušné střední školy.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "93. Zákon o zbraních a střelivu ponechává řadu aspektů posuzování zdravotní způsobilosti na obecné právní úpravě, kterou představuje zákon o specifických zdravotních službách. S ohledem na tento zákon se lékařský posudek k prokázání zdravotní způsobilosti podle zákona o zbraních a střelivu vydává na základě:",
+    "answers": [
+      {
+        "body": "na základě výpisu ze zdravotnické dokumentace, který registrující poskytovatel zdravotních služeb předkládá krajskému ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "výsledků lékařské prohlídky u registrujícího poskytovatele zdravotních služeb a dalších potřebných odborných vyšetření.",
+        "right": true
+      },
+      {
+        "body": "výsledků lékařské prohlídky u registrujícího poskytovatele zdravotních služeb a předběžného situačního šetření krajského ředitelství policie k osobě žadatele o vydání zbrojního oprávnění nebo držitele zbrojního oprávnění, a to v místě, kde se pravidelně zdržuje, zejména v místě bydliště a místě zaměstnání.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "94. Seznam nemocí, vad nebo stavů, které vylučují nebo omezují zdravotní způsobilost:",
+    "answers": [
+      {
+        "body": "stanovuje ošetřující lékař po dohodě s krajským ředitelstvím policie s ohledem na aktuální bezpečnostní situaci.",
+        "right": false
+      },
+      {
+        "body": "obsahuje stejné nemoci, vady a stavy jako je tomu v případě zdravotní způsobilosti pro řízení motorových vozidel.",
+        "right": false
+      },
+      {
+        "body": "stanovuje pro oblast nakládání se zbraněmi, střelivem a s municí vláda nařízením, přičemž vymezení nemocí, vad a stavů se zaměřuje na prevenci specifických rizik souvisejících s nakládáním se zbraněmi, střelivem a municí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "96. V případě pochybností o trvání zdravotní způsobilosti držitele zbrojního oprávnění:",
+    "answers": [
+      {
+        "body": "krajské ředitelství policie požádá poskytovatele zdravotních služeb o vydání mimořádného lékařského posudku a současně držitele zbrojního oprávnění vyzve, aby se k lékařské prohlídce dostavil ve lhůtě, která nesmí být kratší než 10 pracovních dnů.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie zbrojní oprávnění odejme.",
+        "right": false
+      },
+      {
+        "body": "je držitel zbrojního oprávnění povinen se na výzvu krajského ředitelství policie, Policejní prezidia České republiky nebo Ministerstva vnitra dostavit k přezkoumání své zdravotní způsobilosti k posudkové komisi složené z odborně způsobilých zástupců těchto orgánů veřejné moci.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "97. Existuje-li podezření, že se posuzovaná osoba snaží ovlivnit nestrannost zjištění své zdravotní způsobilosti, anebo nelze-li její zdravotní způsobilost zjistit jiným způsobem:",
+    "answers": [
+      {
+        "body": "je posuzovaná osoba povinna zvolit si jiného poskytovatele zdravotních služeb, který její zdravotní způsobilost vhodným způsobem přezkoumá.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie nařídí přezkoumání zdravotní způsobilosti takové posuzované osoby konciliárně.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie usnesením určí poskytovatele zdravotních služeb, který lékařský posudek vydá.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "100. Ošetřující lékař, který zjistí, že pacient trpí nemocí, vadou nebo stavem, které vylučují nebo omezují zdravotní způsobilost, je podle zákona o zbraních a střelivu povinen:",
+    "answers": [
+      {
+        "body": "tuto skutečnost oznámit bez zbytečného odkladu policii, pokud je tento pacient držitelem oprávnění k nakládání se zbraněmi a střelivem.",
+        "right": true
+      },
+      {
+        "body": "neprodleně zrušit dřívější kladný lékařský posudek a vyzvat pacienta k odevzdání zbraní a střeliva, s nimiž nakládá, krajskému ředitelství policie, a to ve lhůtě 10 pracovních dnů ode dne zrušení dosavadního lékařského posudku.",
+        "right": false
+      },
+      {
+        "body": "tuto skutečnost oznámit policii v případě každého pacienta, a to i tehdy, pokud takový pacient není držitelem oprávnění k nakládání se zbraněmi a střelivem; policie tato oznámení uchovává za účelem preventivní kontroly budoucích uchazečů o vydání oprávnění k nakládání se zbraněmi a střelivem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "101. Ošetřující lékař, který zjistí, že pacient trpí nemocí, vadou nebo stavem, které vylučují nebo omezují zdravotní způsobilost, je podle zákona o zbraních a střelivu povinen:",
+    "answers": [
+      {
+        "body": "zjistit u registrujícího poskytovatele zdravotních služeb takového pacienta, zda je tento pacient držitelem zbraně nebo střeliva, a tuto informaci neprodleně předat krajskému ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "ověřit, zda je daný pacient držitelem oprávnění k nakládání se zbraněmi a střelivem, a to prostřednictvím kmenového registru pacientů nebo centrálního registru zbraní anebo dotazem u krajského ředitelství policie.",
+        "right": true
+      },
+      {
+        "body": "přivolat policii a do jejího příjezdu zamezit pacientovi v opuštění zdravotnického zařízení.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "111. Za spolehlivého se podle zákona o zbraních a střelivu nepovažuje ten:",
+    "answers": [
+      {
+        "body": "kdo byl v posledních 3 letech pravomocně uznán vinným ze spáchání přestupku nebo jednání, které má znaky takového přestupku, pokud jej je třeba s ohledem na povahu činu, jímž byl takový přestupek nebo jednání spáchán, považovat za vážné nebezpečí pro vnitřní pořádek nebo bezpečnost, a jde-li o přestupek proti veřejnému pořádku nebo občanskému soužití.",
+        "right": false
+      },
+      {
+        "body": "kdo byl v posledních 3 letech pravomocně uznán vinným ze spáchání více než 1 přestupku nebo jednání, které má znaky takového přestupku, pokud jej je třeba s ohledem na povahu činů, jimiž byly takové přestupky nebo jednání spáchány, považovat za vážné nebezpečí pro vnitřní pořádek nebo bezpečnost, a jde-li o přestupek na úseku nakládání se zbraněmi a střelivem.",
+        "right": true
+      },
+      {
+        "body": "není podle zákona o zbraních a střelivu považován za spolehlivého.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "114. Žadatel o vydání zbrojního oprávnění je povinen zkoušku odborné způsobilosti a komisionální zkoušku vykonat:",
+    "answers": [
+      {
+        "body": "způsobem umožňujícím dálkový přístup, zejména formou online testu; využití tlumočníka při vykonání teoretické se nepřipouští.",
+        "right": false
+      },
+      {
+        "body": "osobně; využití tlumočníka, podpůrce nebo obdobné osoby při vykonání teoretické nebo praktické části zkoušky odborné způsobilosti se nepřipouští.",
+        "right": true
+      },
+      {
+        "body": "osobně; využití tlumočníka při praktické části zkoušky odborné způsobilosti je v případě cizince, který spolehlivě neprokáže, že ovládá český jazyk, povinné.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "116. V teoretické části zkoušky odborné způsobilosti nebo komisionální zkoušky žadatel prokazuje znalosti:",
+    "answers": [
+      {
+        "body": "obecně závazných právních předpisů, metodických doporučení Ministerstva vnitra a Ministerstva obrany, kategorizačních rozhodnutí Českého úřadu pro zkoušení zbraní a střeliva, technických znalostí o zbraních a střelivu, historie jejich použití a ze zdravotnického minima.",
+        "right": false
+      },
+      {
+        "body": "právních předpisů z oblasti nakládání se zbraněmi a střelivem, ověřování střelných zbraní a střeliva, trestněprávních aspektů nakládání se zbraněmi a střelivem, nauky o zbraních a střelivu, zásad bezpečného nakládání se zbraněmi a střelivem a ze zdravotnického minima.",
+        "right": true
+      },
+      {
+        "body": "právních předpisů z oblasti nakládání se zbraněmi a střelivem, myslivosti, bezpečnostního materiálu, výbušnin a pyrotechnických výrobků, zásad konstrukce zbraní a střeliva, dodavatelsko-odběratelských vztazích v oblasti obranného průmyslu a ze zdravotnického minima.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "117. V praktické části zkoušky odborné způsobilosti nebo komisionální zkoušky žadatel:",
+    "answers": [
+      {
+        "body": "prokazuje znalosti, schopnosti a dovednosti v oblasti střelby, skrytého nošení zbraně a střeliva, čištění, oprav a úprav zbraně a skladování zbraně a střeliva.",
+        "right": false
+      },
+      {
+        "body": "prokazuje znalosti, schopnosti a dovednosti v oblasti postupů bezpečného nakládání se zbraněmi a střelivem, a to jak za standardních, tak i za ztížených podmínek (např. ve tmě nebo pouze slabou rukou).",
+        "right": false
+      },
+      {
+        "body": "prokazuje znalosti, schopnosti a dovednosti v oblasti postupů bezpečného nakládání se zbraněmi a střelivem a střelby na terč.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "118. Žadatel o obecné zbrojní oprávnění při zkoušce odborné způsobilosti nebo komisionální zkoušce prokáže, že je odborně způsobilý, pokud v praktické části zkoušky dosáhne:",
+    "answers": [
+      {
+        "body": "při střelbě na kruhový terč o průměru 500 mm na vzdálenost 10 m z 5 výstřelů krátkou kulovou zbraní a na vzdálenost 25 m z 5 výstřelů dlouhou kulovou zbraní v čase nejvýše 5 minut alespoň celkem 6 zásahů.",
+        "right": true
+      },
+      {
+        "body": "při střelbě na kruhový terč o průměru 500 mm na vzdálenost 10 m z 5 výstřelů krátkou kulovou zbraní a na kruhový terč o průměru 200 mm na vzdálenost 15 m z 5 výstřelů dlouhou kulovou zbraň v čase nejvýše 5 minut alespoň celkem 8 zásahů.",
+        "right": false
+      },
+      {
+        "body": "při střelbě na kruhový terč o průměru 500 mm na vzdálenost 10 m z 10 výstřelů krátkou kulovou zbraní v čase nejvýše 5 minut alespoň celkem 8 zásahů, přičemž nástřelné výstřely se do celkového hodnocení započítávají, pokud tak rozhodne zkušební komisař.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "119. Žadatel o rozšířené zbrojní oprávnění při zkoušce odborné způsobilosti nebo komisionální zkoušce prokáže, že je odborně způsobilý, pokud v praktické části zkoušky dosáhne:",
+    "answers": [
+      {
+        "body": "při střelbě na kruhový terč o průměru 500 mm na vzdálenost 5 m z 10 výstřelů krátkou kulovou zbraní a na vzdálenost 5 m z 25 výstřelů dlouhou kulovou zbraní v čase nejvýše 5 minut alespoň celkem 8 zásahů.",
+        "right": false
+      },
+      {
+        "body": "při střelbě na kruhový terč o průměru 500 mm na vzdálenost 10 m z 5 výstřelů krátkou kulovou zbraní a na vzdálenost 25 m z 5 výstřelů dlouhou kulovou zbraní v čase nejvýše 5 minut alespoň celkem 6 zásahů.",
+        "right": false
+      },
+      {
+        "body": "při střelbě na kruhový terč o průměru 500 mm na vzdálenost 10 m z 5 výstřelů krátkou kulovou zbraní a na vzdálenost 25 m z 5 výstřelů dlouhou kulovou zbraň v čase nejvýše 5 minut alespoň celkem 8 zásahů.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "120. Žadatel při zkoušce odborné způsobilosti nebo komisionální zkoušce prokáže, že je odborně způsobilý, pokud v praktické části zkoušky mimo jiné:",
+    "answers": [
+      {
+        "body": "reálně   při manipulaci se zbraní a se střelivem a při střelbě neohrozí bezpečnost osob; za reálné ohrožení se považuje pouze nebezpečná manipulace s zbraní včetně ostrého střeliva.",
+        "right": false
+      },
+      {
+        "body": "v předepsaném rozsahu prokáže teoretické znalosti postupů bezpečného nakládání se zbraní a střelivem.",
+        "right": false
+      },
+      {
+        "body": "neohrozí při manipulaci se zbraní a se střelivem a při střelbě nebo by v praxi neohrozil bezpečnost osob.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "124. Odvolání proti rozhodnutí o pozastavení zbrojního oprávnění nebo o odnětí zbrojního oprávnění:",
+    "answers": [
+      {
+        "body": "je třeba podat bez zbytečného odkladu u Ministerstva vnitra.",
+        "right": false
+      },
+      {
+        "body": "se nepřipouští.",
+        "right": false
+      },
+      {
+        "body": "nemá odkladný účinek.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "128. Pokud držitel zbrojního oprávnění přestane splňovat podmínku bezúhonnosti nebo spolehlivosti, krajské ředitelství policie zbrojní oprávnění:",
+    "answers": [
+      {
+        "body": "pozastaví.",
+        "right": false
+      },
+      {
+        "body": "zadrží.",
+        "right": false
+      },
+      {
+        "body": "odejme.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "129. Zbrojní oprávnění Policie České republiky neodejme z důvodu ztráty zdravotní způsobilosti jeho držitele, pokud:",
+    "answers": [
+      {
+        "body": "je držitel zbrojního oprávnění podle závěru lékařského posudku zdravotně nezpůsobilý k nakládání se zbraněmi a střelivem.",
+        "right": false
+      },
+      {
+        "body": "se držitel zbrojního oprávnění bez vážného důvodu ve lhůtě stanovené krajským ředitelstvím policie nedostaví k poskytovateli zdravotních služeb, kterého mu určí krajské ředitelství policie, nebo se takové lékařské prohlídce nepodrobí.",
+        "right": false
+      },
+      {
+        "body": "je držitel zbrojního oprávnění krajským ředitelstvím policie na základě veškerých dostupných informací shledán jako osoba požívající alkoholické nápoje.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "131. Zbrojní oprávnění podle zákona o zbraních a střelivu nezaniká dnem:",
+    "answers": [
+      {
+        "body": "odvolání souhlasu zákonného zástupce, opatrovníka nebo poručníka, spolku nebo střední školy s vydáním zbrojního oprávnění nezletilé osobě.",
+        "right": true
+      },
+      {
+        "body": "nabytí právní moci rozhodnutí o uložení ochranného léčení nebo zabezpečovací detence jeho držiteli.",
+        "right": false
+      },
+      {
+        "body": "smrti jeho držitele nebo nabytí právní moci rozhodnutí o prohlášení jeho držitele za mrtvého.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "133. Žadatel o vydání zbrojního oprávnění může odbornou způsobilost prokázat tak, že:",
+    "answers": [
+      {
+        "body": "do 12 měsíců ode dne, kdy je krajským ředitelstvím policie do centrálního registru zbraní zapsána skutečnost, že je oprávněn prokázat odbornou způsobilost, úspěšně složí zkoušku odborné způsobilosti, kterou je oprávněn jednou opakovat, nebo komisionální zkoušku.",
+        "right": true
+      },
+      {
+        "body": "ve lhůtě 12 měsíců přede dnem podání žádosti o vydání zbrojního oprávnění, úspěšně složí zkoušku odborné způsobilosti, kterou je oprávněn dvakrát opakovat, nebo komisionální zkoušku.",
+        "right": false
+      },
+      {
+        "body": "do 6 měsíců ode dne, kdy je krajským ředitelstvím policie do centrálního registru zbraní zapsána skutečnost, že je oprávněn prokázat odbornou způsobilost, úspěšně složí zkoušku odborné způsobilosti, kterou je oprávněn dvakrát opakovat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "134. Komisionální zkoušku může vykonat žadatel o vydání zbrojního oprávnění, který:",
+    "answers": [
+      {
+        "body": "neuspěl ani při opakované zkoušce odborné způsobilosti a uplatní námitku podjatosti zkušebního komisaře nebo nesrozumitelnosti testu.",
+        "right": false
+      },
+      {
+        "body": "neuspěl ani při opakované zkoušce odborné způsobilosti, pokud alespoň jednou uspěl v teoretické části zkoušky odborné způsobilosti.",
+        "right": true
+      },
+      {
+        "body": "nesložil zkoušku odborné způsobilosti nebo opakovanou zkoušku ve lhůtě 12 měsíců ode dne, kdy je krajským ředitelstvím policie do centrálního registru zbraní zapsána skutečnost, že je oprávněn prokázat odbornou způsobilost, přičemž komisionální zkoušku lze složit v dodatečné lhůtě 3 měsíců ode dne marného uplynutí předešlé dvanáctiměsíční lhůty.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "135. Odborná způsobilost žadatele o vydání zbrojního oprávnění se prokazuje:",
+    "answers": [
+      {
+        "body": "před zkušebním komisařem v případě zkoušky odborné způsobilosti a před tříčlennou zkušební komisí složenou ze zkušebních komisařů v případě komisionální zkoušky.",
+        "right": false
+      },
+      {
+        "body": "před zkušebním komisařem a zástupcem krajského ředitelství policie v případě zkoušky odborné způsobilosti a před tříčlennou zkušební komisí složenou ze zástupce krajského ředitelství policie, Policejního prezidia České republiky, Ministerstva vnitra, Ministerstva obrany a ze zkušebního komisaře v případě komisionální zkoušky.",
+        "right": false
+      },
+      {
+        "body": "před zkušebním komisařem v případě zkoušky odborné způsobilosti a před tříčlennou zkušební komisí složenou ze zástupce Ministerstva vnitra, Policejního prezidia Policie České republiky, Krajského ředitelství Policie České republiky a ze zkušebního komisaře v případě komisionální zkoušky.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "137. Dozor nad průběhem zkoušek vykonává:",
+    "answers": [
+      {
+        "body": "krajské ředitelství policie v případě zkoušek odborné způsobilosti a Český úřad pro zkoušení zbraní a střeliva v případě komisionálních zkoušek.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie v případě zkoušek odborné způsobilosti a Ministerstvo vnitra nebo Policejní prezidium České republiky v případě komisionálních zkoušek.",
+        "right": true
+      },
+      {
+        "body": "nad zkouškou odborné způsobilosti i nad komisionální zkouškou vykonávají dozor příslušníci Ministerstva vnitra.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "138. Krajské ředitelství policie pořizuje:",
+    "answers": [
+      {
+        "body": "obrazový a zvukový záznam o průběhu praktické části každé zkoušky odborné způsobilosti, který je součástí protokolu o vykonání dozoru.",
+        "right": true
+      },
+      {
+        "body": "zvukový záznam a fotografickou dokumentaci o průběhu celé zkoušky odborné způsobilosti, přičemž zvukový záznam slouží pro vyhodnocení případných bezpečnostních incidentů a fotografie jsou určeny pro prezentační účely.",
+        "right": false
+      },
+      {
+        "body": "obrazový a zvukový záznam z praktické části zkoušky za podmínky, že s pořízením takového záznamu souhlasí všichni žadatelé o vydání zbrojního oprávnění.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "141. Žadatel musí v protestu proti průběhu nebo výsledku zkoušky odborné způsobilosti:",
+    "answers": [
+      {
+        "body": "uvést osobní údaje zkušebního komisaře, jehož postupu se protest týká, důvod pochybení zkušební komisaře, které v průběhu nebo na výsledku zkoušky žadatel spatřuje, a to včetně odkazu na příslušné ustanovení zákona o zbraních a střelivu, k jehož porušení postupem zkušebního komisaře došlo.",
+        "right": false
+      },
+      {
+        "body": "uvést nedostatky, které v průběhu nebo na výsledku zkoušky spatřuje a na jejichž základě protest vznáší.",
+        "right": true
+      },
+      {
+        "body": "uvést místo a datum konání zkoušky odborné způsobilosti, které se protest týká, přičemž odůvodnění protestu lze doplnit dodatečně, a to ve lhůtě 10 pracovních dnů po ukončení zkoušky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "142. Krajské ředitelství policie, které provádí dozor nad průběhem zkoušky odborné způsobilosti, protest na místě přezkoumá z hlediska souladu průběhu zkoušky s tímto zákonem a právními předpisy vydanými k jeho provedení, a shledá-li jej důvodným:",
+    "answers": [
+      {
+        "body": "změní hodnocení zkoušky žadatele o vydání zbrojního oprávnění na „vyhověl“.",
+        "right": false
+      },
+      {
+        "body": "umožní žadateli o vydání zbrojního oprávnění absolvování komisionální zkoušky v prioritním termínu.",
+        "right": false
+      },
+      {
+        "body": "umožní žadateli o vydání zbrojního oprávnění opakování příslušné části zkoušky odborné způsobilosti.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "143. Náklady na zkoušku odborné způsobilosti hradí:",
+    "answers": [
+      {
+        "body": "žadatel.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie, pokud jde o odměnu zkušebního komisaře, a žadatel, pokud jde o náklady na využití zapsané zkouškové střelnice.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "146. Pro účely zkoušky odborné způsobilosti a komisionální zkoušky je materiály, pomůcky, zbraně a střelivo povinen zajistit:",
+    "answers": [
+      {
+        "body": "zkušební komisař, přičemž konkrétní značku a model ke každému typu zbraně, která se použije při praktické části zkoušky odborné způsobilosti nebo komisionální zkoušky, a to včetně uvedení typu mířidel a případných doplňků zbraně, je zkušební komisař povinen v lhůtě 14 dní před stanoveným termínem zkoušky odborné způsobilosti nebo komisionální zkoušky na požádání sdělit žadateli o vydání zbrojního oprávnění přihlášenému na daný termín zkoušky.",
+        "right": false
+      },
+      {
+        "body": "provozovatel zapsané zkouškové střelnice, přičemž konkrétní značku a model ke každému typu zbraně, která se použije při praktické části zkoušky odborné způsobilosti nebo komisionální zkoušky, a to včetně uvedení typu mířidel a případných doplňků zbraně, je provozovatel zapsané zkouškové střelnice povinen zveřejnit na svých internetových stránkách nejméně 14 dní před stanoveným termínem zkoušky odborné způsobilosti nebo komisionální zkoušky.",
+        "right": true
+      },
+      {
+        "body": "logistický útvar krajského ředitelství policie, přičemž seznam konkrétních značek a modelů jednotlivých typů zbraní, které se použijí při praktické části zkoušky odborné způsobilosti nebo komisionální zkoušky, a to včetně uvedení typu mířidel a případných doplňků zbraně, je stanoven v příloze nařízení vlády o provádění zkoušek podle zákona o zbraních a střelivu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "152. Příslušník Policie ČR, který je zařazen u organizačního článku krajského ředitelství policie nebo Policejního prezidia České republiky, který je věcně příslušný k plnění úkolů správního nebo kontrolního orgánu podle zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "musí vykonávat funkci zkušebního komisaře.",
+        "right": false
+      },
+      {
+        "body": "nesmí vykonávat funkci zkušebního komisaře.",
+        "right": true
+      },
+      {
+        "body": "může vykonávat funkci zkušebního komisaře jen v případě, udělí-li mu k tomu souhlas Ministerstvo vnitra.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "154. Ministerstvo vnitra odvolá zkušebního komisaře, který:",
+    "answers": [
+      {
+        "body": "opakovaně znemožňuje dosažení účelu zkoušky odborné způsobilosti nebo komisionální zkoušky.",
+        "right": true
+      },
+      {
+        "body": "se stane příslušníkem ozbrojeného bezpečnostního sboru nebo ozbrojených sil.",
+        "right": false
+      },
+      {
+        "body": "opakovaně v rámci hodnocení praktické části zkoušky odborné způsobilosti umožní úspěšné složení zkoušky odborné způsobilosti více než 75 % žadatelů o vydání zbrojního oprávnění přihlášených na daný termín zkoušky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "157. Zbrojní licence:",
+    "answers": [
+      {
+        "body": "opravňuje svého držitele – právnickou osobu nebo fyzickou podnikající osobu – k nakládání se zbraněmi podléhajícími registraci v rámci činnosti podnikatele v oblasti vývoje, výroby, opravách, nákupu, prodeji nebo přepravě zbraní a střeliva; pro nakládání se zbraněmi kategorie NO a střelivem kategorie S4 se v případě podnikatelů vyžaduje zapsaná autorizace.",
+        "right": false
+      },
+      {
+        "body": "opravňuje svého držitele – právnickou nebo fyzickou osobu – k nakládání se zbraněmi v oblasti vývoje, výroby, opravách, nákupu, prodeji nebo přepravě zbraní a střeliva; nakládá-li právnická osoba nebo fyzická podnikající osoba se zbraněmi nebo střelivem v rámci jiných typů činnosti, vydá krajské ředitelství policie namísto zbrojní licence podle typu dané činnosti hromadné zbrojní oprávnění nebo hromadný evropský zbrojní pas.",
+        "right": false
+      },
+      {
+        "body": "opravňuje svého držitele – právnickou osobu nebo fyzickou podnikající osobu – k nakládání se zbraněmi stanovených kategorií; pro činnost podnikatele v oblasti vývoje, výroby, opravách, nákupu, prodeji nebo přepravě zbraní a střeliva je zbrojní licence vyžadována vždy, a to i v případě zbraní kategorie NO a střeliva kategorie S4.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "158. Pro činnost podnikatele v oblasti vývoje, výroby, opravách, nákupu, prodeji nebo přepravě zbraní a střeliva se vyžaduje:",
+    "answers": [
+      {
+        "body": "zbrojní licence skupiny ZL1, nakládá-li takto podnikatel se zbraněmi podléhajícími registraci, příslušenstvím a doplňky pro takové zbraně anebo se střelivem kategorií S1 nebo S2 a vybavením určeným pro delaboraci nebo přebíjení střeliva.",
+        "right": false
+      },
+      {
+        "body": "zbrojní licence skupiny ZL1, nakládá-li takto podnikatel se zbraněmi podléhajícími registraci nebo kategorie PO anebo se střelivem kategorií S1, S2 nebo S3.",
+        "right": true
+      },
+      {
+        "body": "zbrojní licence skupiny ZL1 nebo ZL3.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "160. Pro činnost právnické osoby nebo podnikající fyzické osoby, při které se se zbraněmi nebo střelivem nakládá například v rámci provádění výcviku ve střelbě nebo podnikání v oblasti ostrahy se vyžaduje:",
+    "answers": [
+      {
+        "body": "zbrojní licence skupiny ZL2, pokud jde o provádění výcviku ve střelbě, a zbrojní licence skupiny ZL3, pokud jde o podnikání v oblasti ostrahy.",
+        "right": false
+      },
+      {
+        "body": "zbrojní oprávnění pro korporace a osoby samostatně výdělečné činné.",
+        "right": false
+      },
+      {
+        "body": "zbrojní licence skupiny ZL2 v případě, že se při takové činnosti nakládá se zbraněmi podléhajícími registraci nebo se zbraněmi kategorie PO, anebo zapsaná autorizace v případě, že se při takové činnosti nakládá pouze se zbraněmi kategorie PO.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "162. Rozlišují se zbrojní licence skupiny:",
+    "answers": [
+      {
+        "body": "ZL1, ZL2 a ZL3; pokud zákon nestanoví výslovně jinak, platí, že pro podnikatelskou činnost v oboru zbraní a střeliva postačuje zbrojní licence kterékoli skupiny.",
+        "right": false
+      },
+      {
+        "body": "ZL1, ZL2 a ZL3; pokud zákon nestanoví výslovně jinak, platí, že pro činnost, pro kterou se vyžaduje zbrojní licence, stačí zbrojní licence ZL1 nebo ZL2, naopak zbrojní licence skupiny ZL3 musí být pro danou činnost přímo vydána.",
+        "right": true
+      },
+      {
+        "body": "ZL1, ZL2, ZL3 a ZL-PO; pokud zákon nestanoví výslovně jinak, platí, že pro nakládání se zbraněmi kategorie R1 se vyžaduje zbrojní licence skupiny ZL1, pro nakládání se zbraněmi kategorie R2 nebo R3 zbrojní licence skupiny ZL2, pro nakládání se zbraněmi kategorie R3 nebo R4 zbrojní licence skupiny ZL3 a pro nakládání se zbraněmi kategorie PO nebo NO zbrojní licence skupiny ZL-PO.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "164. Zbrojní licence skupiny ZL1 neopravňuje právnickou osobu nebo podnikající fyzickou osobu k:",
+    "answers": [
+      {
+        "body": "přepravě nebo zajišťování dopravy zbraní nebo střeliva.",
+        "right": false
+      },
+      {
+        "body": "zprostředkování úschovy, skladování, vypůjčování, nákupu nebo prodeje zbraní nebo střeliva.",
+        "right": false
+      },
+      {
+        "body": "komerčnímu zajišťování výuky nebo výcviku v nakládání se zbraněmi a střelivem pro zájemce z řad střelecké veřejnosti.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "165. Pokud hodlá právnická osoba, například zapsaný spolek, zajišťovat činnost sportovně-střeleckého klubu a nakládat při tom se zbraněmi podléhajícími registraci, musí být s ohledem na zákon o zbraních a střelivu držitelem:",
+    "answers": [
+      {
+        "body": "povolení provozovat střelnici.",
+        "right": false
+      },
+      {
+        "body": "zbrojní licence skupiny ZL3.",
+        "right": false
+      },
+      {
+        "body": "zbrojní licence skupiny ZL2.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "168. Zbrojní licence skupiny ZL3 opravňuje svého držitele:",
+    "answers": [
+      {
+        "body": "provádět příležitostnou podnikatelskou činnost v oborou zbraní a střeliva nebo zajišťovat příležitostnou zprostředkovatelskou činnost v oblasti dovozu zbraní a střeliva pro klienty, kteří jsou držiteli zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "nakládat se zbraněmi a střelivem a provozovat střelnici, která však nesmí být komerční střelnicí.",
+        "right": false
+      },
+      {
+        "body": "jednorázově provést nebo za konkrétním účelem provádět činnost, pro kterou se jinak vyžaduje zbrojní licence skupiny ZL1 nebo ZL2; účelem vydání zbrojní licence skupiny ZL3 nesmí být podnikatelská činnost.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "169. Pro zbrojní licenci skupiny ZL3 platí, že:",
+    "answers": [
+      {
+        "body": "její držitel může být současně držitelem zbrojní licence skupiny ZL1.",
+        "right": false
+      },
+      {
+        "body": "její držitel je oprávněn jednorázově provést nebo za konkrétním účelem provádět činnost, pro kterou se jinak vyžaduje zbrojní licence skupiny ZL1 nebo ZL2.",
+        "right": true
+      },
+      {
+        "body": "účelem jejího vydání je podnikatelská činnost.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "171. Mezi podmínky pro vydání a držení zbrojní licence skupiny ZL1 nebo ZL2 nepatří:",
+    "answers": [
+      {
+        "body": "mít sídlo na území České republiky.",
+        "right": false
+      },
+      {
+        "body": "být vlastníkem alespoň jedné provozovny odpovídající povaze činnosti, která bude na jejím základě vykonávána.",
+        "right": true
+      },
+      {
+        "body": "být spolehlivý.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "173. Žadatel o vydání zbrojní licence skupiny ZL1 nebo ZL2 musí při podání žádosti doložit, že je:",
+    "answers": [
+      {
+        "body": "držitelem příslušných kategorizačních rozhodnutí Českého úřadu pro zkoušení zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "bezúhonným a spolehlivým subjektem, který dlouhodobě, nejméně však po dobu 3 let, při své činnosti, pro kterou žádá o vydání zbrojní licence, nakládá se zbraněmi podléhajícími registraci nebo se střelivem kategorie S1, S2 nebo S3.",
+        "right": false
+      },
+      {
+        "body": "oprávněn vykonávat podnikatelskou nebo jinou činnost, pro niž má být zbrojní licence vydána.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "174. Zbrojní licence skupiny ZL3 se vydává:",
+    "answers": [
+      {
+        "body": "bez omezení doby platnosti; platnost zbrojní licence skupiny ZL3 je vázána pouze na platnost zbrojního oprávnění jejího držitele.",
+        "right": false
+      },
+      {
+        "body": "na dobu 12 měsíců, přičemž ve lhůtě nejdéle 6 měsíců a nejpozději 2 měsíců před uplynutím doby, na kterou je zbrojní licence skupiny ZL3 vydána, může její držitel požádat o prodloužení, a to i opakovaně, avšak vždy pouze na dobu dalších 12 měsíců, které navazují na předchozí dobu platnosti zbrojní licence skupiny ZL3.",
+        "right": false
+      },
+      {
+        "body": "na přiměřenou dobu nezbytnou pro uskutečnění jejího účelu; to neplatí je-li účelem vydání zbrojní licence skupiny ZL3 sběratelská činnost.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "176. Krajské ředitelství policie může v rozhodnutí o vydání zbrojní licence skupiny ZL3:",
+    "answers": [
+      {
+        "body": "stanovit, že podnikatelská činnost, pro kterou je zbrojní licence skupiny ZL3 vydána, smí být provozována pouze v nahlášené provozovně.",
+        "right": false
+      },
+      {
+        "body": "stanovit pro činnost jejího držitele další podmínky, je-li to potřeba v zájmu ochrany vnitřního pořádku nebo bezpečnosti.",
+        "right": true
+      },
+      {
+        "body": "vyžadovat z důvodu ochrany vnitřního pořádku nebo bezpečnosti doložení bezúhonnosti a spolehlivosti také u osob, které s držitelem zbrojní licence skupiny ZL3 sdílejí společnou domácnost.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "178. Žadatel o vydání zbrojní licence prokazuje svou odbornou způsobilost:",
+    "answers": [
+      {
+        "body": "zkouškou odborné způsobilosti nebo komisionální zkouškou, kterou je povinen složit žadatel o vydání zbrojní licence, který je fyzickou osobou, nebo alespoň jeden člen statutárního orgánu žadatele o vydání zbrojní licence, který je právnickou osobou.",
+        "right": false
+      },
+      {
+        "body": "prostřednictvím odborně způsobilého odpovědného zástupce, který ustanoví hlavního zbrojíře a dohlíží na vyžadovanou odbornou úroveň jeho činnosti.",
+        "right": false
+      },
+      {
+        "body": "prostřednictvím odborně způsobilého hlavního zbrojíře.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "179. Hlavní zbrojíř držitele zbrojní licence skupiny ZL1 musí být držitelem:",
+    "answers": [
+      {
+        "body": "rozšířeného zbrojního oprávnění a má alespoň střední vzdělání s výučním listem v oboru zaměřeném na oblast zbraní nebo střeliva anebo alespoň 3 roky praxe zaměřené na nakládání se zbraněmi nebo střelivem.",
+        "right": true
+      },
+      {
+        "body": "alespoň obecného zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "zbrojního oprávnění a složit zkoušku odborné způsobilosti hlavního zbrojíře před zkušební komisí Ministerstva vnitra, přičemž doklad o odborné způsobilosti hlavního zbrojíře se vydává s platností 3 let.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "180. Hlavní zbrojíř držitele zbrojní licence skupiny ZL2 musí být držitelem:",
+    "answers": [
+      {
+        "body": "zbrojního oprávnění alespoň po dobu 3 let a musí splňovat požadavek minimálního věku 25 let.",
+        "right": false
+      },
+      {
+        "body": "zbrojního oprávnění alespoň po dobu 3 let, přičemž tuto dobu lze u držitele rozšířeného zbrojního oprávnění nahradit oborovým vzděláním nebo praxí stanovenou pro hlavního zbrojíře držitele zbrojní licence skupiny ZL1.",
+        "right": true
+      },
+      {
+        "body": "rozšířeného zbrojního oprávnění.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "183. Držitel zbrojní licence je povinen:",
+    "answers": [
+      {
+        "body": "zajistit dodržování svého vnitřního předpisu a zpřístupnit jej dalším osobám jeho zveřejněním na úřední desce obce.",
+        "right": false
+      },
+      {
+        "body": "oznámit krajskému ředitelství policie bez zbytečného odkladu ustanovení a ukončení výkonu hlavního zbrojíře.",
+        "right": true
+      },
+      {
+        "body": "nechat ověřit svůj vnitřní předpis znalcem zapsaným v seznamu znalců.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "184. Pokud držitel zbrojní licence vykonává svou činnost, při které nakládá se zbraněmi nebo střelivem, v obydlí:",
+    "answers": [
+      {
+        "body": "dopouští se takovým jednáním přestupku na úseku zbraní a střeliva, za který ve správním řízení hrozí uložení pokuty do výše 50 000 Kč.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie zbrojní licenci bez zbytečného odkladu odejme.",
+        "right": false
+      },
+      {
+        "body": "je povinen umožnit za účelem provedení kontroly své činnosti držitele zbrojní licence kontrolujícímu vstup do takového obydlí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "189. Pokud držitel zbrojní licence přeruší výkon činnosti, pro kterou byla zbrojní licence vydána:",
+    "answers": [
+      {
+        "body": "Ministerstvo vnitra může, vyžaduje-li to důležitý veřejný zájem, platnost zbrojní licence zrušit.",
+        "right": false
+      },
+      {
+        "body": "Policejní prezidium může zbrojní licenci odejmout.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie může z důvodu ochrany vnitřního pořádku nebo bezpečnosti zbrojní licenci pozastavit.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "190. Pro vydání rozhodnutí o pozastavení zbrojní licence platí, že:",
+    "answers": [
+      {
+        "body": "může být prvním úkonem v řízení a odvolání proti rozhodnutí o pozastavení zbrojní licence nemá odkladný účinek.",
+        "right": true
+      },
+      {
+        "body": "ke dni zveřejnění rozhodnutí o prohlášení konkursu v insolvenčním rejstříku, je-li dlužníkem v insolvenci držitel zbrojní licence, a to případně i zpětně k tomuto dni.",
+        "right": false
+      },
+      {
+        "body": "jestliže držitel zbrojní licence přestal splňovat některou z podmínek zbrojní licence.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "195. Zbrojní licence nezaniká dnem:",
+    "answers": [
+      {
+        "body": "nabytí právní moci rozhodnutí o odnětí zbrojního oprávnění hlavnímu zbrojíři držitele zbrojní licence.",
+        "right": true
+      },
+      {
+        "body": "nabytí právní moci rozhodnutí o odnětí zbrojní licence.",
+        "right": false
+      },
+      {
+        "body": "následujícím po dni, ve kterém se její držitel zbrojní licence vzdal.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "199. Je-li předmětem žádosti o vydání výjimky kategorie R1 zbraň zvláště účinná, která podléhá mezinárodním kontrolním režimům, může krajské ředitelství policie výjimku vydat pouze na základě závazného stanoviska:",
+    "answers": [
+      {
+        "body": "Ministerstva vnitra, které žádost posoudí z hlediska vnitřního pořádku a bezpečnosti České republiky.",
+        "right": false
+      },
+      {
+        "body": "Ministerstva obrany, které žádost posoudí z hlediska závazků České republiky podle mezinárodní smlouvy, která je součástí právního řádu, a z hlediska zájmů na zajišťování obrany České republiky.",
+        "right": true
+      },
+      {
+        "body": "Ministerstva zahraničních věcí, které žádost posoudí z hlediska zahraničně-politických zájmů České republiky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "200. Důvodem vydání výjimky kategorie R1 nebo S1 nemůže být:",
+    "answers": [
+      {
+        "body": "zabezpečení nebo ochrana kritické infrastruktury, objektů mimořádné důležitosti, objektů důležitých pro obranu státu, majetku mimořádné hodnoty nebo mimořádně nebezpečných nebo cenných zásilek.",
+        "right": false
+      },
+      {
+        "body": "nákup, prodej nebo vypůjčování zbraní nebo střeliva realizované držitelem zbrojní licence skupiny ZL1.",
+        "right": true
+      },
+      {
+        "body": "filmová nebo divadelní činnost nebo jiná kulturní činnost.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "202. Výjimku kategorie R2 nebo S2 krajské ředitelství policie vydá například z důvodu:",
+    "answers": [
+      {
+        "body": "ochrany života svého nebo i jiných osob v prostorech důležitých pro obranu státu; prostory důležitými pro obranu státu se rozumí objekty důležité pro obranu státu, objekty kritické infrastruktury a pohraniční oblasti České republiky do vzdálenosti 12 km od pozemní hranice České republiky.",
+        "right": false
+      },
+      {
+        "body": "ochrany života, zdraví nebo majetku v citlivých prostorách; citlivými prostorami jsou úřední prostory veřejných budov a veřejná prostranství, za citlivé prostory se naopak nepovažují soukromé prostory jako například obydlí.",
+        "right": false
+      },
+      {
+        "body": "ochrany života, zdraví nebo majetku v citlivých prostorách; citlivými prostorami jsou prostory, jejichž nedotknutelnost je zaručena jiným právním předpisem, nebo místa, kde se zpravidla nacházejí snadno zranitelné cíle.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "203. Výjimku kategorie R2 nebo S2 krajské ředitelství policie vydá z důvodu:",
+    "answers": [
+      {
+        "body": "ze kterého lze podle zákona o zbraních a střelivu vydat povolení kategorie R4.",
+        "right": false
+      },
+      {
+        "body": "ze kterého lze podle zákona o zbraních a střelivu vydat výjimku kategorie R1 nebo S1 a dále mj. též z důvodu spočívajícího v rekonstruování historických bitev nebo obdobných událostí.",
+        "right": true
+      },
+      {
+        "body": "ze kterého lze podle zákona o zbraních a střelivu vydat výjimku kategorie R3 nebo S3 a dále mj. též z důvodu spočívajícího v zajišťování zážitkových střeleb.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "204. Pro vydání výjimky kategorie R2 nebo S2 podle § 48 zákona o zbraních a střelivu platí, že:",
+    "answers": [
+      {
+        "body": "důvody pro její vydání mohou být také stejné jako důvody pro vydání výjimky kategorie R1 nebo S1.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie ji nemůže vydat držiteli zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "důvodem jejího vydání nemůže být rekonstruování historických bitev nebo obdobných událostí.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "205. Výjimku kategorie R2 pro sportovně-střeleckou činnost:",
+    "answers": [
+      {
+        "body": "lze vydat při splnění dalších podmínek stanovených zákonem o zbraních a střelivu, zejména pak musí být k žádosti přiloženo potvrzení držitele zbrojní licence, že žadatel u něj během posledních 12 měsíců opakovaně aktivně trénoval nebo se opakovaně účastnil soutěží ve střelbě a zbraň kategorie R2 uvedená v žádosti splňuje specifikace požadované pro mezinárodně uznanou střeleckou disciplínu, kterou se tento držitel zbrojní licence při své činnosti zabývá.",
+        "right": true
+      },
+      {
+        "body": "nelze vydat.",
+        "right": false
+      },
+      {
+        "body": "lze vydat za stejných podmínek jako v případě, že je žádost založena na důvodech, pro které lze vydat výjimku kategorie R1 nebo S1; žadatel musí pouze navíc doložit, že je držitelem zbrojního oprávnění (např. předložením zbrojního listu), neboť výjimku kategorie R2 lze na rozdíl od výjimky kategorie R1 nebo S1 vydat právě i držiteli zbrojního oprávnění.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "206. Výjimku pro nadlimitní zásobníky vydá krajské ředitelství žadateli:",
+    "answers": [
+      {
+        "body": "jako výjimku kategorie R2 nebo R3 pro nadlimitní zásobníky, a to podle kategorie zbraně, pro kterou je nadlimitní zásobník určen.",
+        "right": false
+      },
+      {
+        "body": "jako výjimku kategorie R2 pro nadlimitní zásobníky, a to za obdobních podmínek jako výjimku kategorie R1.",
+        "right": false
+      },
+      {
+        "body": "jako výjimku kategorie S2 pro nadlimitní zásobníky, a to za obdobných podmínek jako výjimku kategorie R2.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "209. Pro vydání povolení kategorie R3 platí, že:",
+    "answers": [
+      {
+        "body": "nemůže být vydáno z důvodu ochrany života, zdraví nebo majetku.",
+        "right": false
+      },
+      {
+        "body": "rozhodnutí o povolení se vydává pro všechny zbraně, se kterými držitel zbrojního oprávnění nebo zbrojní licence skupiny ZL2 nakládá, společně.",
+        "right": false
+      },
+      {
+        "body": "ho při splnění všech stanovených podmínek vydá na základě žádosti krajské ředitelství policie.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "210. Povolení kategorie R3 vydá držiteli zbrojního oprávnění nebo zbrojní licence skupiny ZL2 krajské ředitelství policie z důvodu:",
+    "answers": [
+      {
+        "body": "ze kterého lze podle zákona o zbraních a střelivu vydat výjimku kategorie R2 nebo S2; výčet těchto důvodů je idencký.",
+        "right": false
+      },
+      {
+        "body": "ze kterého lze vydat výjimku kategorie R1 nebo S1 a dále z důvodu ochrany života, zdraví nebo majetku nebo z důvodu spočívajícího v rekonstruování historických bitev nebo obdobných událostí, nebo sportovně-střelecké, lovecké nebo obdobné zájmové činnosti.",
+        "right": true
+      },
+      {
+        "body": "ze kterého lze podle zákona o zbraních a střelivu vydat výjimku kategorie R2 nebo S2, přičemž ale povolení kategorie R3 nelze vydat z důvodu spočívajícího ve sportovně-střelecké činnos.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "214. Krajské ředitelství policie výjimku nebo povolení odejme:",
+    "answers": [
+      {
+        "body": "pokud jejich držitel není na výzvu krajského ředitelství policie schopen spolehlivě doložit existenci důvodu, ze kterého byly výjimka nebo povolení vydány; v případě případů zvláštního zřetele hodných lze výjimku nebo povolení odejmout i zpětně.",
+        "right": false
+      },
+      {
+        "body": "pominul-li trvale důvod, pro který byly vydány; to neplatí, pokud byly výjimka nebo povolení vydány z důvodu ochrany života, zdraví nebo majetku.",
+        "right": true
+      },
+      {
+        "body": "pokud držitel zbrojního oprávnění nebo zbrojní licence pravidelně netrénuje střelbu nebo se neúčastní soutěží ve střelbě anebo pokud při těchto soutěžích dosahuje opakovaně pouze podprůměrných výsledků.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "217. Výjimka kategorie R1, S1, R2 nebo S2 anebo povolení kategorie R3 zaniká dnem:",
+    "answers": [
+      {
+        "body": "zániku zbrojního oprávnění nebo zbrojní licence držitele výjimky nebo povolení nebo nabytí právní moci rozhodnutí o odnětí takové výjimky nebo povolení.",
+        "right": true
+      },
+      {
+        "body": "uplynu 12 měsíců ode dne vydání výjimky nebo povolení.",
+        "right": false
+      },
+      {
+        "body": "zániku zbrojního oprávnění nebo zbrojní licence držitele výjimky nebo povolení anebo uplynum 12 měsíců ode dne vydání výjimky nebo povolení.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "219. Zapsaná autorizace:",
+    "answers": [
+      {
+        "body": "je povolením udělovaným autorizovaným instruktorům, kteří jsou oprávněni zajišťovat výuku a výcvik žadatelů o získání zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "je technickou autorizací, jejímž účelem je posouzení souladu zbraně kategorie PO  s požadavky na její výrobní provedení stanovenými nařízením vlády, před uvedením takové zbraně na trh; každá zapsaná autorizace podléhá nofikaci Evropské komisi.",
+        "right": false
+      },
+      {
+        "body": "opravňuje svého držitele k nakládání se zbraní kategorie PO a případně k dalším činnostem, stanoví-li tak zákon o zbraních a střelivu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "224. Zapsaná autorizace může být za zákonem stanovených podmínek vydána:",
+    "answers": [
+      {
+        "body": "fyzické s místem pobytu na území České republiky nebo právnické osobě se sídlem na území České republiky.",
+        "right": true
+      },
+      {
+        "body": "pouze fyzické osobě, která je občanem České republiky.",
+        "right": false
+      },
+      {
+        "body": "právnické osobě se sídlem na území kteréhokoli členského státu Evropské unie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "226. Krajské ředitelství policie odejme zapsanou autorizaci, pokud:",
+    "answers": [
+      {
+        "body": "její držitel přestane splňovat podmínku odborné způsobilos.",
+        "right": false
+      },
+      {
+        "body": "její držitel přestane splňovat podmínku spolehlivos.",
+        "right": false
+      },
+      {
+        "body": "se prokáže, že zdravotní stav jejího držitele by mohl v souvislosti s nakládáním se zbraní nebo střelivem představovat ohrožení života nebo zdraví.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "228. Osoba nakládající se zbraní a střelivem je podle zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "povinna střílet pouze na střelnici provozované podle zákona o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "oprávněna střílet mimo jiné na střelnici provozované podle zákona o zbraních a střelivu, není ale oprávněna střílet na střelnici provozované vyňatou veřejnoprávní instucí.",
+        "right": false
+      },
+      {
+        "body": "oprávněna střílet mimo jiné na střelnici provozované podle zákona o zbraních a střelivu nebo na střelnici provozované vyňatou veřejnoprávní institucí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "232. Na místě, kde je zajištěno, že nebude ohrožen život, zdraví, majetek nebo veřejný pořádek, je osoba nakládající se zbraní oprávněna střílet:",
+    "answers": [
+      {
+        "body": "ze zbraně, u které není úsťová energie střely vyšší než 50 J, nebo ze signální zbraně nebo jde-li o jinou než ostrou střelbu.",
+        "right": true
+      },
+      {
+        "body": "ze zbraně s nasazeným tlumičem hluku výstřelu.",
+        "right": false
+      },
+      {
+        "body": "poplašné nebo signalizační zbraně, u které je úsťová energie střely vyšší než 2 kJ, ale nižší než 20 kJ, nebo z plynové zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "234. Je pravda, že jiný zákon [např. zákon č. 449/2001 Sb., o myslivosti, ve znění pozdějších předpisů nebo zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů] může stanovit i jiné místo, na kterém je osoba nakládající se zbraní a střelivem oprávněna střílet?",
+    "answers": [
+      {
+        "body": "Ano.",
+        "right": true
+      },
+      {
+        "body": "Ano, ale pouze pokud se jedná o střelbu z jiné než palné zbraně.",
+        "right": false
+      },
+      {
+        "body": "Ne.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "239. Podle způsobu provozování se podle zákona o zbraních a střelivu střelnice rozlišují    na střelnice:",
+    "answers": [
+      {
+        "body": "komerční a nekomerční.",
+        "right": false
+      },
+      {
+        "body": "veřejné, na kterých se neprovádí evidence osob provádějících zde střelbu, a neveřejné, na kterých se provádí evidence osob provádějících zde střelbu, pokud jde o držitele zbrojního oprávnění, zapsané autorizace anebo oprávnění k provedení přeshraničního přemístění zbraně nebo střeliva.",
+        "right": false
+      },
+      {
+        "body": "příležitostné, které nejsou podle provozního řádu využívány častěji než 26 dnů v kalendářním roce, nebo stálé, kterými jsou střelnice, které nejsou příležitostnými střelnicemi.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "241. Podle konstrukce se podle zákona o zbraních a střelivu střelnice rozlišují na střelnice:",
+    "answers": [
+      {
+        "body": "kulové, na kterých je dovolena střelba z dlouhých kulových zbraní, a brokové, kterými jsou střelnice, které nejsou kulovými střelnicemi.",
+        "right": false
+      },
+      {
+        "body": "kryté, u nichž se celý ohrožený prostor nachází v uzavřeném objektu, který je konstruován tak, aby byl únik střel do okolního prostoru při dodržení provozního řádu vyloučen, nebo otevřené, kterými jsou střelnice, které nejsou krytými střelnicemi.",
+        "right": true
+      },
+      {
+        "body": "zapsané zkouškové střelnice, kterými jsou střelnice, jejichž provozovateli krajské ředitelství policie přizná právo provozovat střelnici jako zapsanou zkouškovou střelnici, a ostatní střelnice, které nejsou zapsanými zkouškovými střelnicemi.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "250. Mezi povinnosti provozovatele střelnice patří:",
+    "answers": [
+      {
+        "body": "zajist seznámení osob, které se budou nacházet v ochranném pásmu střelnice, s provozním řádem střelnice.",
+        "right": false
+      },
+      {
+        "body": "oznámit krajskému ředitelství policie bez zbytečného odkladu ustanovení a ukončení výkonu funkce každého správce střelnice.",
+        "right": true
+      },
+      {
+        "body": "zajist vedení evidenční knihy střelnice a její uchování nejméně po dobu 60 měsíců po skončení daného kalendářního roku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "252. Cizinec, který nemá místo pobytu na území České republiky a který se neprokáže oprávněním pro přeshraniční přemístění zbraně nebo střeliva:",
+    "answers": [
+      {
+        "body": "nemůže na střelnici provádět střelbu.",
+        "right": false
+      },
+      {
+        "body": "může na střelnici provádět střelbu pouze za přítomnos řídícího střelby, který ovládá mateřský jazyk cizince nebo jazyk, o kterém cizinec prohlásí, že ho ovládá.",
+        "right": false
+      },
+      {
+        "body": "může na střelnici provádět střelbu a je povinností provozovatele střelnice zajistit zápis této skutečnosti do centrálního registru zbraní v obdobném rozsahu jako do provozní knihy střelnice.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "255. Správce střelnice:",
+    "answers": [
+      {
+        "body": "v souladu s provozním řádem střelnice dohlíží na jeho dodržování a je oprávněn za účelem zajištění bezpečného nakládání se zbraněmi a střelivem udělovat osobám na střelnici pokyny.",
+        "right": true
+      },
+      {
+        "body": "v souladu se zákonem o zbraních a střelivu odpovídá za technickou správu fyzické infrastruktury střelnice.",
+        "right": false
+      },
+      {
+        "body": "v souladu se zákonem o zbraních a střelivu a případně s jiným právním předpisem dohlíží na osoby provádějící na střelnici střelbu a v případě uskutečňování střeleckých závodů na střelnici zajišťuje dodržování pravidel stanovených pro jednotlivé disciplíny schválených příslušnými mezinárodními sportovními federacemi.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "256. Vyberte správné tvrzení:",
+    "answers": [
+      {
+        "body": "Správce střelnice v souladu s provozním řádem střelnice dohlíží na dodržování provozního řádu střelnice.",
+        "right": true
+      },
+      {
+        "body": "Správce střelnice není oprávněn za účelem zajištění bezpečného nakládání se zbraněmi a střelivem udělovat osobám na střelnici pokyny.",
+        "right": false
+      },
+      {
+        "body": "Správce střelnice může i bez toho, aby tak stanovil provozní řád střelnice, určit řídícího střelby, který správci střelnice poskytuje součinnost při dohledu nad dodržováním provozního řádu střelnice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "259. Pokud se jako řídící střelby určuje konkrétní fyzická osoba v souladu se zákonem:",
+    "answers": [
+      {
+        "body": "musí být o jeho určení správcem střelnice vyrozuměno krajské ředitelství policie, a to elektronicky se zaručenou identou, jinak je určení řídícího střelby neplatné.",
+        "right": false
+      },
+      {
+        "body": "musí být o jeho určení vyhotoven písemný záznam, který podepíše správce střelnice a řídící střelby a ve kterém se vymezí rozsah úkolů řídícího střelby; není-li záznam vyhotoven, je určení řídícího střelby neplatné.",
+        "right": true
+      },
+      {
+        "body": "provede se zápis do provozního řádu střelnice, a to psacími potřebami umožňujícími nesmazatelný záznam; neprovede-li řídící střelby tento zápis do 10 pracovních dnů ode dne svého určení, může krajské ředitelství policie rozhodnout o pozastavení provozu střelnice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "263. Krajské ředitelství policie může z důvodu ochrany vnitřního pořádku nebo bezpečnosti povolení provozovat střelnici pozastavit mimo jiné na dobu, po kterou:",
+    "answers": [
+      {
+        "body": "je ohrožován život, zdraví nebo majetek jiné osoby z důvodu rozporu skutečného technického stavu střelnice s jejím provozním řádem nebo s technicko-organizačními požadavky, které stanoví příloha č. 3 k tomuto zákonu.",
+        "right": true
+      },
+      {
+        "body": "lze očekávat nižší vyženost střelnice s ohledem na roční období nebo denní dobu, a to i pokud s m provozovatel střelnice nevysloví souhlas.",
+        "right": false
+      },
+      {
+        "body": "není určen žádný řídící střelby.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "265. Krajské ředitelství policie povolení provozovat střelnici odejme, jestliže provozovatel střelnice:",
+    "answers": [
+      {
+        "body": "opakovaně neprokázal svou občanskou zachovalost a krajské ředitelství policie místním šetřením v místě, kde je střelnice provozována, prokáže závažné nedostatky v osobní pověs, které požívá provozovatel střelnice nebo osoby střelnici pravidelně navštěvující.",
+        "right": false
+      },
+      {
+        "body": "ani v přiměřené dodatečné lhůtě podle správního řádu neodstranil nedostatky žádos o povolení provozovat střelnici nebo došlo k odně práva provozovat střelnici jako zapsanou zkouškovou střelnici.",
+        "right": false
+      },
+      {
+        "body": "ani v přiměřené dodatečné lhůtě, kterou stanoví krajské ředitelství policie a která nesmí být kratší než 60 dnů, neodstraní nedostatky, které vedly k pozastavení povolení provozovat střelnici.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "268. Držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, který nabude zbraň podléhající registraci, je povinen:",
+    "answers": [
+      {
+        "body": "ohlásit tuto skutečnost krajskému ředitelství policie do 10 pracovních dnů ode dne uhrazení kupní ceny takové zbraně; v případě, že jej k tomu krajské ředitelství vyzve, má rovněž povinnost předložit tuto zbraň ke kontrole ráže.",
+        "right": false
+      },
+      {
+        "body": "ohlásit tuto skutečnost do 10 pracovních dnů ode dne, kdy s takovou zbraní začal nakládat, krajskému ředitelství policie a předložit mu tuto zbraň k prohlídce jejího označení a technického stavu.",
+        "right": true
+      },
+      {
+        "body": "ohlásit neprodleně krajskému ředitelství policie, že nabyl zbraň podléhající registraci, uvést kategorii této zbraně a označit osobu, od které zbraň nabyl; krajské ředitelství policie ověří u označené osoby údaje uvedené ohlašovatelem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "270. Držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2 je povinen ohlásit:",
+    "answers": [
+      {
+        "body": "nabi zbraně podléhající registraci, a to do 10 pracovních dnů ode dne, kdy byla zraň nabita.",
+        "right": false
+      },
+      {
+        "body": "nabytí zbraně podléhající registraci, a to do 10 pracovních dnů ode dne, kdy s takovou zbraní začal nakládat, krajskému ředitelství policie a předložit mu tuto zbraň k prohlídce.",
+        "right": true
+      },
+      {
+        "body": "nabi zbraně podléhající registraci, a to do 10 dnů ode dne, kdy s takovou zbraní začal nakládat, přičemž ale je povinen zbraň ve lhůtě 30 dnů ode dne provedení ohlášení opět vybít.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "272. Držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, který převedl registrovanou zbraň na jinou osobu, je povinen:",
+    "answers": [
+      {
+        "body": "ohlásit její převod Policejnímu prezidiu České republiky, a to do 10 pracovních dnů ode dne jeho uskutečnění.",
+        "right": false
+      },
+      {
+        "body": "ohlásit její převod krajskému ředitelství policie, a to do 10 kalendářních dnů ode dne jeho uskutečnění.",
+        "right": false
+      },
+      {
+        "body": "ohlásit její převod krajskému ředitelství policie, a to do 10 pracovních dnů ode dne jeho uskutečnění.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "274. Krajské ředitelství policie rozhodne o odmítnutí provést registraci zbraně podléhající registraci, pokud:",
+    "answers": [
+      {
+        "body": "její držitel věrohodně neprokáže právní tul naby takové zbraně do svého vlastnictví.",
+        "right": false
+      },
+      {
+        "body": "označení zbraně idenfikačními údaji neodpovídá požadavkům zákona o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "jde o zbraň, s níž její držitel není oprávněn nakládat; v takovém případě krajské ředitelství policie zbraň zadrží.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "275. Pokud držitel zbraně ohlásí nabytí zbraně podléhající registraci, se kterou není oprávněn nakládat:",
+    "answers": [
+      {
+        "body": "krajské ředitelství policie rozhodne o odmítnu provést registraci zbraně a zbraň znehodno.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie rozhodne o odmítnutí provést registraci zbraně a zbraň zadrží.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie provede registraci zbraně a zbraň převezme dočasně do úschovy.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "277. Krajské ředitelství policie zapíše do centrálního registru zbraní vedlejšího držitele",
+    "answers": [
+      {
+        "body": "na žádost hlavního držitele, a to ke zbrani podléhající registraci, se kterou jako hlavní držitel nakládá.",
+        "right": true
+      },
+      {
+        "body": "vždy, pokud jde o zbraň ve spoluvlastnictví; vedlejšími držiteli jsou všichni spoluvlastníci, a to podle velikos podílu na vlastnictví zbraně.",
+        "right": false
+      },
+      {
+        "body": "na návrh osoby, která má být jako vedlejší osoba zapsána a která v době návrhu se dotčenou zbraní nakládá.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "279. Jako vedlejší držitel zbraně může být do centrálního registru zbraní zapsána osoba, která:",
+    "answers": [
+      {
+        "body": "nabyla vlastnictví k této zbrani, ohlásila její naby krajskému ředitelství policie ve lhůtě 10 pracovních dnů ode dne jejího naby a předložila tuto zbraň k prohlídce jejího označení a technického stavu.",
+        "right": false
+      },
+      {
+        "body": "je držitelem zapsané autorizace a podle zákona o zbraních a střelivu nebo jiného právního předpisu má povinnost své zapsání jako vedlejšího držitele zbraně strpět.",
+        "right": false
+      },
+      {
+        "body": "je oprávněna v souladu se zákonem o zbraních a střelivu s danou zbraní nakládat a se svým zapsáním souhlasí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "281. Jako vedlejší držitel zbraně kategorie R3 může být zapsán:",
+    "answers": [
+      {
+        "body": "žadatel o vydání zbrojního oprávnění; po vydání zbrojního oprávnění je taková osoba oprávněna požádat o změnu zápisu v centrálním registru tak, aby se stala hlavním držitelem zbraně kategorie R3, se kterou jako vedlejší držitel nakládá.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2 nebo ZL3, a to za podmínky, že je takový držitel zbrojního oprávnění nebo zbrojní licence držitelem povolení kategorie R3.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2 nebo ZL3; osoba, která má být zapsána jako vedlejší držitel zbraně kategorie R3, nemusí být držitelem povolení kategorie R3, neboť nedochází k přechodu vlastnictví dané zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "282. Pokud bylo vedlejšímu držiteli zbraně pozastaveno zbrojní oprávnění nebo mu zbrojní oprávnění zaniklo:",
+    "answers": [
+      {
+        "body": "krajské ředitelství policie bez zbytečného odkladu o této skutečnosti uvědomí hlavního držitele zbraně.",
+        "right": true
+      },
+      {
+        "body": "je vedlejší držitel zbraně povinen o tom informovat hlavního držitele zbraně.",
+        "right": false
+      },
+      {
+        "body": "je hlavní držitel zbraně povinen krajskému ředitelství policie navrhnout provedení výmazu zápisu takového vedlejšího držitele zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "287. Držitel zbraně kategorie PO, který tuto zbraň převedl na jinou osobu, je povinen:",
+    "answers": [
+      {
+        "body": "ohlásit její převod kterémukoli útvaru policie, a to neprodleně.",
+        "right": false
+      },
+      {
+        "body": "ohlásit její převod krajskému ředitelství policie, a to do 10 pracovních dnů ode dne jeho uskutečnění.",
+        "right": true
+      },
+      {
+        "body": "ohlásit její převod krajskému ředitelství policie, a to do 20 dnů ode dne vydání zapsané autorizace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "288. Pokud držitel zbraně ohlásí nabytí zbraně kategorie PO, se kterou není oprávněn nakládat:",
+    "answers": [
+      {
+        "body": "krajské ředitelství policie zápis změny stavu zbraně do centrálního registru zbraní neprovede a zbraň zadrží.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie provede zápis změny stavu zbraně do centrálního registru zbraní a zbraň převezme dočasně do úschovy.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie zápis změny stavu zbraně do centrálního registru zbraní neprovede a zbraň znehodno.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "289. Pokud držitel zbrojního oprávnění, který je hlavním držitelem zbraně podléhající registraci, předá tuto zbraň dočasně držiteli zbrojní licence skupiny ZL1, například k opravě nebo do úschovy:",
+    "answers": [
+      {
+        "body": "ohlašovací povinnost držiteli zbrojního oprávnění vůči krajskému ředitelství policie nevzniká, neboť se nejedná o převod zbraně.",
+        "right": true
+      },
+      {
+        "body": "je povinen ohlásit toto předání krajskému ředitelství policie, a to do 10 pracovních dnů ode dne tohoto předání.",
+        "right": false
+      },
+      {
+        "body": "je povinen ohlásit krajskému ředitelství policie a vedlejšímu držiteli toto předání; tato povinnost nevzniká, je-li zbraň držiteli zbrojní licence skupiny ZL1 předána na dobu kratší než 30 dnů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "290. Povinnost ohlásit převod zbraně podléhající registraci nebo zbraně kategorie PO do 10 pracovních dnů se netýká zbraně:",
+    "answers": [
+      {
+        "body": "kterou nabyla k tomu oprávněná osoba, která tuto zbraň do 10 pracovních dnů ode dne, kdy s ní začala nakládat, v souladu s rozhodnum Policejního prezidia dočasně přeshraničně přemís mimo území České republiky.",
+        "right": false
+      },
+      {
+        "body": "kterou nabyla k tomu oprávněná osoba, která tuto zbraň do 10 kalendářních dnů ode dne, kdy s ní začala nakládat, přemís po území České republiky.",
+        "right": false
+      },
+      {
+        "body": "kterou nabyla k tomu oprávněná osoba, která tuto zbraň do 10 pracovních dnů ode dne, kdy s ní začala nakládat, v souladu s jiným právním předpisem trvale přeshraničně přemístí mimo území České republiky.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "291. Vyberte správné tvrzení.",
+    "answers": [
+      {
+        "body": "Povinnost ohlásit převod zbraně se netýká pouze přenechání zbraně podléhající registraci nebo zbraně kategorie PO v souladu se zákonem o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "Povinnost ohlásit převod zbraně se netýká pouze svěření zbraně podléhající registraci nebo zbraně kategorie PO v souladu se zákonem o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "Povinnost ohlásit převod zbraně se netýká ani přenechání ani svěření zbraně podléhající registraci nebo zbraně kategorie PO v souladu se zákonem o zbraních a střelivu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "293. Držitel zbrojní licence bez zbytečného odkladu zapíše do centrálního registru zbraní každou osobu:",
+    "answers": [
+      {
+        "body": "které svěřil zbraň podléhající registraci.",
+        "right": false
+      },
+      {
+        "body": "která se v rámci jeho činnosti podílí na nakládání se zbraněmi podléhajícími registraci, zbraněmi kategorie PO nebo střelivem kategorie S1, S2 nebo S3; krajské ředitelství policie bez zbytečného odkladu uvědomí držitele zbrojní licence o skutečnosti, že osobě, kterou zapsal do centrálního registru zbraní, bylo zbrojní oprávnění pozastaveno nebo jí zaniklo.",
+        "right": true
+      },
+      {
+        "body": "která je vůči němu v základním pracovněprávním vztahu; krajské ředitelství policie bez zbytečného odkladu uvědomí držitele zbrojní licence o skutečnos, že osobě, kterou zapsal do centrálního registru zbraní, bylo zbrojní oprávnění pozastaveno nebo jí zaniklo.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "296. Pokud osobě, která se v rámci činnosti držitele zbrojní licence podílí na nakládání se zbraněmi podléhajícími registraci nebo zbraněmi kategorie PO nebo střelivem kategorie S1, S2 nebo S3, bylo zbrojní oprávnění pozastaveno nebo jí zaniklo:",
+    "answers": [
+      {
+        "body": "krajské ředitelství policie o tom bez zbytečného odkladu uvědomí držitele zbrojní licence.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojní licence o tom bez zbytečného odkladu uvědomí krajské ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "tato osoba o tom bez zbytečného odkladu uvědomí živnostenský úřad.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "298. Držitel zbrojní licence vede evidenční soupis:",
+    "answers": [
+      {
+        "body": "zbraní kategorie PO a součás zbraně umožňujících samočinnou střelbu.",
+        "right": false
+      },
+      {
+        "body": "zbraní kategorie NO, součás zbraně umožňujících střelbu a neregulovaných součás zbraně, se kterými nakládá.",
+        "right": false
+      },
+      {
+        "body": "palných zbraní kategorie NO, součástí zbraně umožňujících samočinnou střelbu a polotovarů hlavních částí zbraní podléhajících registraci, se kterými nakládá.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "299. Vyberte správné tvrzení.",
+    "answers": [
+      {
+        "body": "Držitel zbrojní licence musí zajistit, aby evidenční soupis obsahoval mimo jiné aktuální údaje identifikující každou palnou zbraň kategorie NO.",
+        "right": true
+      },
+      {
+        "body": "Držitel zbrojní licence musí zajist, aby evidenční soupis obsahoval mimo jiné aktuální údaje o druhu a ověření regulovaných součás zbraně.",
+        "right": false
+      },
+      {
+        "body": "Držitel zbrojní licence není povinen zajist, aby údaje z evidenčního soupisu byly dostupné pro potřeby provedení kontroly.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "301. Držitel zbrojní licence skupiny ZL1 je povinen do centrálního registru zbraní zapisovat údaje:",
+    "answers": [
+      {
+        "body": "o záznamech v evidenčních knihách, ve kterých vede údaje o zbraních a střelivu podléhajících registraci, se kterými nakládá, a o účetních dokladech týkajících se těchto zbraní.",
+        "right": false
+      },
+      {
+        "body": "pokud, do něj má zřízen přístup; přístup do centrálního registru zbraní musí mít zřízen držitel zbrojní licence skupiny ZL1, který má roční obrat vyšší než 1 milion Kč.",
+        "right": false
+      },
+      {
+        "body": "o zbraních podléhajících registraci, zbraních kategorie PO a střelivu, s nimiž nakládá.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "303. Držitel zbrojní licence skupiny ZL1 je povinen zapsat do centrálního registru zbraní každou změnu stavu evidované zbraně nebo střeliva, a to v rozsahu stanoveném zákonem:",
+    "answers": [
+      {
+        "body": "do 10 pracovních dnů ode dne, ve kterém ke změně stavu evidované zbraně nebo střeliva došlo.",
+        "right": false
+      },
+      {
+        "body": "nejpozději před předáním a bez zbytečného odkladu po převzetí zbraně nebo střeliva a v mimořádných odůvodněných případech pak nejdéle do 2 pracovních dnů ode dne, kdy byly zbraň nebo střelivo převzaty.",
+        "right": true
+      },
+      {
+        "body": "do 10 pracovních dnů ode dne předání zbraně nebo střeliva držiteli zbrojního oprávnění nebo převze zbraně nebo střeliva od držitele zbrojního oprávnění, a do 2 pracovních dnů ode dne, kdy byly zbraň nebo střelivo převzaty v ostatních případech.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "304. Přenecháním zbraně nebo střeliva je pro účely zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "dočasné umožnění jiné osobě samostatně nakládat se zbraní nebo střelivem osoby, která je přenechává; ten, komu byly zbraň nebo střelivo přenechány, je nesmí sám přenechat jiné osobě.",
+        "right": true
+      },
+      {
+        "body": "svěření zbraně držiteli zbrojního oprávnění nebo zbrojní licence skupiny ZL2 nebo ZL3.",
+        "right": false
+      },
+      {
+        "body": "časový úsek od okamžiku převodu zbraně jinému oprávněnému držiteli do okamžiku, kdy převodce i nabyvatel zbraně provedou ohlášení převodu a naby zbraně krajskému ředitelství policie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "305. Přenecháním zbraně nebo střeliva je pro účely zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "dočasné umožnění jiné osobě samostatně nakládat se zbraní nebo střelivem osoby, která je přenechává.",
+        "right": true
+      },
+      {
+        "body": "trvalé umožnění jiné osobě samostatně nakládat se zbraní nebo střelivem osoby, která je přenechává.",
+        "right": false
+      },
+      {
+        "body": "dočasné umožnění jiné osobě pod dohledem nakládat se zbraní nebo střelivem osoby, která je přenechává.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "306. Osoba, které byly zbraň nebo střelivo přenechány podle § 78 odst. 1 zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "je může sama přenechat jiné osobě.",
+        "right": false
+      },
+      {
+        "body": "je může sama přenechat jiné osobě, ale musí si dodatečně opatřit souhlas osoby, která jí je přenechala.",
+        "right": false
+      },
+      {
+        "body": "je nesmí sama přenechat jiné osobě.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "308. Držiteli zbrojního oprávnění, nejde-li o přenechání zbraně podle odstavce 2, nebo držiteli zbrojní licence skupiny ZL2 může být zbraň podléhající registraci přenechána, pokud jde o:",
+    "answers": [
+      {
+        "body": "hlavního držitele zbraně, přenechání zbraně držitelem zbrojního oprávnění nebo zbrojní licence za účelem návštěvy střelnice nebo přenechání zbraně kategorie R2, R3 nebo R4 na dobu nejvýše 30 dnů po sobě jdoucích.",
+        "right": false
+      },
+      {
+        "body": "vedlejšího držitele zbraně, přenechání zbraně kategorie R2, R3 nebo R4 držitelem zbrojní licence na střelnici, nebo přenechání zbraně kategorie R4 vždy na dobu nejvýše 30 dnů po sobě jdoucích.",
+        "right": true
+      },
+      {
+        "body": "vedlejšího držitele zbraně, zbraň mu však musí být přenechána bez střeliva; střelivo je povinen si obstarat držitel zbrojního oprávnění nebo zbrojní licence, kterému byla zbraň přenechána, a to vlastním jménem a na vlastní odpovědnost.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "312. Vyberte správné tvrzení.",
+    "answers": [
+      {
+        "body": "Zbraň kategorie PO nebo NO a střelivo pro takovou zbraň lze přenechat osobě, která je oprávněna s nimi nakládat, nebo svéprávné fyzické osobě starší 15 let.",
+        "right": false
+      },
+      {
+        "body": "Držitel zbraně kategorie PO nebo NO nesmí takovou zbraň nebo střelivo pro takovou zbraň přenechat osobě, o které nezná údaje potřebné k určení její totožnosti.",
+        "right": true
+      },
+      {
+        "body": "Paintballovou a airsoovou zbraň nebo jinou expanzní zbraň kategorie NO lze přenechat osobě, která dosáhla věku 10 let; s přenecháním takové zbraně této osobě musí udělit souhlas její zákonný zástupce, opatrovník nebo poručník.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "315. Svěřením zbraně nebo střeliva je pro účely zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "umožnění jiné fyzické osobě nakládat se svěřenou zbraní nebo střelivem bez dohledu jiné osoby.",
+        "right": false
+      },
+      {
+        "body": "umožnění jiné fyzické osobě nakládat se svěřenou zbraní nebo střelivem pod dohledem osoby oprávněné se svěřovanou zbraní a střelivem nakládat.",
+        "right": true
+      },
+      {
+        "body": "umožnění právnické osobě nakládat s přenechanou zbraní nebo střelivem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "316. Zbraň kategorie R1 nebo střelivo kategorie S1 lze svěřit:",
+    "answers": [
+      {
+        "body": "plně svéprávné zlelé fyzické osobě, na kterou při nakládání se zbraní kategorie R1 nebo střelivem kategorie S1 v rámci zážitkové střelby musí dohlížet držitel rozšířeného zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "pouze držiteli zbrojního oprávnění, který je k držiteli zbrojní licence v pracovním, členském nebo obdobném vztahu, nebo který je držitelem zbrojní licence.",
+        "right": false
+      },
+      {
+        "body": "po předchozím poučení a případném jiném nezbytném zaškolení držiteli zbrojního oprávnění, nebo jiné plně svéprávné zletilé fyzické osobě, a to při činnosti držitele zbrojní licence; účelem svěření nesmí být zážitková střelba.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "317. Není pravda, že:",
+    "answers": [
+      {
+        "body": "zbraň kategorie R1 nebo střelivo kategorie S1 lze při splnění dalších podmínek podle zákona o zbraních svěřit jiné osobě po předchozím poučení a případném jiném nezbytném zaškolení.",
+        "right": false
+      },
+      {
+        "body": "zbraň kategorie R1 nebo střelivo kategorie S1 lze svěřit držiteli zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "zbraň kategorie R1 nebo střelivo kategorie S1 lze svěřit jiné fyzické osobě starší 21 let, a to při činnosti držitele zbrojní licence za účelem provedení zážitkové střelby.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "319. Pokud je zbraň kategorie R2, R3 nebo R4 a střelivo pro takovou zbraň svěřována fyzické osobě, která je mladší 18 let a není držitelem zbrojního oprávnění:",
+    "answers": [
+      {
+        "body": "může jít o osobu ve věku 16 let nebo starší, nad kterou musí dohlížet držitel rozšířeného zbrojního oprávnění, který dosáhl věku alespoň 25 let.",
+        "right": false
+      },
+      {
+        "body": "musí jít o přiměřeně rozumově a tělesně vyspělou osobu a dohled nad takovou osobou musí zajišťovat fyzická osoba, která dosáhla věku 21 let a je držitelem zbrojního oprávnění po dobu delší než 3 roky.",
+        "right": true
+      },
+      {
+        "body": "musí nad ní být zajištěn dohled držitele zbrojního oprávnění pouze tehdy, pokud současně nakládá se zbraní kategorie R2, R3 nebo R4 a s odpovídajícím střelivem nebo provádí-li střelbu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "321. Ten, kdo dohlíží na osobu, které byla svěřena zbraň nebo střelivo, je povinen:",
+    "answers": [
+      {
+        "body": "bezodkladně oznámit krajskému ředitelství policie porušení povinnos nebo zákazu stanoveného zákonem o zbraních a střelivu osobou, které byly zbraň  a střelivo svěřeny.",
+        "right": false
+      },
+      {
+        "body": "oznámit údaje o svěření zbraně nebo střeliva krajskému ředitelství policie prostřednictvím zápisu do evidenčního soupisu vedeného držitelem zbrojního oprávnění nebo zbrojní licence.",
+        "right": false
+      },
+      {
+        "body": "poučit tuto osobu o bezpečném nakládání se svěřenou zbraní a střelivem  a provádět dohled v potřebném rozsahu tak, aby osoba, které byly zbraň a střelivo svěřeny, neporušila povinnost nebo zákaz stanovený zákonem o zbraních a střelivu a zejména neohrozila život nebo zdraví.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "324. Vyberte správné tvrzení:",
+    "answers": [
+      {
+        "body": "obecně platí, že zbraň musí být nošena skrytě; to neplatí v případech stanovených v zákoně o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "obecně pla, že zbraň může být nošena viditelně.",
+        "right": false
+      },
+      {
+        "body": "zbraň musí být nošena skrytě; místa, na kterých je možné nosit zbraň viditelně, stanoví v rozhodnu krajské ředitelství policie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "331. Pro veřejné vystavování zbraní a střeliva neplatí, že:",
+    "answers": [
+      {
+        "body": "je možné jej realizovat za obdobných podmínek jako viditelné nošení zbraně.",
+        "right": false
+      },
+      {
+        "body": "jeho účelem může být účast na specializovaných veletrzích, výstavách  a předváděcích akcích za účelem uvádění zbraní nebo střeliva na trh.",
+        "right": false
+      },
+      {
+        "body": "není povinností osoby, která zbraně nebo střelivo veřejně vystavuje, zajistit zabezpečení vystavovaných zbraní nebo střeliva proti zneužití, ztrátě nebo odcizení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "333. Osoba, která nakládá se zbraní nebo střelivem, je povinna zbraně a střelivo, které ukládá mimo svou bezprostřední kontrolu:",
+    "answers": [
+      {
+        "body": "uložit u držitele zbrojní licence skupiny ZL1 nebo předat krajskému ředitelství policie do úschovy.",
+        "right": false
+      },
+      {
+        "body": "zabezpečit ve spolupráci s policií tak, aby bylo vyloučeno, že ke zbrani získá přístup kdokoli jiný než její hlavní držitel.",
+        "right": false
+      },
+      {
+        "body": "zabezpečit s ohledem na jejich povahu a místní podmínky tak, aby bylo zabráněno jejich zneužití, ztrátě, odcizení nebo zašantročení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "334. Podle zákona o zbraních a střelivu platí obecně pro zabezpečení zbraní a střeliva, že:",
+    "answers": [
+      {
+        "body": "povinnost zabezpečit zbraně nebo střelivo má osoba, která s nimi nakládá.",
+        "right": true
+      },
+      {
+        "body": "zbraně nebo střelivo musí být uloženy pod bezprostřední kontrolou osoby, která s nimi nakládá.",
+        "right": false
+      },
+      {
+        "body": "se týká pouze zbraní podléhajících registraci.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "335. Pro zabezpečení uložených zbraní nebo střeliva obecně platí, že je třeba je zabezpečit:",
+    "answers": [
+      {
+        "body": "tak, aby nebylo možné zjist místo jejich uložení.",
+        "right": false
+      },
+      {
+        "body": "s ohledem na jejich povahu a místní podmínky tak, aby bylo zabráněno jejich zneužití, ztrátě, odcizení nebo zašantročení.",
+        "right": true
+      },
+      {
+        "body": "v souladu s pokyny stanovenými pro zabezpečení výrobcem zbraně nebo střeliva.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "336. Pro zabezpečení zbraní podléhajících registraci platí, že:",
+    "answers": [
+      {
+        "body": "se zabezpečují s ohledem na počet současně ukládaných zbraní, přičemž současně ukládanými zbraněmi se rozumí například zbraně ukládané současně v jedné ocelové schránce, uzamčené ocelové skříni nebo trezor, jejichž technické parametry stanovuje vláda nařízením, ale nikoli celkový počet zbraní, se kterými daná osoba celkově nakládá.",
+        "right": true
+      },
+      {
+        "body": "více než 10 kusů zbraní se zabezpečuje uložením do uzamčené ocelové schránky nebo skříně.",
+        "right": false
+      },
+      {
+        "body": "osoba, která s nimi nakládá, může současně uložit nejvýše 20 kusů zbraní.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "337. Držitel zbrojního oprávnění ukládá celkem 14 kusů zbraní podléhajících registraci, z toho 8 kusů krátkých samonabíjecích palných zbraní a 6 kusů dlouhých opakovacích palných zbraní. Vyberte, který způsob zabezpečení uložených zbraní splňuje požadavky stanovené zákonem o zbraních.",
+    "answers": [
+      {
+        "body": "společné uložení všech 14 kusů zbraní do uzamčené ocelové skříně, která splňuje technické požadavky stanovené nařízením vlády.",
+        "right": false
+      },
+      {
+        "body": "vhodný způsob zabezpečení všech 14 kusů zbraní s ohledem na dostupné možnos zabezpečení v místě uložení zbraní, tedy například uzamčení v dostatečně robustní šatní skříni z masivního dřeva.",
+        "right": false
+      },
+      {
+        "body": "rozdělení zbraní v počtu 8 a 6 kusů a jejich uložení ve 2 uzamčených ocelových schránkách, které splňují technické požadavky stanovené nařízením vlády.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "338. Uložené zbraně podléhající registraci a střelivo kategorie S1, S2 nebo S3 se zabezpečují:",
+    "answers": [
+      {
+        "body": "v trezorech a sejfech schválených policií k zabezpečování zbraní, střeliva nebo munice podle Českých technických norem (ČSN).",
+        "right": false
+      },
+      {
+        "body": "s ohledem na počet současně ukládaných zbraní nebo současně ukládaných nábojů, a to uložením ve zákonem stanovených ocelových schránkách, uzamčených ocelových skříních, trezorech, uzamčených místnostech a jiných objektech nebo zařízeních, jejichž technické parametry stanovuje vláda nařízením.",
+        "right": true
+      },
+      {
+        "body": "s ohledem na kategorii zbraní podléhajících registraci a jejich funkci, a to tak, že samočinné zbraně kategorie R1 není dovoleno ukládat společně se zbraněmi ostatních kategorií, a zbraně podléhající registraci není dovoleno ukládat společně se zbraněmi kategorie PO nebo NO; obdobný princip se uplatní rovněž pro ukládání střeliva jednotlivých kategorií.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "339. Více než 20 kusů současně ukládaných zbraní podléhajících registraci:",
+    "answers": [
+      {
+        "body": "není podle zákona o zbraních a střelivu možné.",
+        "right": false
+      },
+      {
+        "body": "se zabezpečí uložením v uzamčeném skříňovém trezoru, který splňuje technické požadavky stanovené nařízením vlády.",
+        "right": false
+      },
+      {
+        "body": "se zabezpečí uložením v uzamčeném komorovém trezoru, který je chráněn elektronickým zabezpečovacím zařízením.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "341. Osoba, která současně nenakládá s více než celkem 2 zbraněmi kategorie R2, R3 nebo R4 nebo více než celkem 1000 náboji kategorie S2 nebo S3:",
+    "answers": [
+      {
+        "body": "je oprávněna takové zbraně nebo střelivo zabezpečovat stejným technickým způsobem, jaký zákon o zbraních a střelivu a nařízení vlády stanovuje pro zbraně kategorie PO a NO, tedy například uložením v uzamčené celoocelové schráně se stěnou o tloušťce minimálně 1,5 mm a vybavené zámkem s vysokou bezpečnos zařazeným do třídy A nebo vyšší třídy podle technické normy ČSN EN 1300.",
+        "right": false
+      },
+      {
+        "body": "je může zabezpečovat také uložením ve vozidle, přičemž ale souvislá doba uložení nesmí přesáhnout 2 týdny.",
+        "right": false
+      },
+      {
+        "body": "je může zabezpečovat při jejich uložení jiným vhodným způsobem mimo zákonem o zbraních a střelivu a nařízením vlády definovaný režim technického zabezpečení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "342. Pokud se zbraní nakládá nezletilá osoba, platí, že:",
+    "answers": [
+      {
+        "body": "její zákonný zástupce, opatrovník nebo poručník je povinen sám zajist zabezpečení zbraně.",
+        "right": false
+      },
+      {
+        "body": "její zákonný zástupce, opatrovník nebo poručník je povinen zajistit dodržování pravidel zabezpečení zbraně.",
+        "right": true
+      },
+      {
+        "body": "musí být vždy uložena u jiné osoby oprávněné s ní nakládat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "343. Jiný způsob zabezpečení, než který zákon a nařízení vlády stanovují, může na žádost povolit krajské ředitelství policie, pokud je zaručena jejich ochrana proti zneužití, ztrátě nebo odcizení, a to v případě:",
+    "answers": [
+      {
+        "body": "že osobě, která se zbraněmi nebo střelivem nakládá, zákonem o zbraních a střelivu a nařízením vlády stanovené technické požadavky na zabezpečení zbraní nebo střeliva nevyhovují vzhledem k jejich bytové situaci nebo rodinným podmínkám.",
+        "right": false
+      },
+      {
+        "body": "nelze-li s ohledem na rozměry daných zbraní nebo střeliva, jejich množství nebo účel zajistit zabezpečení standardním způsobem anebo odpovídá-li to zvláštním místním podmínkám.",
+        "right": true
+      },
+      {
+        "body": "pouze jedná-li se toliko o zbraně kategorie R3, R4 nebo PO a střelivo kategorie S3 nebo S4.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "347. Pro označení zbraně identifikačními údaji neplatí, že:",
+    "answers": [
+      {
+        "body": "jimi musí být označeny palné a plynové zbraně.",
+        "right": false
+      },
+      {
+        "body": "je-li při úpravě nebo opravě zbraně poškozeno nebo zničeno, nemusí již být obnoveno.",
+        "right": true
+      },
+      {
+        "body": "musí být trvalé.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "350. Krajské ředitelství policie může držiteli zbraně rozhodnutím uložit:",
+    "answers": [
+      {
+        "body": "zajist odstranění označení zbraně, pokud jsou idenfikační údaje, jimiž je zbraň označena, důvodně považovány za nejednoznačné, nesrozumitelné nebo urážlivé.",
+        "right": false
+      },
+      {
+        "body": "předložit zbraň krajskému ředitelství policie k provedení dodatečného označení zbraně rozlišujícími údaji nebo diferenciačními znaky, které provádí technický pracovník policie; rozlišující údaje nebo diferenciační znaky se na zbraň vyznačí, je-li dáno podezření, že stávající označení zbraně idenfikačními údaji je, nebo by se v budoucnu mohlo stát zmatečným nebo matoucím.",
+        "right": false
+      },
+      {
+        "body": "aby zajistil dodatečné provedení označení zbraně identifikačními údaji v souladu se zákonem o zbraních a střelivu, je-li to nezbytné pro umožnění její individuální identifikace.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "352. Údaje o ověření a kontrole identifikačních údajů zbraně podléhající registraci nebo zbraně kategorie PO vyznačí v centrálním registru zbraní:",
+    "answers": [
+      {
+        "body": "Český úřad pro zkoušení zbraní a střeliva, pokud jde o zbraň, kterou ověřil nebo u které provedl kontrolu identifikačních údajů.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL2, který zbraň do České republiky dovezl.",
+        "right": false
+      },
+      {
+        "body": "Policejní prezidium v případech, kdy tyto údaje nevyznačí Český úřad pro zkoušení zbraní a střeliva nebo držitel zbrojní licence skupiny ZL2.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "354. Osoba, která se v rámci činnosti držitele zbrojní licence podílí na nakládání se zbraněmi podléhajícími registraci, zbraněmi kategorie PO nebo střelivem kategorie S1, S2 nebo S3, musí být:",
+    "answers": [
+      {
+        "body": "držitelem zbrojního oprávnění; to v určitých případech stanovených zákonem neplatí, například pokud jde o osobu, která zbraně nebo střelivo nesvěřuje, nepřenechává, nepřevádí, nenosí nebo nepoužívá ke střelbě a která je držitelem zapsané autorizace.",
+        "right": true
+      },
+      {
+        "body": "zásadně držitelem rozšířeného zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "držitelem zapsané autorizace, a to i tehdy, jde-li o držitele zbrojního oprávnění.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "356. Pravidelné školení osoby, která se v rámci činnosti držitele zbrojní licence podílí na nakládání se zbraněmi nebo střelivem:",
+    "answers": [
+      {
+        "body": "se týká pouze osoby, která nakládá se zbraněmi podléhajícími registraci a střelivem kategorie S1.",
+        "right": false
+      },
+      {
+        "body": "musí obsahovat právní úpravu nakládání se zbraněmi a střelivem a zásady bezpečného nakládání se zbraněmi a střelivem s přihlédnutím k povaze úkolů plněných při činnosti držitele zbrojní licence a vnitřní předpis držitele zbrojní licence.",
+        "right": true
+      },
+      {
+        "body": "musí být zajištěno alespoň dvakrát ročně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "357. Pokud osoba, která se v rámci činnosti držitele zbrojní licence podílí na nakládání se zbraněmi podléhajícími registraci, zbraněmi kategorie PO nebo střelivem kategorie S1, S2 nebo S3, zajišťuje ochranu života, zdraví nebo majetku anebo obdobnou činnost nebo pokud při takové činnosti nosí zbraň:",
+    "answers": [
+      {
+        "body": "zvyšuje se časová dotace školení zaměřeného na právní úpravu nakládání se zbraněmi a střelivem a na vnitřní předpis držitele zbrojní licence na dvojnásobek.",
+        "right": false
+      },
+      {
+        "body": "musí být součástí jejího pravidelného školení rovněž praktické ověření střeleckých dovedností a bezpečné manipulace se zbraní a střelivem.",
+        "right": true
+      },
+      {
+        "body": "musí být o konání pravidelného školení, jehož se taková osoba účastní, ve lhůtě 10 pracovních dnů přede dnem jeho konání vyrozuměno krajské ředitelství policie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "358. Pravidelné školení osoby, která se podílí na nakládání se zbraněmi podléhajícími registraci, zbraněmi kategorie PO nebo střelivem kategorie S1, S2 nebo S3 v rámci činnosti držitele zbrojní licence spočívající v ochraně života, zdraví nebo majetku anebo obdobné činnosti nebo pokud při takové činnosti nosí zbraň:",
+    "answers": [
+      {
+        "body": "musí zahrnovat rovněž praktické ověření střeleckých dovedností a bezpečné manipulace se zbraní a střelivem.",
+        "right": true
+      },
+      {
+        "body": "musí být zajištěno alespoň čtyřikrát ročně.",
+        "right": false
+      },
+      {
+        "body": "se musí konat na zapsané zkouškové střelnici.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "359. Nevratnou úpravou zbraně podle zákona o zbraních a střelivu je:",
+    "answers": [
+      {
+        "body": "úprava zbraně, kterou dochází ke změně kategorie zbraně, ke změně druhu nebo funkce zbraně anebo ke znemožnění anebo ztížení budoucí balistické identifikace zbraně.",
+        "right": true
+      },
+      {
+        "body": "poškození nebo degradace zbraně takového rozsahu, že její uschopnění ke střelbě je vyloučeno.",
+        "right": false
+      },
+      {
+        "body": "každá úprava zbraně provedená průmyslovým nebo řemeslným způsobem, při které dochází k nerozbornému spojení komponentů zbraně, například svarem nebo nýtováním, nebo k rozdělení anebo redukci původně celistvých součás zbraně, například obráběním nebo broušením.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "362. Úprava na zbraň jiné kategorie, úprava zbraně určené pro ostrou střelbu na akustickou a salutní zbraň, zkrácení hlavně, změna ráže zbraně, znehodnocení zbraně a zhotovení řezu zbraně se vždy považují za:",
+    "answers": [
+      {
+        "body": "deakvaci nebo demilitarizaci zbraně.",
+        "right": false
+      },
+      {
+        "body": "neoprávněnou úpravu zbraně, pokud ji neprovádí držitel zbrojního oprávnění nebo zbrojní licence skupiny ZL2.",
+        "right": false
+      },
+      {
+        "body": "nevratnou úpravu zbraně.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "365. Krajské ředitelství policie může v povolení nevratné úpravy zbraně stanovit:",
+    "answers": [
+      {
+        "body": "povinnost předložit po provedení nevratné úpravy zbraně tuto zbraň Ministerstvu vnitra k rozhodnu o její nové kategorii.",
+        "right": false
+      },
+      {
+        "body": "že nevratnou úpravu zbraně provede konkrétní držitel zbrojní licence skupiny ZL2 odlišný od žadatele o vydání povolení nevratné úpravy zbraně, pokud je to nezbytné z důvodu zajišťování vnitřního pořádku nebo bezpečnos.",
+        "right": false
+      },
+      {
+        "body": "technické podmínky provedení nevratné úpravy, povinnost doložení příslušné technické dokumentace nebo povinnost předložit zbraň po provedení nevratné úpravy krajskému ředitelství policie, a to za účelem zajištění souladu nevratné úpravy s navrhovanou změnou kategorie zbraně nebo za účelem vykonání dozoru nad technickou úrovní nevratné úpravy zbraně nebo nad jejím prováděním.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "368. Technické požadavky na nevratnou úpravu zbraně v případě znehodnocování palných zbraní stanoví:",
+    "answers": [
+      {
+        "body": "u většiny ručních palných zbraní prováděcí nařízení Evropské komise a v případě ostatních zbraní (např. děla, odpalovací zařízení) pak nařízení vlády vydané na základě zákona o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "prováděcí vyhláška Ministerstva průmyslu a obchodu.",
+        "right": false
+      },
+      {
+        "body": "u ručních palných zbraní harmonizované technické normy (ČSN EN) a v případě s ráží 20 mm nebo větší pak Český obranný standard (ČOS).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "370. Pokud byla zbraň znehodnocena v souladu se stanovenými technickými požadavky, Český úřad pro zkoušení zbraní a střeliva nebo Ministerstvo obrany po provedené kontrole:",
+    "answers": [
+      {
+        "body": "označí zbraň kontrolní znehodnocovací značkou a údaj o zbrani vymaže z centrálního registru zbraní.",
+        "right": false
+      },
+      {
+        "body": "vydá verifikační rozhodnu, které se doručí vlastníku zbraně a Ministerstvu vnitra; verifikační rozhodnu se uveřejní na internetových stránkách Českého úřadu pro zkoušení zbraní a střeliva nebo Ministerstva obrany.",
+        "right": false
+      },
+      {
+        "body": "vydá certifikát znehodnocené zbraně a označí znehodnocenou zbraň svou verifikační znehodnocovací značkou; číslo certifikátu znehodnocené zbraně zapíše Český úřad pro zkoušení zbraní a střeliva nebo Ministerstvo obrany do centrálního registru zbraní.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "374. Platí, že s aktivními komponenty střeliva:",
+    "answers": [
+      {
+        "body": "kterými jsou střely a nábojnice, lze nakládat pouze v souladu s technickými požadavky a v množství, které stanoví vláda nařízením.",
+        "right": false
+      },
+      {
+        "body": "kterými jsou zápalky, střeliviny a střely obsahující aktivní náplň, lze nakládat pouze v souladu s technickými požadavky a v množství, které stanoví vláda nařízením.",
+        "right": true
+      },
+      {
+        "body": "kterými jsou zápalky, střeliviny a střely obsahující akvní náplň, lze nakládat pouze v rozsahu stanoveném rozhodnum krajského ředitelství policie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "376. Zbraň podléhající registraci, zbraň kategorie PO nebo palnou zbraň kategorie NO, nejde-li o vojenský materiál podle zákona o zahraničním obchodu s vojenským materiálem, lze za jiným účelem, než je podnikání v oboru zbraní a střeliva, dočasně na území České republiky přemístit a za stanoveným účelem používat pouze na základě:",
+    "answers": [
+      {
+        "body": "zbrojního oprávnění nebo zbrojní licence skupiny ZL2 nebo ZL3 a v případě zbraní kategorie R1 nebo R2 a střeliva kategorie S1 nebo S2 též na základě odpovídající výjimky a v případě zbraní kategorie R3 též na základě povolení.",
+        "right": false
+      },
+      {
+        "body": "zbrojního průvodního listu nebo evropského zbrojního pasu vydávaného jiným členským státem.",
+        "right": true
+      },
+      {
+        "body": "zapsané autorizace nebo povolení nevratné úpravy zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "379. Držitel evropského zbrojního pasu vydávaného Českou republikou je oprávněn zbraň zapsanou v evropském zbrojním pasu:",
+    "answers": [
+      {
+        "body": "dočasně přeshraničně přemístit a používat na území jiného členského státu Evropské unie, pokud je účelem cesty lov nebo rekonstrukce historické bitvy nebo obdobné události anebo sportovně-střelecká akce, přičemž musí být kdykoli během takové cesty schopen doložit účel své cesty, zejména předložením pozvání nebo jiného důkazu; držitel evropského zbrojního pasu je povinen dodržovat podmínky nakládání se zbraní stanovené jiným členským státem.",
+        "right": true
+      },
+      {
+        "body": "trvale převést na osobu s místem pobytu v jiném členském státu Evropské unie nebo zbraň od takové osoby nabýt do vlastnictví, pokud se tak děje v rámci přeshraničního přemístění zajišťovaného na území jiného členského státu samotným držitelem evropského zbrojního pasu.",
+        "right": false
+      },
+      {
+        "body": "cestovat s ní v rámci Evropské unie a nakládat s ní obdobně, jako s ní nakládá na území České republiky; osoba oprávněná na území České republiky nosit zbraň za účelem ochrany života,\nzdraví nebo majetku skrytě, je oprávněn zbraň nosit obdobně i na území jiných členských států Evropské unie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "381. Vyberte správné tvrzení:",
+    "answers": [
+      {
+        "body": "Držitel evropského zbrojního pasu vydávaného jiným členským státem je oprávněn bez jiného předchozího povolení dočasně na území České republiky přemíst a používat zbraň kategorie R1, R2, R3 nebo R4 v něm zapsanou; chce-li za mto účelem přes území České republiky cestovat do jiného státu, potřebuje další povolení.",
+        "right": false
+      },
+      {
+        "body": "Držitel evropského zbrojního pasu vydávaného jiným členským státem je za účelem uvedeným v § 81 odst. 1 zákona o zbraních a střelivu oprávněn bez jiného předchozího povolení dočasně na území České republiky přemístit a používat zbraň kategorie R2, R3, R4 nebo PO nebo palnou zbraň kategorie NO v něm zapsanou nebo za tímto účelem přes území České republiky cestovat do jiného státu.",
+        "right": true
+      },
+      {
+        "body": "Držitel evropského zbrojního pasu vydávaného jiným členským státem je oprávněn dočasně přemíst a používat zbraň kategorie R1, R2, R3 nebo R4 v něm zapsanou na území České republiky; tuto zbraň je bez dalšího také oprávněn nosit skrytě za účelem ochrany, života nebo majetku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "386. Pokud držitel zbrojního oprávnění přepravuje za účelem výkonu sportovně-střelecké činnosti v místě určení 120 kusů zbraní kategorie PO, hlášení přepravy zbraní:",
+    "answers": [
+      {
+        "body": "neprovádí, protože přeprava zbraní této kategorie hlášení nepodléhá.",
+        "right": false
+      },
+      {
+        "body": "neprovádí, protože přepravu zbraní neuskutečňuje jako podnikatel v oboru zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "provádí, protože pro hlášení přepravy je určující počet přepravovaných zbraní, nikoli účel přepravy.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "395. Nestanoví-li zákon o zbraních a střelivu jinak, obecně platí, že:",
+    "answers": [
+      {
+        "body": "zbraň podléhající registraci a střelivo kategorie S1 lze zničit pouze formou smluvního zničení zbraně nebo střeliva, které zajišťuje držitel zbrojní licence skupiny ZL1.",
+        "right": false
+      },
+      {
+        "body": "zbraň podléhající registraci nebo zbraň kategorie PO lze zničit pouze formou úředního zničení zbraně, které zajišťuje stát.",
+        "right": true
+      },
+      {
+        "body": "střelivo nelze zničit.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "400. Preventivními opatřeními podle zákona o zbraních a střelivu jsou:",
+    "answers": [
+      {
+        "body": "pojistné mechanismy zbraní a jejich správné používání, každá zbraň uvedená na trh po 1. lednu 2010 musí již být vybavena snadno ovladatelným pojistným mechanismem pasivní bezpečnos.",
+        "right": false
+      },
+      {
+        "body": "pravidelné kontroly zajištěných zbraní krajským ředitelstvím policie, které při každé kontrole zajištěné zbraně mimo jiné zjišťuje, zda není daná zbraň nabitá, jestli s ní nemanipulovala neoprávněná osoba a zda je daná zbraň kompletní včetně případného příslušenství nebo doplňků, pokud spolu s nimi byla zajištěna.",
+        "right": false
+      },
+      {
+        "body": "právní instituty zadržení nebo zajištění zbraně, střeliva nebo souvisejícího dokladu nebo listiny.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "404. Pokud nejsou zbraň nebo střelivo, které mají být zadrženy, na výzvu příslušníka policie neprodleně vydány a je-li to nezbytné pro ochranu života nebo zdraví:",
+    "answers": [
+      {
+        "body": "zahájí krajské ředitelství bez zbytečného odkladu řízení o odně zbrojního oprávnění, zbrojní licence nebo zapsané autorizace osoby, která nakládá se zbraněmi, které mají být zadrženy; taková osoba je povinna vydat zbraň nebo střelivo, které mají být zadrženy, nejpozději ke dni vydání rozhodnu o odně daného zbrojního oprávnění, zbrojní licence nebo zapsané autorizace.",
+        "right": false
+      },
+      {
+        "body": "může příslušník policie předat řešení dané věci v rámci řízení o zajištění zbraně, střeliva nebo souvisejícího dokladu nebo lisny; příslušnou k zahájení a vedení tohoto řízení je Generální inspekce bezpečnostních sborů.",
+        "right": false
+      },
+      {
+        "body": "může příslušník policie za účelem jejich zadržení vstoupit do obydlí, jiných prostor nebo na pozemek, má-li důvodné podezření, že se zde zbraň nebo střelivo nalézají.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "406. Existuje-li podezření, že zdravotní stav osoby, která s nimi nakládá, představuje v souvislosti s tímto nakládáním ohrožení života nebo zdraví:",
+    "answers": [
+      {
+        "body": "krajské ředitelství policie může rozhodnout o zajištění zbraně podléhající registraci nebo zbraně kategorie PO, střeliva kategorie S1, S2 nebo S3 nebo souvisejícího dokladu nebo listiny.",
+        "right": true
+      },
+      {
+        "body": "příslušník policie a v naléhavých případech též zdravotník nebo jakákoli odborně způsobilá fyzická nebo právnická osoba zbraň nebo střelivo zadrží.",
+        "right": false
+      },
+      {
+        "body": "je taková osoba povinna s takovou zbraní nebo střelivem nemanipulovat, nesmí s ní nakládat na místě veřejnos přístupném, zejména pak ji nesmí nosit, nesmí ji používat ke střelbě a je povinna dané podezření bez zbytečného odkladu oznámit krajskému ředitelství policie k přije dalších opatření.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "407. Existuje-li podezření, že zdravotní stav osoby, která nakládá se zbraní podléhající registraci nebo zbraní kategorie PO nebo střelivem kategorie S1, S2 nebo S3, představuje v souvislosti s tímto nakládáním ohrožení života nebo zdraví:",
+    "answers": [
+      {
+        "body": "krajské ředitelství policie oznámí tuto skutečnost ošetřujícímu lékaři; další opatření může krajské ředitelství policie učinit až na základě postupu určeného ošetřujícím lékařem.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie rozhodne o odně zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie vyzve danou osobu, aby se dostavila k lékařské prohlídce k vyšetření jejího zdravotního stavu, současně s výzvou doručí rozhodnutí o zajištění zbraně, střeliva nebo souvisejícího dokladu nebo listiny, s nimiž taková osoba nakládá.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "409. Osoba, která přechovává zbraň, střelivo nebo související doklad nebo listinu, ohledně kterých krajské ředitelství policie rozhodlo o zajištění, je povinna:",
+    "answers": [
+      {
+        "body": "tuto zbraň, střelivo nebo související doklad nebo listinu uložit na své náklady u držitele zbrojní licence skupiny ZL1 do úschovy, a to do doby nabytí právní moci rozhodnutí v řízení, které k zajištění zbraně vedlo.",
+        "right": false
+      },
+      {
+        "body": "tuto zbraň, střelivo nebo související doklad nebo listinu uložit u držitele zbrojní licence skupiny ZL1 do úschovy, a to do doby nabytí právní moci rozhodnutí v řízení, které k zajištění zbraně vedlo; náklady na uložení zbraně, střeliva nebo souvisejícího dokladu nebo listiny u držitele zbrojní licence skupiny ZL1 hradí obec, na jejímž území má takový držitel zbrojní licence skupiny ZL1 provozovnu, ve které jsou zbraň, střelivo nebo související doklad nebo listina uloženy.",
+        "right": false
+      },
+      {
+        "body": "je bez zbytečného odkladu odevzdat do úschovy útvaru policie, který o jejich zajištění rozhodl, nebo sdělit místo jejich uložení a umožnit jejich převzetí policií.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "411. Osoba, jejíž oprávnění k nakládání se zbraní nebo střelivem bylo pozastaveno nebo zaniklo:",
+    "answers": [
+      {
+        "body": "je povinna do 10 pracovních dnů odevzdat zbraň a střelivo, se kterými nakládá, krajskému ředitelství policie, nebo umožnit krajskému ředitelství policie jejich převzetí nebo zabezpečení proti přístupu neoprávněné osoby na místě jejich dosavadního uložení.",
+        "right": true
+      },
+      {
+        "body": "je povinna do 1 měsíce převést vlastnictví ke zbrani nebo střelivu, se kterými nakládá, na příslušnou organizační složku státu, kterou je v případě ručních planých zbraní a střeliva Český úřad pro zkoušení zbraní a střeliva a v případě zbraní s ráží větší než 20 mm Ministerstvo obrany.",
+        "right": false
+      },
+      {
+        "body": "je oprávněna zbraň nebo střelivo, se kterými nakládá, buď bezodkladně předat krajskému ředitelství do úschovy, nebo je znehodnotit způsobem stanoveným nařízením vlády, a to vlastními silami nebo prostřednictvím držitele zapsané autorizace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "412. Vlastník zbraně nebo střeliva, který pozbude oprávnění s nimi nakládat nebo takové oprávnění nenabude, je oprávněn:",
+    "answers": [
+      {
+        "body": "předat takovou zbraň nebo střelivo Českému úřadu pro zkoušení zbraní a střeliva nebo Ministerstvu obrany k provedení jejich znehodnocení nebo zhotovení řezu.",
+        "right": false
+      },
+      {
+        "body": "požádat krajské ředitelství policie o vydání výjimky z povinnosti být držitelem daného oprávnění; výjimka z povinnosti být držitelem oprávnění se vydává pouze v případech hodných zvláštního zřetele, s dobou platnosti, která nesmí být delší než 1 rok, a pouze pokud tím nedojde k ohrožení vnitřního pořádku nebo bezpečnosti.",
+        "right": false
+      },
+      {
+        "body": "požádat krajské ředitelství policie o předání zbraně nebo střeliva jiné osobě oprávněné s nimi nakládat, a to za účelem jejich úschovy, převodu, trvalého přeshraničního přemístění nebo nevratné úpravy, anebo k úřednímu zničení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "415. Centrální registr zbraní je:",
+    "answers": [
+      {
+        "body": "neveřejný informační systém veřejné správy, který slouží k výkonu státní správy v oblasti nakládání se zbraněmi a střelivem, systematickému sledování zbraní a střeliva a provozování střelnic a k plnění dalších úkolů státní správy stanovených tímto zákonem, zákonem o munici nebo jiným zákonem.",
+        "right": true
+      },
+      {
+        "body": "veřejný a z prostředí Internetu nepřetržitým vzdáleným přístupem přístupný rejstřík, který obsahuje údaje o zbraních a střelivu a střelivu registrovaných na území České republiky a jiných členských států Evropské unie; za účelem ochrany osobních údajů osob, které se zbraněmi a střelivem nakládají, nejsou v centrálním registru zbraní osobní údaje těchto osob uvedeny a přiřazení registrované zbraně nebo střeliva jejich vlastníku je zajištěno prostřednictvím bezvýznamového identifikátoru fyzické osoby a zabezpečené konektivity vůči registru vlastníků zbraní a střeliva, který je neveřejným informačním systémem spravovaným Ministerstvem vnitra.",
+        "right": false
+      },
+      {
+        "body": "neveřejný vnitřní informační systém používaný výhradně Policií České republiky, a to za účelem předcházení násilné trestné činnosti se zbraněmi, střelivem, municí, výbušninami a jejich prekurzory, pyrotechnickými výrobky a biologickými agens použitelnými jako zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "417. Správce centrálního registru zbraní zveřejňuje na svých internetových stránkách:",
+    "answers": [
+      {
+        "body": "seznam střelnic a míst využitelných pro střelbu podle jiného právního předpisu, údaje o držitelích zbrojních oprávnění, zbrojních licencí a zapsaných autorizací a statistické údaje týkající se kriminality spáchané se zbraní náležející do působnosti zákona o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "seznam zapsaných zkouškových střelnic, údaje o ztracených nebo odcizených evropských zbrojních pasech a identifikující držitele zbrojní licence skupiny ZL1 a statistické údaje týkající se údajů vedených v centrálním registru zbraní a jeho provozu.",
+        "right": true
+      },
+      {
+        "body": "seznam zapsaných zkouškových střelnic, které nejsou držiteli zbrojní licence, údaje o ztracených nebo odcizených zbrojních oprávněních, zbrojních licencích a zapsaných\nautorizacích a statistické údaje týkající se údajů vedených v centrálním registru zbraní a v centrální evidenci střeliva, která je vedena mimo centrální registr zbraní.",
+        "right": false
+      }
+    ]
+  }
+]

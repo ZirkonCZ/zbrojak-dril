@@ -1,0 +1,300 @@
+[
+  {
+    "name": "562. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky se bezpečný směr určuje tak, aby:",
+    "answers": [
+      {
+        "body": "v běžném rozsahu umožňoval předvedení postupů bezpečného nakládání se zbraněmi a střelivem; bezpečný směr je možno určit zejména tak, že směřuje k dopadišti střel vymezenému provozním řádem střelnice.",
+        "right": true
+      },
+      {
+        "body": "v běžných případech směřoval do prostoru, kde se nevyskytují nezúčastněné osoby nebo kde se takové osoby zdržují pouze po nezbytnou dobu.",
+        "right": false
+      },
+      {
+        "body": "v běžném rozsahu umožňoval předvedení postupů běžného a taktického použití zbraně, přičemž z důvodu zajištění bezpečnosti osob musí být vždy vymezen minimálně v rozsahu 135° na každou stranu od výstřelné roviny ve směru k dopadišti střel vymezenému provozním řádem střelnice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "565. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky platí, že určený bezpečný směr:",
+    "answers": [
+      {
+        "body": "musí respektovat každá osoba přítomná při zkoušce odborné způsobilosti nebo komisionální zkoušce a nesmí do něj v jejím průběhu vstupovat nebo jinak zasahovat.",
+        "right": true
+      },
+      {
+        "body": "musí respektovat žadatel o vydání zbrojního oprávnění; zástupce Ministerstva vnitra přítomný při komisionální zkoušce žadateli o vydání zbrojního oprávnění v případě, že tento\nžadatel určený bezpečný směr nerespektuje, udělí písemnou důtku, která se vkládá do centrálního registru zbraní.",
+        "right": false
+      },
+      {
+        "body": "je určen závazně pro manipulaci s nabitou zbraní a pro ostrou střelbu, tedy pro jediné případy manipulace se zbraní, při kterých hrozí riziko náhodného výstřelu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "567. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky se nabití zbraně provede:",
+    "answers": [
+      {
+        "body": "vložením zásobníku naplněného stanoveným počtem nábojů a zachycením otevřeného závěru na tzv. střelecké pohotovosti, tedy uvedením zbraně do stavu, ve kterém je ke střelbě zapotřebí pouze odjištění vnější manuální pojistky a stisknutí spouště.",
+        "right": false
+      },
+      {
+        "body": "uvedením zbraně do stavu, ve kterém je ke střelbě zapotřebí pouze přesunutí prstu ruky do prostoru lučíku a stisknutí spouště.",
+        "right": true
+      },
+      {
+        "body": "uvedením zbraně do stavu, ve kterém je ke střelbě zapotřebí již pouze provedení zamíření (tzv. mířená rána jistoty).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "568. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky platí, že dokud není po nabití zbraně a přípravě ke střelbě vydán pokyn ke střelbě:",
+    "answers": [
+      {
+        "body": "musí být prst ruky mimo lučík zbraně; zbraň neustále směřuje do bezpečného směru.",
+        "right": true
+      },
+      {
+        "body": "žadatel musí samostatně provést vybití zbraně a popřípadě odevzdat střelivo, u kterého došlo k selhači, na místě přítomnému kontrolnímu orgánu policie.",
+        "right": false
+      },
+      {
+        "body": "musí být prst ruky mimo ovládací prvky zbraně a žadatel se nesmí žádnou končetinou dotýkat zařízení střelnice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "569. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky platí, že prst ruky na spoušti nebo v prostoru lučíku:",
+    "answers": [
+      {
+        "body": "se považuje za porušení zásad bezpečného nakládání se zbraní, s výjimkou případů, kdy je do prostoru lučíku vložen jiný prst než ukazováček střílející ruky, případně prst jiné než silné ruky osoby provádějící manipulaci se zbraní, anebo prst ruky jiné osoby.",
+        "right": false
+      },
+      {
+        "body": "se považuje za běžnou součást manipulace se zbraní, s výjimkou případů, kdy zkušební komisař vkládání prstu ruky na spoušť nebo do prostoru lučíku výslovně zakáže, anebo pokud do prostoru, který byl určen jako bezpečný směr, vstoupí osoba anebo nachází-li se tam zvíře nebo větší majetková hodnota.",
+        "right": false
+      },
+      {
+        "body": "se považuje za porušení zásad bezpečného nakládání se zbraní, s výjimkou případů, kdy je stisknutí spouště nezbytné k záměrnému provedení výstřelu nebo je v případě nenabité zkontrolované zbraně nezbytné pro manipulaci, například provedení rány jistoty, nebo pokud takovou manipulaci se zbraní stanovuje její výrobce, například před nebo při rozebrání zbraně.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "572. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky je účelem kontroly zbraně:",
+    "answers": [
+      {
+        "body": "důkladné zjištění technického stavu zbraně, zejména zjištění prasklin hlavně, závěru a rámu zbraně.",
+        "right": false
+      },
+      {
+        "body": "příprava zbraně pro nabití, vybití nebo k nošení.",
+        "right": false
+      },
+      {
+        "body": "její vybití a uvedení do stavu bezpečného pro odložení zbraně nebo další manipulaci, například rozebrání zbraně.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "573. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky platí, že:",
+    "answers": [
+      {
+        "body": "mířit na osoby je přípustné pouze se zbraní, která byla kontrolou spolehlivě uvedena do bezpečného stavu.",
+        "right": false
+      },
+      {
+        "body": "mimo případů naplněných zákonných podmínek nutné obrany a krajní nouze není přípustné mířit na osoby ani v případě, je-li zbraň vybitá, zkontrolovaná nebo nekompletní; úmyslné míření na osoby je v takovém případě porušením zásad bezpečného nakládání se zbraní.",
+        "right": true
+      },
+      {
+        "body": "mimo případů naplněných zákonných podmínek nutné obrany a krajní nouze není přípustné mířit na osoby ani v případě, je-li zbraň zkontrolovaná; zkušení držitelé zbrojního oprávnění mohou míření na osoby nanejvýše naznačovat, přičemž si musí být jisti, že zbraň je vybitá nebo nabitá pouze školními nebo cvičnými náboji.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "574. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky ohledně využití dodatečných bezpečnostních prvků konkrétního typu zbraně pro její uvedení do bezpečného stavu platí, že:",
+    "answers": [
+      {
+        "body": "tyto postupy nejsou povinnou součástí zkoušky odborné způsobilosti nebo komisionální zkoušky.",
+        "right": true
+      },
+      {
+        "body": "žadatel o vydání zbrojního oprávnění musí být schopen prakticky předvést pouze použití prvku pro bezpečné vypuštění napnutého bicího mechanismu (tzv. decocker) a integrovaného zámku spoušťového mechanismu.",
+        "right": false
+      },
+      {
+        "body": "tyto postupy jsou vyžadovány pouze v případě praktické části zkoušky odborné způsobilosti žadatelů o vydání rozšířeného zbrojního oprávnění.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "575. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky platí v případě, že je zbraň vybavena odnímatelným zásobníkem, který je při kontrole zbraně a jejím uvedení do bezpečného stavu ze zbraně vyjmut, že:",
+    "answers": [
+      {
+        "body": "vybít náboje z vyňatého zásobníku je nezbytné pro zajištění bezpečnosti přítomných osob a pro následnou kontrolu nábojů před jejich uložením do přepravní schránky.",
+        "right": false
+      },
+      {
+        "body": "vybití nábojů z vyňatého zásobníku není povinnou součástí zkoušky odborné způsobilosti nebo komisionální zkoušky.",
+        "right": true
+      },
+      {
+        "body": "vybití nábojů z vyňatého zásobníku je nezbytné pouze v případě zásobníků pro krátké zbraně nebo z nadlimitních zásobníků, v případě zásobníků pro dlouhé zbraně, které nejsou nadlimitními zásobníky, není vybití nábojů vyžadováno, protože v tomto případě nehrozí vzhledem k délce zbraně nezáměrná iniciace nabitých nábojů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "576. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole samonabíjecí pistole mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "se provede vyjmutí zásobníku, po stažení závěru do zadní polohy se přes výhozné okénko provede vizuální kontrola nábojové komory.",
+        "right": true
+      },
+      {
+        "body": "se provede stažení závěru vzad, a to podle potřeby i vícekrát, dokud není závěr automaticky zachycen v zadní poloze na tzv. střelecké pohotovosti.",
+        "right": false
+      },
+      {
+        "body": "se provede vyjmutí zásobníku a stažení závěru do zadní polohy; v případě starších typů samonabíjecích pistolí, které nejsou vybaveny odnímatelným zásobníkem a neumožňují zachycení závěru v zadní poloze, se tato část kontroly neprovádí a provede se pouze mířená rána jistoty do bezpečného směru.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "578. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole samonabíjecí pistole mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "po provedení kontroly lze závěr ponechat v zadní poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do přední polohy; v přední poloze závěru se provede rána jistoty.",
+        "right": true
+      },
+      {
+        "body": "po provedení kontroly lze závěr ponechat v přední poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do zadní polohy a zde jej zachytit na záchytu závěru; v zadní poloze závěru se provede rána jistoty.",
+        "right": false
+      },
+      {
+        "body": "se provede kontrola celkové kapacity zásobníku, a to buď vizuálně pohledem přes výhozné okénko při stažení závěru do zadní polohy nebo pohmatem prsty ruky, která nedrží zbraň, přes ústí zásobníkové šachty.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "584. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole opakovací dlouhé kulové zbraně s otočným odsuvným závěrem mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "se provede otevření závěru stažením posuvného předpažbí do zadní polohy a vizuální kontrola trubkového zásobníku přes zásobníkovou štolu.",
+        "right": false
+      },
+      {
+        "body": "se provede vyjmutí zásobníku, otevření závěru a následně vizuální kontrola nábojové komory a zásobníkové šachty.",
+        "right": true
+      },
+      {
+        "body": "se provede vyjmutí zásobníku, ze kterého se vyjmou náboje, otevření závěru, kontrola opakovací dlouhé kulové zbraně s otočným odsuvným závěrem končí po otevření závěru deaktivací vnější manuální pojistky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "586. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu selhač platí, že:",
+    "answers": [
+      {
+        "body": "nedojde-li k iniciaci náboje, je třeba vyčkat minimálně 10 sekund se zbraní směřující do bezpečného směru, výrobce zbraně nebo střeliva může v návodu k použití stanovovat též jinou\n(vesměs delší) minimální dobu, po kterou je třeba vyčkat, zda nedojde k opožděné iniciaci a k výstřelu.",
+        "right": true
+      },
+      {
+        "body": "po vyjmutí náboje ze zbraně je třeba jej umístit na bezpečné místo a vyčkat minimálně 10 sekund, zda nedojde k jeho opožděné iniciaci; rovněž se následně provede kontrola zbraně zkontroluje se zápalník, zda na něm zápalka nezanechala otisk v případě, že závada byla zapříčiněna střelivem.",
+        "right": false
+      },
+      {
+        "body": "je třeba vyčkat minimálně 10 sekund, přičemž zbraň musí být odložena tak, aby ústí hlavně směřovalo do bezpečného směru, neboť může dojít k opožděné detonaci střely uvízlé v hlavni, výrobce zbraně nebo střeliva může v návodu k použití stanovovat též jinou (vesměs delší) minimální dobu, po kterou je třeba vyčkat, zda nedojde k opožděné detonaci.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "588. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu slabá rána platí, že:",
+    "answers": [
+      {
+        "body": "je třeba vyčkat minimálně 10 sekund, přičemž zbraň musí být odložena tak, aby ústí hlavně směřovalo do bezpečného směru, neboť může dojít k opožděné detonaci střely uvízlé v hlavni, výrobce zbraně nebo střeliva může v návodu k použití stanovovat též jinou (vesměs delší) minimální dobu, po kterou je třeba vyčkat, zda nedojde k opožděné detonaci.",
+        "right": false
+      },
+      {
+        "body": "se provede kontrola zbraně a následně se provede kontrola průchodnosti vývrtu hlavně, které bude u zbraní většiny konstrukcí předcházet rozebrání zbraně; v případě, že střela je uvízlá v hlavni, pouze se slovně popíše správný postup jejího odstranění.",
+        "right": true
+      },
+      {
+        "body": "se provede kontrola průchodnosti vývrtu hlavně, která bude u většiny zbraní v případě střely uvízlé v hlavni možná pouze zasunutím vhodného nástroje (např. vytěráku) ústím hlavně tak, aby byla zjištěna poloha uvízlé střely; po zjištění polohy uvízlé střely se zvolí následný vhodný postup a provede se vybití a kontrola zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "589. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu slabá rána platí, že:",
+    "answers": [
+      {
+        "body": "provedení rány jistoty po kontrole zbraně, u které došlo ke slabé ráně, není porušením zásad bezpečného nakládání se zbraní, a to zejména pokud je takový způsob uvolnění spoušťového a bicího mechanismu nezbytný pro její rozebrání.",
+        "right": true
+      },
+      {
+        "body": "provedení rány jistoty je možné až po uplynutí doby 10 sekund, po kterou musí zbraň směřovat ústím hlavně do bezpečného směru, provedením rány jistoty dojde k opožděné iniciaci střeliva a je možné pokračovat obdobně jako v případě řešení závady na zbrani nebo střelivu typu selhač.",
+        "right": false
+      },
+      {
+        "body": "provedení rány jistoty není možné ani po provedení kontroly zbraně, protože by došlo k uvolnění spoušťového a bicího mechanismu a následný vývoj eventuálního výstřelu by byl nepředvídatelný.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "591. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu slabá rána platí, že:",
+    "answers": [
+      {
+        "body": "vyčkání před dalším postupem po slabé ráně obdobně jako v případě selhače je nezbytné, neboť žadatel o vydání zbrojního oprávnění musí v takové situaci minimálně po dobu 10 sekund vyčkat na pokyn zkušebního komisaře, že má být další postup zahájen.",
+        "right": false
+      },
+      {
+        "body": "vyčkávání před dalším postupem po slabé ráně obdobně jako v případě selhače (tj. minimálně po dobu 10 sekund) je možné, ale nevyžaduje se.",
+        "right": true
+      },
+      {
+        "body": "vyčkávání před dalším postupem po slabé ráně obdobně jako v případě selhače (tj. minimálně po dobu 10 sekund) je neakceptovatelné a jde o porušení zásad bezpečného nakládání se zbraněmi a střelivem, protože vlivem času může slabá rána přejít v ránu silnou.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "592. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu zádržka platí, že:",
+    "answers": [
+      {
+        "body": "závadu je třeba řešit s ohledem na její konkrétní charakter, přičemž zpravidla se nejprve provede vyjmutí zásobníku, je-li zbraň vybavena odnímatelným zásobníkem, a vnější vizuální kontrola zbraně a zjištění druhu závady.",
+        "right": true
+      },
+      {
+        "body": "odstranění závady se provádí s ohledem na její charakter, a to zejména kontrolou průchodnosti vývrtu hlavně po provedení kontroly zbraně; nejčastěji bude k odstranění závady typu zádržka postačovat výměna zásobníku za zásobník s vytahovačem, který vykazuje lepší kluzné vlastnosti.",
+        "right": false
+      },
+      {
+        "body": "v případě, že nelze vysunout zásobník, například z důvodu náboje vzpříčeného ve vývodkách zásobníku, je třeba pokud možno využít k řešení závady jiné zásobovací mechanismy zbraně, tj. například vyklopit revolverový válec nebo na místo odnímatelného zásobníku vložit pevnou nábojovou schránku.",
+        "right": false
+      }
+    ]
+  }
+]
+  // {
+    // "name": "594. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu zádržka platí, že:",
+    // "answers": [
+    //   {
+    //     "body": "v případě, že nelze vysunout zásobník, například z důvodu náboje vzpříčeného ve vývodkách zásobníku, je třeba pokud možno využít k řešení závady jiné zásobovací mechanismy zbraně, tj. například vyklopit revolverový válec nebo na místo odnímatelného zásobníku vložit pevnou nábojovou schránku.",
+    //     "right": false
+    //   },
+    //   {
+    //     "body": "v případě, že nelze vysunout zásobník, například z důvodu náboje vzpříčeného ve vývodkách zásobníku, je třeba pokud možno zachytit závěr v zadní poloze a

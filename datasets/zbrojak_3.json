@@ -1,0 +1,20 @@
+[
+  {
+    "name": "705. Pod číslem „3“ se na obrázku výše nachází součást samonabíjecí pistole označovaná jako:",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "vývrt hlavně s vložkou nábojové komory; tato součást se vkládá do hlavně, kde uděluje rotaci střele (projektilu), čímž ji stabilizuje v letu.",
+        "right": false
+      },
+      {
+        "body": "bicí pružina s úderníkem; tato součást je u vyobrazené zbraně určena k tomu, aby po stisknutí kohoutku udeřila hlavní o závěr a tím iniciovala zápalku náboje, čímž dojde k výstřelu.",
+        "right": false
+      },
+      {
+        "body": "předsuvná (nebo vratná) pružina s vodítkem; jde o pružinu, která působí na závěr a mimo jiné jej po výstřelu vrací do přední polohy.",
+        "right": true
+      }
+    ]
+  }
+]

@@ -6,7 +6,7 @@
           content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
     <meta content="yes" name="apple-mobile-web-app-capable">
     <meta content="black" name="apple-mobile-web-app-status-bar-style">
-    <title>FI MUNI Drill</title>
+    <title>Zbroják Dril</title>
     <!-- Path to Framework7 Library CSS-->
     <link href="css/framework7.min.css" rel="stylesheet">
     <!-- Path to your custom app styles-->
@@ -45,51 +45,59 @@
         </div>
     </div>
 </div><script class="left-panel" type="text/html">
-    <div class="content-block-title">Question Datasets</div>
+    <div class="content-block-title">Okruhy otázek</div>
     <% _.each(list, function(q) { %>
-    <p><a href="#<%= q.id %>" class="close-panel"><%= q.name %></a></p>
+        <p><a href="#<%= q.id %>" class="close-panel"><%= q.name %></a></p>
     <% }); %>
-    <div class="content-block-title">About</div>
+    <div class="content-block-title">O projektu</div>
     <p>
-        The app was made for my personal use, and then shared to others to make the world better place :D.
+        Tato aplikace byla vytvořena pro studijní účely na zkoušku odborné způsobilosti k nakládání se zbraněmi a střelivem.
     </p>
-
     <p>
-        If you find it helpful you can buy me a beer.
+        Otázky a odpovědi jsou platné pro legislativu od 1. 1. 2026 a byly převzaty ze stránek <a href="mvcr.cz">Ministerstva vnitra ČR</a>, nicméně stále mohou obsahovat chyby. <b>Neručím za správnost obsahu.</b>
+    </p>
+    <p>
+        Pokud nějakou najdete, hoďte mi prosím <a href="mailto:vychodil.zdenek@proton.me">mail</a> anebo rovnou <a href="https://github.com/ZirkonCZ/zbrojak-dril">pull request</a> na můj fork projektu, který sloužil jako šablona pro tuto stránku.
+    </p>
+    <p>
+        Původní projekt <a href="https://github.com/MarekBodinger/fi-muni-drill">zde</a> - veškeré credits Markovi Bodingerovi a přispěvovatelům.
     </p>
 </script> <script class="question-page" type="text/html">
     <% _.each(list, function(q) { %>
-    <div data-page="<%= q.id %>" class="page">
-                  <span id="questions-<%= q.id %>">
-
-                  </span>
-
-        <div class="toolbar">
-            <div class="toolbar-inner">
-                <a href="#" data-panel="left" class="open-panel">Menu</a>
-                <span><%= q.name %></span>
-                <a href="#" class="source-link">Source</a>
+        <div data-page="<%= q.id %>" class="page">
+            <span id="questions-<%= q.id %>"></span>
+            <div class="toolbar">
+                <div class="toolbar-inner">
+                    <a href="#" data-panel="left" class="open-panel">Menu</a>
+                    <span><%= q.name %></span>
+                    <a href="#" class="source-link">Source</a>
+                </div>
             </div>
         </div>
-    </div>
     <% }); %>
 </script> <script class="question" type="text/html">
     <!-- Scrollable page content-->
     <div class="page-content questions-page-content">
         <div class="content-block-title question-name"><%= question.name %></div>
+        <% if (question.image) { %>
+        <div class="content-block">
+            <img src="<%= question.image %>" alt="Question image" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    </div>
+        <% } %>
         <div class="list-block">
             <ul>
                 <% _.each(_.shuffle(question.answers), function(answer) { %>
-                <li class="answer">
-                    <label class="label-checkbox item-content">
-                        <input type="checkbox" name="answer" value="<%= answer.right %>">
-
-                        <div class="item-media"><i class="icon icon-form-checkbox"></i></div>
-                        <div class="item-inner">
-                            <div class="item-text"><%= answer.body %></div>
-                        </div>
-                    </label>
-                </li>
+                    <li class="answer">
+                        <label class="label-radio item-content">
+                            <input type="radio" name="answer" value="<%= answer.right %>">
+                            <div class="item-media">
+                                <i class="icon icon-form-radio"></i>
+                            </div>
+                            <div class="item-inner">
+                                <div class="item-text"><%= answer.body %></div>
+                            </div>
+                        </label>
+                    </li>
                 <% }); %>
             </ul>
         </div>

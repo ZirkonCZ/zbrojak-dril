@@ -22,8 +22,6 @@ class Classes.QuestionList
         dataset: set.dataset
         container: $("#questions-" + set.id)
         template: _.template($('.question').first().html())
-    $('.source-link').click ->
-      window.location.href = "https://github.com/fprochazka/fi-muni-drill"
 
 
 class Classes.Questions
