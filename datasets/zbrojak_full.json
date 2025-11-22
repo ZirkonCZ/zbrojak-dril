@@ -3400,7 +3400,6 @@
       }
     ]
   },
-  // VERIFIED ABOVE
   {
     "name": "201. Výjimku kategorie R2 nebo S2 krajské ředitelství policie vydá žadateli, který je:",
     "answers": [
@@ -3474,11 +3473,11 @@
     "answers": [
       {
         "body": "lze vydat při splnění dalších podmínek stanovených zákonem o zbraních a střelivu, zejména pak musí být k žádosti přiloženo potvrzení držitele zbrojní licence, že žadatel u něj během posledních 12 měsíců opakovaně aktivně trénoval nebo se opakovaně účastnil soutěží ve střelbě a zbraň kategorie R2 uvedená v žádostí splňuje specifikace požadované pro mezinárodně uznanou střeleckou disciplínu, kterou se tento držitel zbrojní licence při své činnosti zabývá.",
-        "right": false
+        "right": true
       },
       {
         "body": "nelze vydat.",
-        "right": true
+        "right": false
       },
       {
         "body": "lze vydat za stejných podmínek jako v případě, že je žádost založena na důvodech, pro které lze vydat výjimku kategorie R1 nebo S1; žadatel musí pouze navíc doložit, že je držitelem zbrojního oprávnění (např. předložením zbrojního listu), neboť výjimku kategorie R2 lze na rozdíl od výjimky kategorie R1 nebo S1 vydat právě i držiteli zbrojního oprávnění.",
@@ -3631,7 +3630,7 @@
       },
       {
         "body": "pominul-li trvale důvod, pro který byly vydány; to neplatí, pokud byly výjimka nebo povoleni vydány z důvodu ochrany života, zdraví nebo majetku.",
-        "right": false
+        "right": true
       },
       {
         "body": "pokud držitel zbrojního oprávnění nebo zbrojní licence pravidelně netrénuje střelbu nebo se neúčastní soutěží ve střelbě anebo pokud při těchto soutěžích dosahuje opakovaně pouze podprůměrných výsledků.",
@@ -3835,11 +3834,11 @@
       },
       {
         "body": "její držitel přestane splňovat podmínku spolehlivosti.",
-        "right": true
+        "right": false
       },
       {
         "body": "se prokáže, že zdravotní stav jejího držitele by mohl v souvislosti s nakládáním se zbraní nebo střelivem představovat ohrožení života nebo zdraví.",
-        "right": false
+        "right": true
       }
     ]
   },
@@ -4167,6 +4166,74 @@
     ]
   },
   {
+    "name": "246. Přiložení vyjádření krajské hygienické stanice k provoznímu řádu střelnice z hlediska ochrany veřejného zdraví před hlukem k žádosti o povolení provozovat střelnici:",
+    "answers": [
+      {
+        "body": "je nezbytné ve všech případech.",
+        "right": false
+      },
+      {
+        "body": "není nezbytné v případech střelnic vymezených nařízením vlády, č. 187/2025 Sb., o technických požadavcích a dalších specifikacích pro některé zbraně, střelivo a střelnice a pro zabezpečení zbraní a střeliva.",
+        "right": true
+      },
+      {
+        "body": "je povinné pouze u otevřených střelnic.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "247. Provozní řád střelnice nevymezuje:",
+    "answers": [
+      {
+        "body": "pravidla provádění dohledu správce střelnice nad nakládáním se zbraněmi a střelivem na střelnici, a to pro celou dobu, po kterou je na střelnici prováděna střelba.",
+        "right": false
+      },
+      {
+        "body": "pravidla bezpečného provozu střelnice s ohledem na místní podmínky a používané zbraně a střelivo.",
+        "right": false
+      },
+      {
+        "body": "náležitosti žádosti o povolení provozovat střelnici.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "248. Pro provozní knihu střelnice platí, že:",
+    "answers": [
+      {
+        "body": "vymezuje práva a povinnosti správce střelnice a řídícího střelby.",
+        "right": false
+      },
+      {
+        "body": "stanoví rozsah odpovědnosti provozovatele střelnice za škodu způsobenou při provádění střelby na střelnici.",
+        "right": false  
+      },
+      {
+        "body": "obsahuje seznam osob, které na střelnici provádí střelbu, a zbraní, které k tomu používají.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "249. Totožnost osoby, která na střelnici provádí střelbu:",
+    "answers": [
+      {
+        "body": "se ověřuje.",
+        "right": true
+      },
+      {
+        "body": "se ověřuje pouze tehdy, je-li osoba cizinec.",
+        "right": false
+      },
+      {
+        "body": "se neověřuje.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "250. Mezi povinnosti provozovatele střelnice patří:",
     "answers": [
       {
@@ -4179,6 +4246,23 @@
       },
       {
         "body": "zajist vedení evidenční knihy střelnice a její uchování nejméně po dobu 60 měsíců po skončení daného kalendářního roku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "251. Pokud došlo ke změně podmínek provozování střelnice a provozní řád jim neodpovídá:",
+    "answers": [
+      {
+        "body": "povolení provozovat střelnice zaniká do 10 pracovních dnů ode dne, kdy tato změna nastala.",
+        "right": false
+      },
+      {
+        "body": "je provozovatel střelnice povinen provést změnu provozního řádu střelnice.",
+        "right": true
+      },
+      {
+        "body": "nemá tato následná změna na znění provozního řádu střelnice žádný vliv.",
         "right": false
       }
     ]
@@ -4197,6 +4281,40 @@
       {
         "body": "může na střelnici provádět střelbu a je povinností provozovatele střelnice zajistit zápis této skutečnosti do centrálního registru zbraní v obdobném rozsahu jako do provozní knihy střelnice.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "253. Není pravda, že správcem střelnice může být ustanovena pouze osoba:",
+    "answers": [
+      {
+        "body": "která je plně svéprávná a zletilá.",
+        "right": false
+      },
+      {
+        "body": "která není členem orgánu nebo odpovědným zástupcem provozovatele střelnice.",
+        "right": true
+      },
+      {
+        "body": "která je držitelem zbrojního oprávnění.", 
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "254. Správce střelnice musí být:",
+    "answers": [
+      {
+        "body": "zletilým držitelem zbrojního oprávnění.",
+        "right": true
+      },
+      {
+        "body": "zletilým držitelem zapsané autorizace nebo zbrojního oprávnění.",
+        "right": false
+      }, 
+      {
+        "body": "svéprávnou zletilou osobou, která má praxi v oblasti řízení střelby alespoň po dobu 3 let.",
+        "right": false
       }
     ]
   },
@@ -4235,6 +4353,40 @@
     ]
   },
   {
+    "name": "257. Řídícím střelby je podle zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "držitel zbrojního oprávnění, kterého určí v souladu se zákonem o zbraních a střelivu krajské ředitelství policie a který policii poskytuje součinnost při kontrole nad činností provozovatele střelnice a prováděním střelby osobami přítomnými na střelnici.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojního oprávnění, který je správcem střelnice.",
+        "right": false  
+      },
+      {
+        "body": "zletilý držitel zbrojního oprávnění, kterého určí v souladu s provozním řádem střelnice správce střelnice a který správci střelnice poskytuje součinnost při dohledu nad dodržováním provozního řádu střelnice a při zajišťování bezpečného nakládání se zbraněmi a střelivem na střelnici.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "258. Není pravda, že řídícím střelby může být určena pouze fyzická osoba, která je:", 
+    "answers": [
+      {
+        "body": "plně svéprávná.",
+        "right": false
+      },
+      {
+        "body": "zletilá.", 
+        "right": false
+      },
+      {
+        "body": "držitelem zbrojní licence.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "259. Pokud se jako řídící střelby určuje konkrétní fyzická osoba v souladu se zákonem:",
     "answers": [
       {
@@ -4247,6 +4399,57 @@
       },
       {
         "body": "provede se zápis do provozního řádu střelnice, a to psacími potřebami umožňujícími nesmazatelný záznam; neprovede-li řídící střelby tento zápis do 10 pracovních dnů ode dne svého určení, může krajské ředitelství policie rozhodnout o pozastavení provozu střelnice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "260. Vyberte správné tvrzení:",
+    "answers": [
+      {
+        "body": "O určení řídícího střelby musí být vyhotoven písemný záznam, který podepíše správce střelnice a řídící střelby.",
+        "right": true
+      },
+      {
+        "body": "S určením řídícího střelby musí vyslovit souhlas krajské ředitelství policie.", 
+        "right": false
+      },
+      {
+        "body": "Určení řídícího střelby lze dohodnout ústně, je-li dohodě přítomen provozovatel střelnice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "261. Není-li o určení řídícího střelby vyhotoven písemná záznam, je jeho určení:",
+    "answers": [
+      {
+        "body": "platné, pokud s tím řídící střelby souhlasí.",
+        "right": false
+      },
+      {
+        "body": "neplatné, pokud se neplatnosti řídící střelby dovolá.",
+        "right": false
+      },
+      {
+        "body": "neplatné.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "262. Byla-li v 24 měsících předcházejících podání žádosti o povolení provozovat střelnici v daném místě již provozována střelnice, která se svou povahou v podstatných znacích neodlišuje od střelnice, o jejíž provozování se žádá:",
+    "answers": [
+      {
+        "body": "je řízení o žádosti o povolení provozovat střelnici jednodušší, pokud jde o počet povinných příloh přikládaných v žádosti.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie prodlouží platnost povolení provozovat původní střelnici.",
+        "right": false
+      },
+      {
+        "body": "nemá tato skutečnost na řízení o žádosti o povolení provozovat střelnici vliv.",
         "right": false
       }
     ]
@@ -4269,6 +4472,23 @@
     ]
   },
   {
+    "name": "264. Pokud provozní řád střelnice vážným způsobem neodpovídá podmínkám stanoveným zákonem o zbraních a střelivu nebo provozovatel střelnice nepřijme účinná opatření, aby zamezil opakovanému hrubému porušování zákona o zbraních a střelivu nebo provozního řádu střelnice při jejím provozu:", 
+    "answers": [
+      {
+        "body": "krajské ředitelství policie může povolení provozovat střelnici bezprostředně zrušit.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie může povolení provozovat střelnici pozastavit.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie o tom sepíše úřední záznam a předá jej Policejnímu prezidiu k dalšímu opatření.", 
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "265. Krajské ředitelství policie povolení provozovat střelnici odejme, jestliže provozovatel střelnice:",
     "answers": [
       {
@@ -4286,6 +4506,40 @@
     ]
   },
   {
+    "name": "266. Přestane-li provozovatel střelnice splňovat podmínku bezúhonnosti nebo spolehlivosti, krajské ředitelství policie povolení provozovat střelnici:",
+    "answers": [
+      {
+        "body": "prohlásí za neplatné.",
+        "right": false
+      },
+      {
+        "body": "pozastaví.", 
+        "right": false
+      },
+      {
+        "body": "odejme.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "267. Povolení provozovat střelnici nezaniká dnem:", 
+    "answers": [
+      {
+        "body": "nabytí právní moci rozhodnutí o jeho odnětí.",
+        "right": false
+      },
+      {
+        "body": "smrti správce střelnice.",
+        "right": true
+      },
+      {
+        "body": "následujícím po dni, ve kterém se jej provozovatel střelnice vzdal.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "268. Držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, který nabude zbraň podléhající registraci, je povinen:",
     "answers": [
       {
@@ -4298,6 +4552,23 @@
       },
       {
         "body": "ohlásit neprodleně krajskému ředitelství policie, že nabyl zbraň podléhající registraci, uvést kategorii této zbraně a označit osobu, od které zbraň nabyl; krajské ředitelství policie ověří u označené osoby údaje uvedené ohlašovatelem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "269. Držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, který nabude zbraň podléhající registraci, je povinen ohlásit tuto skutečnost do:",
+    "answers": [
+      {
+        "body": "10 kalendářních dnů ode dne, kdy s takovou zbraní začal nakládat.",
+        "right": false
+      },
+      {
+        "body": "10 pracovních dnů ode dne, kdy s takovou zbraní začal nakládat.",
+        "right": true
+      },
+      {
+        "body": "30 dnů ode dne, kdy s takovou zbraní začal nakládat.", 
         "right": false
       }
     ]
@@ -4320,6 +4591,23 @@
     ]
   },
   {
+    "name": "271. Držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, který nabude zbraň podléhající registraci, je povinen tuto skutečnost ohlásit a současně:",
+    "answers": [
+      {
+        "body": "předložit zbraň krajskému ředitelství policie k prohlídce jejího označení a technického stavu.",
+        "right": true
+      },
+      {
+        "body": "ji zaznamenat v centrálním registru zbraní.",
+        "right": false
+      },
+      {
+        "body": "předložit krajskému ředitelství policie kupní smlouvu ke zbrani.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "272. Držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, který převedl registrovanou zbraň na jinou osobu, je povinen:",
     "answers": [
       {
@@ -4333,6 +4621,23 @@
       {
         "body": "ohlásit její převod krajskému ředitelství policie, a to do 10 pracovních dnů ode dne jeho uskutečnění.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "273. Držitel zbrojního oprávnění nebo držitel zbrojní licence skupiny ZL2, který převedl registrovanou zbraň na jinou osobu, je povinen:",
+    "answers": [
+      {
+        "body": "ohlásit její převod krajskému ředitelství policie, a to do 10 pracovních dnů ode dne jeho uskutečnění.",
+        "right": true
+      },
+      {
+        "body": "ohlásit tuto skutečnost do 10 pracovních dnů krajskému ředitelství policie a předložit mu tuto zbraň k prohlídce jejího označení a technického stavu.",
+        "right": false
+      },
+      {
+        "body": "ohlásit její převod krajskému ředitelství policie, a to do 30 dnů ode dne jeho uskutečnění.",
+        "right": false
       }
     ]
   },
@@ -4371,6 +4676,23 @@
     ]
   },
   {
+    "name": "276. Hlavním držitelem zbraně je osoba:",
+    "answers": [
+      {
+        "body": "která má největší majetkový podíl na hodnotě zbraně v případě zbraní podléhajících registraci ve spoluvlastnictví nebo sbírek zbraní ve spoluvlastnictví.",
+        "right": false
+      },
+      {
+        "body": "které byla tato zbraň zaregistrována.", 
+        "right": true
+      },
+      {
+        "body": "kterou na návrh vlastníka zbraně takto označí krajské ředitelství policie v centrálním registru zbraní; vlastník zbraně je oprávněn určení hlavního držitele zbraně kdykoli odvolat nebo změnit.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "277. Krajské ředitelství policie zapíše do centrálního registru zbraní vedlejšího držitele",
     "answers": [
       {
@@ -4388,6 +4710,23 @@
     ]
   },
   {
+    "name": "278. Žádost, aby do centrálního registru zbraní byl ke zbrani podléhající registraci zapsán jeden nebo více vedlejších držitelů zbraně, podává:",
+    "answers": [
+      {
+        "body": "hlavní držitel zbraně.",
+        "right": true  
+      },
+      {
+        "body": "hlavní držitel zbraně, pokud s tím Policejní prezidium předem vyslovilo souhlas.",
+        "right": false
+      },
+      {
+        "body": "hlavní držitel zbraně po uplynutí nejméně 60 dnů ode dne, kdy mu byla zbraň zaregistrována.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "279. Jako vedlejší držitel zbraně může být do centrálního registru zbraní zapsána osoba, která:",
     "answers": [
       {
@@ -4400,6 +4739,23 @@
       },
       {
         "body": "je oprávněna v souladu se zákonem o zbraních a střelivu s danou zbraní nakládat a se svým zapsáním souhlasí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "280. Jako vedlejší držitel zbraně může být do centrálního registru zbraní zapsána osoba:",
+    "answers": [
+      {
+        "body": "kterou navrhlo krajské ředitelství policie.",
+        "right": false
+      }, 
+      {
+        "body": "která o to sama požádala.",
+        "right": false
+      },
+      {
+        "body": "která je oprávněna s danou zbraní nakládat a se svým zapsáním souhlasí.",
         "right": true
       }
     ]
@@ -4434,6 +4790,74 @@
       },
       {
         "body": "je hlavní držitel zbraně povinen krajskému ředitelství policie navrhnout provedení výmazu zápisu takového vedlejšího držitele zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "283. Nabytí zbraně kategorie PO musí být ohlášeno krajskému ředitelství policie:", 
+    "answers": [
+      {
+        "body": "do 14 pracovních dnů ode dne, kdy s ní začal její držitel nakládat.",
+        "right": false
+      },
+      {
+        "body": "do 10 pracovních dnů ode dne provedení kusového ověření takové zbraně Českým úřadem pro zkoušení zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "do 10 pracovních dnů ode dne, kdy s ní začal její držitel nakládat.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "284. Ohlášení podléhá nabytí:",
+    "answers": [
+      {
+        "body": "historické zbraně.",
+        "right": false
+      },
+      {
+        "body": "krátké opakovací palné zbraně pro použití střeliva se středovým zápalem.",
+        "right": false
+      },
+      {
+        "body": "signální zbraně pro použití signálních nábojů nejvýše ráže 16 mm.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "285. Lhůta 10 pracovních dnů pro ohlášení nabytí zbraně kategorie PO se počítá ode dne:",
+    "answers": [
+      {
+        "body": "kdy byla jejímu držiteli doručena výzva krajského ředitelství policie k provedení ohlášení.",
+        "right": false
+      },
+      {
+        "body": "kdy s ní začal její držitel nakládat.",
+        "right": true
+      },
+      {
+        "body": "ode dne vydání zapsané autorizace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "286. Zbraň kategorie PO, jejíž nabytí ohlásil držitel této zbraně:",
+    "answers": [
+      {
+        "body": "musí být současně předložena k prohlídce krajskému ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "se k prohlídce krajskému ředitelství policie povinně nepřikládá.",
+        "right": true
+      },
+      {
+        "body": "musí být současně předložena ke kontrole Českému úřadu pro zkoušení zbraní a střeliva.",
         "right": false
       }
     ]
@@ -4524,6 +4948,23 @@
     ]
   },
   {
+    "name": "292. Držitel zbrojní licence skupiny ZL1 v případě nabytí nebo převodu zbraně:",
+    "answers": [
+      {
+        "body": "je povinen ohlásit ve lhůtě 10 pracovních dnů nabytí nebo převod zbraně krajskému ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "je povinen ohlásit nabytí nebo převod vlastnictví zbraně Policejnímu prezidiu České republiky, a to ve lhůtě 5 pracovních dnů.",
+        "right": false
+      },
+      {
+        "body": "zapisuje tyto změny do evidence, kterou vede v centrálním registru zbraní.", 
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "293. Držitel zbrojní licence bez zbytečného odkladu zapíše do centrálního registru zbraní každou osobu:",
     "answers": [
       {
@@ -4541,6 +4982,40 @@
     ]
   },
   {
+    "name": "294. Mezi osoby, pro které je držitel zbrojní licence povinen zajišťovat pravidelné školení a které zapisuje do centrálního registru zbraní, nepatří osoby, které se v rámci činnosti držitele zbrojní licence podílí na nakládání se:",
+    "answers": [
+      {
+        "body": "zbraněmi podléhajícími registraci a zbraněmi kategorie PO.",
+        "right": false
+      },
+      {
+        "body": "výhradně zbraněmi kategorie NO.",
+        "right": true
+      },
+      {
+        "body": "střelivem kategorie S1, S2 nebo S3.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "295. Pokud se osoba přestane v rámci činnosti držitele zbrojní licence podílet na nakládání se zbraněmi podléhajícími registraci nebo zbraněmi kategorie PO nebo střelivem kategorie S1, S2 nebo S3:",
+    "answers": [
+      {
+        "body": "držitel zbrojní licence o tom pouze učiní poznámku ve svém vnitřním předpise.",
+        "right": false
+      },
+      {
+        "body": "držiteli zbrojní licence zaniká povinnost zajišťovat pro ni pravidelné školení a provede její výmaz z centrálního registru zbraní.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojní licence požádá o její výmaz z obchodního rejstříku.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "296. Pokud osobě, která se v rámci činnosti držitele zbrojní licence podílí na nakládání se zbraněmi podléhajícími registraci nebo zbraněmi kategorie PO nebo střelivem kategorie S1, S2 nebo S3, bylo zbrojní oprávnění pozastaveno nebo jí zaniklo:",
     "answers": [
       {
@@ -4553,6 +5028,23 @@
       },
       {
         "body": "tato osoba o tom bez zbytečného odkladu uvědomí živnostenský úřad.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "297. Držitel zbrojní licence, který v rámci své činnosti nakládá s palnými zbraněmi kategorie NO, součástmi zbraně umožňujících samočinnou střelbu a polotovary hlavních částí zbraní podléhajících registraci:",
+    "answers": [
+      {
+        "body": "je povinen je evidovat v evidenčním soupisu, který se vede mimo centrální registr zbraní.",
+        "right": true
+      },
+      {
+        "body": "je povinen je evidovat v centrálním registru zbraní.",
+        "right": false
+      },
+      {
+        "body": "není povinen je evidovat.",
         "right": false
       }
     ]
@@ -4592,6 +5084,23 @@
     ]
   },
   {
+    "name": "300. Údaje identifikující osobu, které zbraň nebo regulovanou součást zbraně držitel zbrojní licence předal nebo na niž je převedl [§ 75 odst. 3 písm. c) zákona o zbraních a střelivu], je držitel zbrojní licence povinen uchovávat:",
+    "answers": [
+      {
+        "body": "na datovém nosiči.",
+        "right": false
+      },
+      {
+        "body": "odděleně od údajů identifikujících zbraně kategorie NO.",
+        "right": false
+      },
+      {
+        "body": "10 let ode dne jejich zápisu do evidenčního soupisu.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "301. Držitel zbrojní licence skupiny ZL1 je povinen do centrálního registru zbraní zapisovat údaje:",
     "answers": [
       {
@@ -4604,6 +5113,23 @@
       },
       {
         "body": "o zbraních podléhajících registraci, zbraních kategorie PO a střelivu, s nimiž nakládá.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "302. Mezi údaje zapisované do centrálního registru zbraní podle § 76 odst. 2 nepatří:",
+    "answers": [
+      {
+        "body": "údaje identifikující konkrétní zbraň podléhající registraci nebo zbraň kategorie PO.",
+        "right": false
+      },
+      {
+        "body": "údaje o ráži a počtu kusů nábojů a nábojek a o druhu a množství aktivních komponentů střeliva.",
+        "right": false
+      },
+      {
+        "body": "údaje identifikující každou součást zbraně kategorie NO.",
         "right": true
       }
     ]
@@ -4677,6 +5203,23 @@
     ]
   },
   {
+    "name": "307. Držitel zbrojní licence je oprávněn přenechávat zbraň podléhající registraci:",
+    "answers": [
+      {
+        "body": "držiteli zbrojního oprávnění nebo držiteli zbrojní licence, a to na základě smlouvy o přenechání zbraně; podmínkou účinnosti smlouvy o přenechání zbraně je souhlas s přenecháním zbraně, k jehož udělení je oprávněno krajské ředitelství policie místně příslušné podle místa pobytu osoby, které má být zbraň přenechána.",
+        "right": false
+      },
+      {
+        "body": "držiteli zbrojního oprávnění nebo držiteli zapsané autorizace.",
+        "right": false
+      },
+      {
+        "body": "držiteli zbrojního oprávnění, který je k němu v pracovněprávním, členském nebo obdobném vztahu, a to pro plnění úkolů při výkonu činnosti, pro kterou byla zbrojní licence vydána.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "308. Držiteli zbrojního oprávnění, nejde-li o přenechání zbraně podle odstavce 2, nebo držiteli zbrojní licence skupiny ZL2 může být zbraň podléhající registraci přenechána, pokud jde o:",
     "answers": [
       {
@@ -4694,6 +5237,57 @@
     ]
   },
   {
+    "name": "309. Držiteli zbrojního oprávnění nebo držiteli zbrojní licence skupiny ZL2 lze přenechat zbraň podléhající registraci, pokud jde:",
+    "answers": [
+      {
+        "body": "zároveň také o držitele zapsané autorizace.",
+        "right": false
+      },
+      {
+        "body": "o přenechání zbraně kategorie R2, R3 nebo R4 držitelem zbrojní licence na střelnici.",
+        "right": true
+      },
+      {
+        "body": "o přenechání zbraně kategorie R3 vždy na dobu nejvýše 90 dnů po sobě jdoucích.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "310. Zbraň kategorie PO nebo NO a střelivo pro takovou zbraň lze přenechat:",
+    "answers": [
+      {
+        "body": "osobě, která je oprávněna s nimi nakládat, nebo plně svéprávné zletilé fyzické osobě.",
+        "right": true
+      },
+      {
+        "body": "osobě, která je vedlejším držitelem zbraně kategorie PO nebo NO zapsaným do centrálního registru zbraní.",
+        "right": false
+      },
+      {
+        "body": "fyzičtí nebo právnické osobě a držitel takové zbraně musí její přenechání bez zbytečného odkladu ohlásit krajskému ředitelství policie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "311. Držitel zbraně kategorie PO nebo NO nesmí takovou zbraň nebo střelivo pro takovou zbraň přenechat:",
+    "answers": [
+      {
+        "body": "osobě, která není ve smyslu zákona o zbraních a střelivu považována za spolehlivou.",
+        "right": false
+      },
+      {
+        "body": "držiteli zbrojního oprávnění nebo držiteli zapsané autorizace.",
+        "right": false
+      },
+      {
+        "body": "osobě, o které nezná údaje potřebné k určení její totožnosti.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "312. Vyberte správné tvrzení.",
     "answers": [
       {
@@ -4706,6 +5300,40 @@
       },
       {
         "body": "Paintballovou a airsoovou zbraň nebo jinou expanzní zbraň kategorie NO lze přenechat osobě, která dosáhla věku 10 let; s přenecháním takové zbraně této osobě musí udělit souhlas její zákonný zástupce, opatrovník nebo poručník.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "313. Paintballovou a airsoftovou zbraň nebo jinou plynovou zbraň kategorie NO lze přenechat osobě, která:",
+    "answers": [
+      {
+        "body": "dosáhla věku alespoň 12 let a s ohledem na stupeň jejího fyzického a rozumového vývinu lze předpokládat, že s touto zbraní bude nakládat bezpečně.",
+        "right": false
+      },
+      {
+        "body": "dosáhla věku 15 let; s přenecháním takové zbraně této osobě musí udělit souhlas její zákonný zástupce, opatrovník nebo poručník.",
+        "right": true
+      },
+      {
+        "body": "je plně svéprávná, zletilá a má místo pobytu na území České republiky; přenechání paintballové a airsoftové zbraně nebo jiné plynové zbraně kategorie NO osobě mladší 18 let zákon o zbraních a střelivu nepřipouští.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "314. Svěřením zbraně nebo střeliva je pro účely zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "umožnění jiné fyzické osobě nakládat se svěřenou zbraní nebo střelivem pod dohledem osoby oprávněné se svěřovanou zbraní a střelivem nakládat.",
+        "right": true
+      },
+      {
+        "body": "dočasné umožnění jiné osobě samostatně nakládat se zbraní nebo střelivem osoby, která je svěřuje; ten, komu byly zbraň nebo střelivo svěřeny, je nesmí sám svěřit jiné osobě, smí je však jiné osobě přenechat.",
+        "right": false
+      },
+      {
+        "body": "odevzdání zbraně, která byla podle zákona o zbraních a střelivu zadržena nebo zajištěna, do úschovy držiteli zbrojní licence skupiny ZL1; svěřená zbraň nemusí být v rámci zadržení nebo zajištění odevzdána policii.",
         "right": false
       }
     ]
@@ -4762,6 +5390,23 @@
     ]
   },
   {
+    "name": "318. Platí, že zbraň kategorie PO nebo NO a střelivo pro takovou zbraň lze svěřit:",
+    "answers": [
+      {
+        "body": "jiné fyzické osobě bez dohledu.",
+        "right": false
+      },
+      {
+        "body": "jiné fyzické osobě pouze za dohledu osoby oprávněné s takovou zbraní a střelivem nakládat.",
+        "right": true
+      },
+      {
+        "body": "pouze právnické osobě.", 
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "319. Pokud je zbraň kategorie R2, R3 nebo R4 a střelivo pro takovou zbraň svěřována fyzické osobě, která je mladší 18 let a není držitelem zbrojního oprávnění:",
     "answers": [
       {
@@ -4774,6 +5419,23 @@
       },
       {
         "body": "musí nad ní být zajištěn dohled držitele zbrojního oprávnění pouze tehdy, pokud současně nakládá se zbraní kategorie R2, R3 nebo R4 a s odpovídajícím střelivem nebo provádí-li střelbu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "320. Zbraň kategorie PO nebo NO a střelivo pro takovou zbraň lze svěřit pouze:",
+    "answers": [
+      {
+        "body": "za dohledu osoby oprávněné s takovou zbraní a střelivem nakládat.",
+        "right": true
+      },
+      {
+        "body": "jde-li o zbraň a střelivo ověřené pro civilní použití podle zákona o ověřování střelných zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "jde-li o zbraň a střelivo označené identifikačními údaji v souladu se zákonem o zbraních a střelivu.",
         "right": false
       }
     ]
@@ -4796,6 +5458,45 @@
     ]
   },
   {
+    "name": "322. Pro nošení zbraně platí, že:",
+    "answers": [
+      {
+        "body": "skryté nošení zbraně se vyžaduje pouze v případě, že zbraň nosí držitel rozšířeného zbrojního oprávnění; držitel obecného zbrojního oprávnění je oprávněn zbraň skrytě nebo viditelně, pokud tím není ohrožen život, zdraví, majetek nebo veřejný pořádek.",
+        "right": false
+
+      },
+      {
+        "body": "nejde-li o nošení zbraně v provozovně držitele zbrojní licence, na střelnici nebo v jiném zřetelně ohraničeném prostoru, ve kterém se se zbraní nakládá se souhlasem jeho majitele, nájemce nebo provozovatele, nebo o viditelné nošení anebo přepravu zbraně v souladu pravidly stanovenými zákonem o zbraních a střelivu, zbraň musí být nošena skrytě.",
+        "right": true
+        
+      },
+      {
+        "body": "nejde-li o nošení zbraně ve zřetelně ohraničeném prostoru, nesmí být zbraň nošena v nabitém stavu a zásobníky nebo nábojová schránka zbraně musí být prázdné.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "323. Zbraň podléhající registraci je za účelem ochrany života, zdraví nebo majetku oprávněn nosit držitel:",
+    "answers": [
+      {
+        "body": "rozšířeného zbrojního oprávnění.",
+        "right": true
+
+      },
+      {
+        "body": "zbrojního oprávnění nebo zbrojní licence skupiny ZL2.",
+        "right": false
+
+      },
+      {
+        "body": "zbrojního oprávnění nebo zapsané autorizace.",
+        "right": false
+
+      }
+    ]
+  },
+  {
     "name": "324. Vyberte správné tvrzení:",
     "answers": [
       {
@@ -4809,6 +5510,108 @@
       {
         "body": "zbraň musí být nošena skrytě; místa, na kterých je možné nosit zbraň viditelně, stanoví v rozhodnu krajské ředitelství policie.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "325. Je pravdivé tvrzení, že nosit zbraň podléhající registraci je oprávněn pouze držitel rozšířeného zbrojního oprávnění?",
+    "answers": [
+      {
+        "body": "Ano.",
+        "right": false
+      },
+      {
+        "body": "Ano, výjimky stanoví zákon o zbraních a střelivu v § 81 pro vybrané akce a činnosti.",
+        "right": true
+      },
+      {
+        "body": "Ne.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "326. Osoba, která nakládá se zbraní, je oprávněna ji viditelně nosit:",
+    "answers": [
+      {
+        "body": "pouze ve zřetelně ohraničených prostorách, přičemž zároveň nesmí být vidět všechny hlavní části zbraně nebo střelivo.",
+        "right": false
+      },
+      {
+        "body": "pokud jí bylo krajským ředitelstvím policie vydáno povolení viditelného nošení zbraně.",
+        "right": false
+      },
+      {
+        "body": "pokud se v souladu s tímto nebo jiným zákonem účastní akce nebo provádí činnost, při kterých se obvykle nakládá se zbraněmi, a pokud způsob nošení zbraně je přiměřený povaze této akce nebo činnosti.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "327. Účelem akce nebo činnosti, při které zákon o zbraních a střelivu dovoluje zbraň nosit viditelně, může být:",
+    "answers": [
+      {
+        "body": "ochrana života, zdraví nebo majetku, sportovně-střelecká činnost, veřejné vystavování zbraní nebo činnost ozbrojené skupiny podle zákona o nakládání se zbraněmi v některých případech ovlivňujících vnitřní pořádek nebo bezpečnost České republiky.",
+        "right": false
+      },
+      {
+        "body": "kulturní činnost, zejména filmová nebo divadelní činnost, rekonstrukce historické bitvy nebo obdobné události nebo pietní akce, výuka nebo výcvik v nakládání se zbraní, sportovně-střelecká nebo obdobná zájmová činnost, nebo provedení lovu nebo obdobné činnosti podle jiného právního předpisu.",
+        "right": true
+      },
+      {
+        "body": "podnikatelská činnost držitele zbrojní licence, ověřování zbraní a střeliva podle zákona o ověřování zbraní a střeliva, ochrana života, zdraví a majetku v citlivých prostorách, zpracování znaleckého posudku nebo posudku o zdravotní způsobilosti podle zákona o zbraních a střelivu nebo podle jiného právního předpisu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "328. Účelem akce nebo činnosti, při které se obvykle nakládá se zbraněmi a při které je viditelný způsob nošení zbraně přiměřený povaze této akce nebo činnosti, může být mimo jiné:",
+    "answers": [
+      {
+        "body": "filmová nebo divadelní činnost a rekonstrukce historické bitvy.",
+        "right": false
+      },
+      {
+        "body": "realizace práva shromažďovacího, tj. například účast na politickém shromáždění, demonstraci apod.",
+        "right": false
+      },
+      {
+        "body": "zprostředkovatelská činnost.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "329. Nenabitou zbraň je osoba, která se účastní akce nebo provádí činnost, v rámci které zákon o zbraních a střelivu připouští viditelné nošení zbraně, oprávněna přepravovat na místo a z místa konání příslušné akce nebo provádění činnosti:",
+    "answers": [
+      {
+        "body": "viditelně, a to za podmínky, že to připouští zvolený způsob přepravy, a pokud je to s ohledem na místní podmínky obvyklé anebo lze-li takovou přepravu považovat za přiměřenou povaze této akce nebo činnosti.",
+        "right": true
+      },
+      {
+        "body": "uloženou v neprůhledném obalu nebo schráně, střelivo musí být přepravováno odděleně od zbraně v samostatném obalu nebo schráně.",
+        "right": false
+      },
+      {
+        "body": "viditelně, je-li osoba, která zbraň přepravuje, držitelem rozšířeného zbrojního oprávnění nebo zbrojní licence skupiny ZL2 nebo ZL3; přitom nesmí využívat prostředky hromadné přepravy osob.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "330. Veřejně vystavovat zbraň nebo střelivo lze:",
+    "answers": [
+      {
+        "body": "na základě povolení veřejného vystavování zbraní nebo střeliva, které je příslušné vydat Policejní prezidium České republiky.",
+        "right": false
+      },
+      {
+        "body": "je-li osoba, která zbraně nebo střelivo vystavuje, držitelem zbrojní licence a předloží-li krajskému ředitelství policie dokumentaci výstavních prostor ve lhůtě nejméně 5 pracovních dnů přede dnem zahájení veřejného vystavování zbraní nebo střeliva.",
+        "right": false
+      },
+      {
+        "body": "za obdobných podmínek jako viditelně nosit zbraň; účelem veřejného vystavování zbraní nebo střeliva může být také účast na specializovaných veletrzích, výstavách a předváděcích akcích za účelem uvádění zbraní nebo střeliva na trh.",
+        "right": true
       }
     ]
   },
@@ -4949,6 +5752,23 @@
     ]
   },
   {
+    "name": "340. Zbraně kategorie R2, R3 nebo R4 v počtu nejvýše 2 kusů a střelivo kategorie S2 nebo S3 v počtu nejvýše 1 000 nábojů:",
+    "answers": [
+      {
+        "body": "nemusí být zabezpečeny jinak standardním fyzickým zabezpečením s technickými parametry stanovenými zákonem o zbraních a střelivu a nařízením vlády a lze je zabezpečit pouze vhodným způsobem, pokud jde například o jejich dočasné uložení v obydlí nebo jiném obdobném prostoru, nebo jejich krátkodobé uložení ve vozidle.",
+        "right": true
+      },
+      {
+        "body": "musí být zabezpečeny standardním způsobem, a to uložením ve schváleném skříňovém trezoru, který musí být vybaven mechanickým nebo elektronickým číslicovým zámkem, mít minimální tloušťku stěny 25 mm a být současně ukotven do zdi, podlahy a stropu, nebo do podlahy nebo stropu a současně alespoň ke dvěma stěnám.",
+        "right": false
+      },
+      {
+        "body": "nemusí být zabezpečeny jinak standardním fyzickým zabezpečením s technickými parametry stanovenými zákonem o zbraních a střelivu a nařízením vlády a lze je zabezpečit libovolným způsobem, pokud jde například o jejich dočasné uložení v místě použití, jako například na střelnici, v zaměstnání nebo na loveckém stanovišti.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "341. Osoba, která současně nenakládá s více než celkem 2 zbraněmi kategorie R2, R3 nebo R4 nebo více než celkem 1000 náboji kategorie S2 nebo S3:",
     "answers": [
       {
@@ -5000,6 +5820,57 @@
     ]
   },
   {
+    "name": "344. K žádosti o povolení jiného způsobu zabezpečení zbraní nebo střeliva žadatel přiloží:",
+    "answers": [
+      {
+        "body": "projekt jiného způsobu zabezpečení, o jehož povolení žádá.",
+        "right": true
+      },
+      {
+        "body": "znalecký posudek z oboru ochrana, obrana a bezpečnost, kterým se prokazuje existence potřeby jiného způsobu zabezpečení; není-li prokázán opak, je krajské ředitelství policie závěrem takového znaleckého posudku v rozhodnutí o povolení jiného způsobu zabezpečení vázáno.",
+        "right": false
+      },
+      {
+        "body": "územně plánovací dokumentaci prokazující, že v místě, pro které je o povolení jiného způsobu zabezpečení žádáno, je nakládání se zbraněmi a střelivem možné.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "345. Pokud orgán veřejné moci vynucuje zákaz vstupu se zbraní do svých úředních nebo chráněných prostor:",
+    "answers": [
+      {
+        "body": "je dle zákona o zbraních a střelivu zakázáno vstupovat do takových prostor, do perimetru 150 m kolem objektů, v nichž se takové prostory nacházejí, a na přístupové cesty k nim; porušení tohoto zákazu má za následek ztrátu spolehlivosti podle zákona o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "je držitel zbrojního oprávnění oprávněn předat zbraň podléhající registraci a střelivo kategorie S2 nebo S3 zaměstnanci zajišťujícímu pro takový orgán veřejné moci provoz recepce nebo ostrahy; zaměstnanec zajišťující provoz recepce nebo ostrahy zbraň a střelivo po převzetí zkontroluje a vydá držiteli zbrojního oprávnění potvrzení, ve kterém musí být mimo jiné uveden též zaměstnavatel takového zaměstnance, pokud jím je soukromá bezpečnostní služba.",
+        "right": false
+      },
+      {
+        "body": "umožní jejímu držiteli při vstupu do takových prostor bezpečné uložení krátké zbraně.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "346. Jedinečnými údaji umožňujícími individuální identifikaci palné nebo plynové zbraně jsou vždy alespoň:",
+    "answers": [
+      {
+        "body": "jméno a příjmení výrobce nebo dovozce, ověřovací značka prokazující splnění podmínek podle Úmluvy o vzájemném uznávání zkušebních značek ručních palných braní (C.I.P), ráže, číslo série a označení typu zbraně.",
+        "right": false
+      },
+      {
+        "body": "jméno výrobce nebo jeho obchodní značka, země nebo místo výroby, výrobní číslo, rok výroby, pokud není součástí výrobního čísla, ráže a označení modelu, pokud výrobce nebo dovozce takové označení užívá.",
+        "right": true
+      },
+      {
+        "body": "název výrobce, ověřovací značka prokazující splnění podmínek podle Úmluvy o vzájemném uznávání zkušebních značek ručních palných braní (C.I.P), ráže, výrobní číslo a název modelu, který musí být uveden ve formátu \"vz.\" (vzor) nebo \"Mod.\" anebo \"M\" (model) a číselné označení konkrétního modelu.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "347. Pro označení zbraně identifikačními údaji neplatí, že:",
     "answers": [
       {
@@ -5012,6 +5883,40 @@
       },
       {
         "body": "musí být trvalé.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "348. Mezi jedinečné údaje umožňující individuální identifikaci zbraně nepatří:",
+    "answers": [
+      {
+        "body": "jméno výrobce nebo jeho obchodní značka.",
+        "right": false
+      },
+      {
+        "body": "výrobní číslo.",
+        "right": false
+      },
+      {
+        "body": "rok uvedení na trh.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "349. Označení zbraně identifikačními údaji musí být:",
+    "answers": [
+      {
+        "body": "trvalé, je zakázáno existující označení zbraně identifikačními údaji odstraňovat.",
+        "right": true
+      },
+      {
+        "body": "trvalé, pokud je takové označení uvedeno v centrálním registru zbraní; změnu označení smí její hlavní držitel provádět nejvíce jednou ročně a je povinen takovou změnu ohlásit ve lhůtě 10 pracovních dnů krajskému ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "trvalé, pokud to umožňuje materiál, ze kterého jsou hlavní části zbraně vyrobeny; odstraňovat existující označení zbraně identifikačními údaji je dovoleno, pouze pokud se tím neznemožní nebo významně nezhorší možnost individuální identifikace zbraně.",
         "right": false
       }
     ]
@@ -5034,6 +5939,23 @@
     ]
   },
   {
+    "name": "351. Pro dodatečné označení zbraně identifikačními údaji neplatí, že:",
+    "answers": [
+      {
+        "body": "držitel zbraně je povinen předat zbraň pro účely jeho provedení držiteli zbrojní licence skupiny ZL1.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie může chybějící identifikační údaje nahradit vlastním označením.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL1 zapíše údaj o provedení nařízeného dodatečného označení zbraně identifikačními údaji do centrálního registru zbraní.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "352. Údaje o ověření a kontrole identifikačních údajů zbraně podléhající registraci nebo zbraně kategorie PO vyznačí v centrálním registru zbraní:",
     "answers": [
       {
@@ -5046,6 +5968,23 @@
       },
       {
         "body": "Policejní prezidium v případech, kdy tyto údaje nevyznačí Český úřad pro zkoušení zbraní a střeliva nebo držitel zbrojní licence skupiny ZL2.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "353. Každé jednotlivé základní balení kompletního střeliva musí být označeno:",
+    "answers": [
+      {
+        "body": "ráží, jménem výrobce, výrobním číslem, modelem, pokud takové označení výrobce střeliva používá, a kategorií střeliva.",
+        "right": false
+      },
+      {
+        "body": "jménem výrobce, identifikačním číslem série nebo šarže, ráží a druhem střeliva.",
+        "right": true
+      },
+      {
+        "body": "ráží střeliva, počtem kusů nábojů v základním balení a seznamem typů zbraní, pro které je dané střelivo určeno.",
         "right": false
       }
     ]
@@ -5064,6 +6003,23 @@
       {
         "body": "držitelem zapsané autorizace, a to i tehdy, jde-li o držitele zbrojního oprávnění.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "355. Pravidelné školení osoby, která se v rámci činnosti držitele zbrojní licence podílí na nakládání se zbraněmi podléhajícími registraci, zbraněmi kategorie PO nebo střelivem kategorie S1, S2 nebo S3, musí být zajištěno:",
+    "answers": [
+      {
+        "body": "alespoň jednou za 3 roky.",
+        "right": false
+      },
+      {
+        "body": "do 10 pracovních dnů od konce každého kalendářního čtvrtletí; v případě osob, které mají alespoň úplné střední vzdělání s maturitou, postačuje pravidelné školení zajistit do 10 pracovních dnů od konce každého kalendářního pololetí.",
+        "right": false
+      },
+      {
+        "body": "alespoň jednou ročně.",
+        "right": true
       }
     ]
   },
@@ -5136,6 +6092,40 @@
     ]
   },
   {
+    "name": "360. Nevratnou úpravou zbraně podle zákona o zbraních a střelivu je mimo jiné taková úprava zbraně:",
+    "answers": [
+      {
+        "body": "kterou dochází ke změně kategorie zbraně.",
+        "right": true
+      },
+      {
+        "body": "kterou se komplexně obnovuje povrchová úprava zbraně, a to včetně obnovení označení zbraně identifikačními údaji.",
+        "right": false
+      },
+      {
+        "body": "kterou dochází k usnadnění budoucího balistického zkoumání.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "361. Považují se úprava na zbraň jiné kategorie, úprava zbraně určené pro ostrou střelbu na akustickou a salutní zbraň, zkrácení hlavně, změna ráže zbraně, znehodnocení zbraně a zhotovení řezu zbraně vždy za nevratnou úpravu zbraně?",
+    "answers": [
+      {
+        "body": "Ano.",
+        "right": true
+      },
+      {
+        "body": "Ano, pokud krajské ředitelství policie při kontrole zbraně rozhodne, že úprava zbraně je nevratná.",
+        "right": false
+      },
+      {
+        "body": "Ne.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "362. Úprava na zbraň jiné kategorie, úprava zbraně určené pro ostrou střelbu na akustickou a salutní zbraň, zkrácení hlavně, změna ráže zbraně, znehodnocení zbraně a zhotovení řezu zbraně se vždy považují za:",
     "answers": [
       {
@@ -5149,6 +6139,40 @@
       {
         "body": "nevratnou úpravu zbraně.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "363. Nevratnou úpravu zbraně podléhající registraci nebo zbraně kategorie PO je oprávněn provést:",
+    "answers": [
+      {
+        "body": "držitel zbrojního oprávnění, který je hlavním držitelem zbraně, nebo držitel zbrojní licence.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL1, a to na základě povolení nevratné úpravy zbraně.",
+        "right": true
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL2, a to na základě povolení nevratné úpravy zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "364. Krajské ředitelství policie může před vydáním povolení nevratné úpravy zbraně:",
+    "answers": [
+      {
+        "body": "zbraň, u které má být provedena nevratná úprava, od žadatele o povolení nevratné úpravy zbraně převzít a uložit provedení jejího kriminalistického zkoumání.",
+        "right": true
+      },
+      {
+        "body": "nařídit odstranění označení identifikačních údajů zbraně.",
+        "right": false
+      },
+      {
+        "body": "prověřit, není-li taková zbraň potřebná pro doplnění balisticko-forenzních sbírek policie, a případně z moci úřední zahájit řízení o vyvlastnění takové zbraně; žádost o povolení nevratné úpravy zbraně se v takovém případě zamítá.",
+        "right": false
       }
     ]
   },
@@ -5170,6 +6194,40 @@
     ]
   },
   {
+    "name": "366. V povolení nevratné úpravy zbraně může krajské ředitelství policie mimo jiné stanovit:",
+    "answers": [
+      {
+        "body": "povinnost předložit zbraň po provedení nevratné úpravy Českému úřadu pro zkoušení zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "povinnost předložit zbraň po provedení nevratné úpravy krajskému ředitelství policie.",
+        "right": true
+      },
+      {
+        "body": "povinnost předložit zbraň po provedení nevratné úpravy Kriminalistickému ústavu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "367. Znehodnotit palnou zbraň nebo zhotovit její řez je oprávněn:",
+    "answers": [
+      {
+        "body": "držitel zbrojního oprávnění, který je hlavním držitelem zbraně, nebo držitel zbrojní licence.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence skupiny ZL1.",
+        "right": true
+      },
+      {
+        "body": "držitel zapsané autorizace, jde-li o znehodnocení nebo zhotovení řezu zbraně kategorie PO.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "368. Technické požadavky na nevratnou úpravu zbraně v případě znehodnocování palných zbraní stanoví:",
     "answers": [
       {
@@ -5182,6 +6240,23 @@
       },
       {
         "body": "u ručních palných zbraní harmonizované technické normy (ČSN EN) a v případě s ráží 20 mm nebo větší pak Český obranný standard (ČOS).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "369. Po znehodnocení zbraně držitel zbrojní licence skupiny ZL1:",
+    "answers": [
+      {
+        "body": "opatří největší hlavní část zbraně verifikační znehodnocovací značkou.",
+        "right": false
+      },
+      {
+        "body": "předloží zbraň ke kontrole Českému úřadu pro zkoušení zbraní a střeliva, nebo Ministerstvu obrany, jde-li o znehodnocení zvláště účinné zbraně, která podléhá mezinárodnímu kontrolnímu režimu.",
+        "right": true
+      },
+      {
+        "body": "vydá certifikát znehodnocené zbraně.",
         "right": false
       }
     ]
@@ -5204,6 +6279,57 @@
     ]
   },
   {
+    "name": "371. Osoba, která není držitelem zbrojní licence skupiny ZL1, je oprávněna vyrábět, přebíjet, delaborovat, znehodnocovat nebo ničit střelivo, se kterým je oprávněna nakládat, nebo zhotovovat jeho řezy:",
+    "answers": [
+      {
+        "body": "v množství, které nepřesáhne 10 000 nábojů v průběhu 12 měsíců po sobě jdoucích; nezpracované výbušné látky a zápalky, jakož i výbušné látky a zápalky získané delaborací musí být odevzdány krajskému ředitelství policie k likvidaci, a to nejpozději ke dni uplynutí expirace stanovené výrobcem těchto výbušných látek a zápalek.",
+        "right": false
+      },
+      {
+        "body": "pouze pro vlastní potřebu a při tom postupuje tak, aby nebyl ohrožen život, zdraví nebo majetek.",
+        "right": true
+      },
+      {
+        "body": "pouze v případě nábojů do ráže 9 mm v případě kulového střeliva a do ráže 12 v případě brokového střeliva; vyrábět, přebíjet, delaborovat, znehodnocovat nebo ničit náboje s okrajovým zápalem je oprávněna plně svéprávná zletilá osoba a náboje se středovým zápalem držitel zbrojního oprávnění nebo zbrojní licence skupiny ZL2 nebo ZL3.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "372. Přebíjené střelivo zhotovené osobou, která není držitelem zbrojní licence skupiny ZL1:",
+    "answers": [
+      {
+        "body": "nepodléhá povinnosti označení a ověření.",
+        "right": true
+      },
+      {
+        "body": "musí být v přiměřené době po svém přebití předáno držiteli zbrojní licence skupiny ZL1 k označení a ověření.",
+        "right": false
+      },
+      {
+        "body": "se považuje za označené a ověřené v souladu se zákonem o zbraních a střelivu, není-li prokázán opak.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "373. Na nakládání s aktivními komponenty střeliva v množství větším, než které stanoví vláda v nařízení vydaném k provedení zákon o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "se vztahuje režim dohledu, který je osoba, která s takovými aktivními komponenty střeliva nakládá, povinna zajistit prostřednictvím akreditovaného držitele obecné muniční licence podle zákona o munici.",
+        "right": false
+      },
+      {
+        "body": "se pohlíží jako na nakládání s pyrotechnickými výrobky podle zákona o pyrotechnických výrobcích a zacházení s nimi a o změně některých zákonů (zákon o pyrotechnice).",
+        "right": false
+      },
+      {
+        "body": "se použijí obdobně právní předpisy upravující nakládání s výbušninami.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "374. Platí, že s aktivními komponenty střeliva:",
     "answers": [
       {
@@ -5216,6 +6342,23 @@
       },
       {
         "body": "kterými jsou zápalky, střeliviny a střely obsahující akvní náplň, lze nakládat pouze v rozsahu stanoveném rozhodnum krajského ředitelství policie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "375. Podmínky pro přeshraniční přemístění zbraně podle § 97 a násl. zákona o zbraních a střelivu se týkají zbraní:",
+    "answers": [
+      {
+        "body": "podléhajících registraci, zbraní kategorie PO nebo palných zbraní kategorie NO.",
+        "right": true
+      },
+      {
+        "body": "kategorie PO a NO, se kterými jejich držitel nakládá při výkonu podnikatelské činnosti v oboru zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "které jsou vojenským materiálem podle zákona o zahraničním obchodu s vojenským materiálem.",
         "right": false
       }
     ]
@@ -5238,6 +6381,40 @@
     ]
   },
   {
+    "name": "377. Pro vydání evropského zbrojního pasu vydávaného Českou republikou platí, že:",
+    "answers": [
+      {
+        "body": "jej vydá krajské ředitelství policie na žádost fyzické osobě, která žádá o zápis zbraně do evropského zbrojního pasu.",
+        "right": true
+      },
+      {
+        "body": "žadatel je povinen doložit, že je občanem České republiky a je vlastníkem zbraně.",
+        "right": false
+      },
+      {
+        "body": "jej lze vydat „blanketně“, tj. bez současného zápisu konkrétní zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "378. Evropský zbrojní pas vydávaný Českou republikou se vydává:",
+    "answers": [
+      {
+        "body": "na 10 let a nelze jej prodloužit.",
+        "right": false
+      },
+      {
+        "body": "na 5 let a lze jej prodloužit o dalších 5 let.",
+        "right": true
+      },
+      {
+        "body": "bez omezení doby platnosti.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "379. Držitel evropského zbrojního pasu vydávaného Českou republikou je oprávněn zbraň zapsanou v evropském zbrojním pasu:",
     "answers": [
       {
@@ -5255,6 +6432,23 @@
     ]
   },
   {
+    "name": "380. Kdo na území České republiky dočasně používá zbraň, která sem byla dočasně přeshraničně přemístěna v souladu s § 97 a násl. zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "není oprávněn současně přepravit střelivo pro takovou zbraň v množství odpovídajícím účelu dočasného použití.",
+        "right": false
+      },
+      {
+        "body": "je oprávněn současně přepravit střelivo pro takovou zbraň v množství odpovídajícím účelu dočasného použití, pokud s ním Policejní prezidium vyslovilo předem souhlas.",
+        "right": false
+      },
+      {
+        "body": "je oprávněn současně přepravit střelivo pro takovou zbraň v množství odpovídajícím účelu dočasného použití.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "381. Vyberte správné tvrzení:",
     "answers": [
       {
@@ -5267,6 +6461,74 @@
       },
       {
         "body": "Držitel evropského zbrojního pasu vydávaného jiným členským státem je oprávněn dočasně přemíst a používat zbraň kategorie R1, R2, R3 nebo R4 v něm zapsanou na území České republiky; tuto zbraň je bez dalšího také oprávněn nosit skrytě za účelem ochrany, života nebo majetku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "382. Pozastavit platnost zbrojního průvodního listu nebo evropského zbrojního pasu vydávaného Českou republikou:",
+    "answers": [
+      {
+        "body": "není možné.",
+        "right": false
+      },
+      {
+        "body": "je možné rozhodnutím krajského ředitelství policie z důvodu ochrany vnitřního pořádku nebo bezpečnosti na dobu, po kterou je dán důvod pro zajištění zbraně, střeliva nebo souvisejícího dokladu nebo listiny.",
+        "right": true
+      },
+      {
+        "body": "je možné rozhodnutím zastupitelského úřadu České republiky nejdéle na dobu 30 dní.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "383. Mezi důvody zániku platnosti zbrojního průvodního listu nebo evropského zbrojního pasu vydávaného Českou republikou nepatří:",
+    "answers": [
+      {
+        "body": "uplynutí doby 30 dnů od jejich vydání nebo od vydání rozhodnutí o pozastavení jejich platnosti.",
+        "right": true
+      },
+      {
+        "body": "nabytí právní moci rozhodnutí o jejich odnětí, ohlášení jejich ztráty nebo odcizení nebo smrt jejich držitele.",
+        "right": false
+      },
+      {
+        "body": "uskutečnění dočasného přeshraničního přemístění nebo použití, pro které byl zbrojní průvodní list vydán.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "384. Trvale dovézt, trvale vyvézt nebo v rámci Evropské unie trvale přeshraničně přemístit zbraň nebo střelivo je oprávněn:",
+    "answers": [
+      {
+        "body": "držitel zbrojního průvodního listu nebo evropského zbrojního pasu.",
+        "right": false
+      },
+      {
+        "body": "osoba, která je oprávněna nakládat se zbraněmi a střelivem jak ve státě, ze kterého mají být zbraň nebo střelivo vyvezeny nebo přeshraničně přemístěny, tak i ve státě, kam mají být dovezeny nebo přeshraničně přemístěny; jde například o situaci, kdy je fyzická osoba držitelem zbrojního oprávnění v České republice a zbrojného preukazu na Slovensku.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence za podmínek stanovených jiným právním předpisem, kterým je zejména zákon č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem, zákon č. 228/2005 Sb, o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů, a příslušný přímo použitelný předpis Evropské unie (nařízení Evropského parlamentu a Rady 2025/41).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "385. Hlášení prostřednictvím centrálního registru zbraní podléhá, jde-li o zbraně podléhající registraci, zbraně kategorie PO a palné zbraně kategorie NO nebo střelivo:",
+    "answers": [
+      {
+        "body": "přeprava zbraní a střeliva držitelem zbrojní licence skupiny ZL1.",
+        "right": false
+      },
+      {
+        "body": "každá, tedy i vnitrostátní nebo neobchodní přeprava více než 100 kusů zbraní nebo více než 200000 nábojů nebo nábojek, anebo aktivních komponentů střeliva v množství vyšším, než jaké stanoví vláda nařízením.",
+        "right": true
+      },
+      {
+        "body": "pouze obchodní přeshraniční přeprava zbraní nebo střeliva.",
         "right": false
       }
     ]
@@ -5289,6 +6551,142 @@
     ]
   },
   {
+    "name": "387. Hlášení přepravy zbraní nebo střeliva musí být provedeno:",
+    "answers": [
+      {
+        "body": "písemně zasláním na adresu Policejního prezidia nejméně 5 kalendářních dnů před započetím přepravy.",
+        "right": false
+      },
+      {
+        "body": "prostřednictvím centrálního registru zbraní nejméně 1 hodinu před započetím přepravy.",
+        "right": true
+      },
+      {
+        "body": "elektronicky vyplněním formuláře na webových stránkách Policie České republiky nejméně 24 hodin před započetím přepravy.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "388. Pro ohlášenou přepravu zbraní nebo střeliva platí, že:",
+    "answers": [
+      {
+        "body": "jakékoli změny v ohlášené přepravě musejí být do 24 hodin ohlášeny krajskému ředitelství policie.",
+        "right": false
+      },
+      {
+        "body": "potvrzení o hlášení stačí mít k dispozici v místě zahájení přepravy, dále doprovázet přepravované zbraně a střelivo už nemusí.",
+        "right": false
+      },
+      {
+        "body": "každý dopravní prostředek určený k ohlášené silniční přepravě zbraní nebo střeliva musí být vybaven zařízením, které umožňuje nepřetržité sledování jeho pohybu a po celou dobu přepravy musí být zařízení do systému sledování pohybu přihlášeno.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "389. Osoba, která nalezne zbraň nebo střeliva musí podle zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "neprodleně oznámit takový nález policii.",
+        "right": true
+      },
+      {
+        "body": "odevzdat nalezenou zbraň nebo střelivo na služebně nejbližšího útvaru policie.",
+        "right": false
+      },
+      {
+        "body": "si smí takovou zbraň nebo střelivo ponechat jako zbraň nebo střelivo vlastní, pokud je oprávněna s takovou zbraní nebo střelivem nakládat a pokud se ve lhůtě 6 měsíců ode dne nálezu nepodaří zjistit, kdo je vlastníkem takové zbraně nebo střeliva.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "390. Ten, kdo nalezne zbraň nebo střelivo ve vojenském objektu:",
+    "answers": [
+      {
+        "body": "je povinen nalezenou zbraň nebo střelivo odevzdat nejbližšímu krajskému vojenskému velitelství.",
+        "right": false
+      },
+      {
+        "body": "je povinen takový nález oznámit, pouze pokud je příslušníkem ozbrojených sil, nebo pokud poskytuje osobní nebo věcnou pomoc ozbrojeným silám podle zákona o zajišťování obrany České republiky.",
+        "right": false
+      },
+      {
+        "body": "oznámí takový nález Vojenské policii.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "391. Není-li vlastník nalezené zbraně nebo střeliva krajskému ředitelství policie znám:",
+    "answers": [
+      {
+        "body": "zbraň nebo střelivo připadají do vlastnictví obce, na jejímž území byly nalezeny.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie předá zbraň nebo střelivo k dalšímu opatření Českému úřadu pro zkoušení zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie uveřejní informace o nalezené zbrani nebo střelivu na své úřední desce po dobu 12 měsíců.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "392. Opuštěné zbraně nebo střelivo a nalezené zbraně nebo střelivo, u kterých nelze podle předpisů soukromého práva určit osobu, které mají být vráceny:",
+    "answers": [
+      {
+        "body": "připadají do vlastnictví nálezci, pokud je osobou, která je oprávněna s takovými zbraněmi nebo střelivem nakládat.",
+        "right": false
+      },
+      {
+        "body": "připadají do vlastnictví státu.",
+        "right": true
+      },
+      {
+        "body": "se nestávají vlastnictvím žádného veřejnoprávního, ani soukromoprávního subjektu a jsou bez dalšího předávány k úřednímu zničení.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "393. Pokud vlastník zbraně nebo střeliva uložených u krajského ředitelství policie tyto nepřevezme do 12 měsíců ode dne doručení výzvy k převzetí nebo uveřejnění informace o nálezu zbraně nebo střeliva:",
+    "answers": [
+      {
+        "body": "má se za to, že je opustil.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie doručí opakovanou výzvu k převzetí nebo opakovaně uveřejní informace o nálezu zbraně nebo střeliva po dobu dalších 12 měsíců.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství předá zbraň nebo střelivo pověřenému zástupci obecního úřadu obce, na jejímž území byly zbraň nebo střelivo nalezeny.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "394. Zbraň podléhající registraci nebo zbraň kategorie PO lze zničit:",
+    "answers": [
+      {
+        "body": "pouze formou úředního zničení zbraně, nestanoví-li zákon o zbraních a střelivu ve výjimečných případech jiný postup; úřední zničení zbraně zajišťuje stát.",
+        "right": true
+      },
+      {
+        "body": "pouze u držitele zbrojní licence skupiny ZL1 nebo ZL2, a to po odstranění označení dané zbraně identifikačními údaji.",
+        "right": false
+      },
+      {
+        "body": "tak, aby při takovém ničení zbraně nebyl ohrožen život, zdraví, majetek nebo veřejný pořádek a nedošlo k ohrožení nebo poškození životního prostředí; zničit zbraň podléhající registraci nebo zbraň kategorie PO je oprávněna osoba, která s takovou zbraní oprávněně nakládá podle zákona o zbraních a střelivu.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "395. Nestanoví-li zákon o zbraních a střelivu jinak, obecně platí, že:",
     "answers": [
       {
@@ -5302,6 +6700,74 @@
       {
         "body": "střelivo nelze zničit.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "396. Zbraň nebo střelivo k úřednímu zničení:",
+    "answers": [
+      {
+        "body": "musí být označeno likvidační značkou, kterou na zbraň vyznačí Český úřad pro zkoušení zbraní a střeliva; likvidační značku na základní balení střeliva vyznačuje vhodným způsobem osoba, která střelivo k úřednímu zničení předává.",
+        "right": false
+      },
+      {
+        "body": "se předává vždy pouze během posledních 10 pracovních dnů v kalendářním čtvrtletí, a to buď osobně nebo prostřednictvím poskytovatele poštovních služeb.",
+        "right": false
+      },
+      {
+        "body": "se předává prostřednictvím krajského ředitelství policie; zbraň nebo střelivo předané k úřednímu zničení předáním krajskému ředitelství policie připadá do vlastnictví státu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "397. Zbraň nebo střelivo k úřednímu zničení:",
+    "answers": [
+      {
+        "body": "se krajskému ředitelství policie předávají za náhradu, kterou hradí osobě, která zbraň nebo střelivo k úřednímu zničení předala, stát prostřednictvím krajského ředitelství policie, a jejíž výše nesmí být vyšší než cena druhotně využitelných materiálů obsažených ve zbrani a střelivu, a to ve výši ceny obvyklé.",
+        "right": false
+      },
+      {
+        "body": "se předávají i přijímají bezplatně.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství převezme až po úhradě nákladů úředního zničení osobou, která zbraň k úřednímu zničení předává; paušální výše nákladů úředního zničení činí 100 Kč v případě krátké zbraně, 200 Kč v případě dlouhé zbraně a 1000 Kč v případě jiných zbraní nebo zbraňových systémů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "398. Nevyňatou veřejnoprávní institucí se podle zákona o zbraních a střelivu rozumí:",
+    "answers": [
+      {
+        "body": "instituce zřízená zákonem nebo zřízená jinou takovou institucí, která není vyňatou veřejnoprávní institucí, jde například o obce nebo Českou národní banku; pro nevyňaté veřejnoprávní instituce zákon o zbraních a střelivu umožňuje použít podobný právní režim jako v případě držitelů zbrojních licencí, který však může být podle povahy činnosti nevyňaté veřejnoprávní instituce modifikován tzv. souhlasem Policejního prezidia České republiky.",
+        "right": true
+      },
+      {
+        "body": "ozbrojený bezpečnostní sbor nebo zpravodajská služby, ozbrojené síly České republiky, Vojenská policie, Ministerstvo vnitra, Ministerstvo obrany a Správa státních hmotných rezerv.",
+        "right": false
+      },
+      {
+        "body": "držitel zbrojní licence, který je současně subjektem kritické infrastruktury podle jiného právního předpisu, pokud takový subjekt požádá o přiznání statusu nevyňaté veřejnoprávní instituce, a to vždy na dobu nejvýše 10 let; o přiznání statusu nevyňaté instituce lze na žádost držitele zbrojní licence, který je současně subjektem kritické infrastruktury, rozhodnout též ve lhůtě 2 měsíců přede dnem uplynutí platnosti dosavadního rozhodnutí o přiznání statusu nevyňaté veřejnoprávní instituce, a to i opakovaně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "399. Nevyňatou veřejnoprávní institucí není pro účely zákona o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "obec.",
+        "right": false
+      },
+      {
+        "body": "Česká národní banka.",
+        "right": false
+      },
+      {
+        "body": "Ministerstvo vnitra.",
+        "right": true
       }
     ]
   },
@@ -5323,6 +6789,57 @@
     ]
   },
   {
+    "name": "401. Zadržet zbraň, střelivo nebo související doklad nebo listinu může:",
+    "answers": [
+      {
+        "body": "příslušník policie nebo jiného bezpečnostního sboru anebo příslušník Ministerstva vnitra.",
+        "right": false
+      },
+      {
+        "body": "příslušník policie.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie, a to rozhodnutím vydaným ve správním řízení.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "402. Příslušník policie může zadržet zbraň, střelivo nebo související doklad nebo listinu:",
+    "answers": [
+      {
+        "body": "je-li to nezbytné, aby jejich držiteli zabránil v jednání při nakládání se zbraní nebo střelivem, kterým porušuje povinnost nebo nedodržuje zákaz stanovený tímto nebo jiným zákonem nebo které může představovat ohrožení života nebo zdraví.",
+        "right": true
+      },
+      {
+        "body": "na základě pokynu orgánu samosprávy nebo ústředního správního orgánu.",
+        "right": false
+      },
+      {
+        "body": "pouze v případě, že nakládání s takovou zbraní představuje bezprostřední hrozbu pro život nebo zdraví osob.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "403. Pokud se osoba účastní sportovně-střelecké akce a při manipulaci se zbraní opakovaně neuposlechne pokyny pořadatele, které směřují k zajištění bezpečného nakládání se zbraněmi a střelivem, a svým chováním ohrožuje zdraví a život ostatních účastníků akce, může příslušník policie, je-li na místě přítomen:",
+    "answers": [
+      {
+        "body": "zadržet zbraň, se kterou osoba nakládá, a případně také související doklad nebo listinu.",
+        "right": true
+      },
+      {
+        "body": "rozhodnout o zajištění zbraně a souvisejícího dokladu nebo listiny.",
+        "right": false
+      },
+      {
+        "body": "rozhodnout o odnětí zbrojního oprávnění.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "404. Pokud nejsou zbraň nebo střelivo, které mají být zadrženy, na výzvu příslušníka policie neprodleně vydány a je-li to nezbytné pro ochranu života nebo zdraví:",
     "answers": [
       {
@@ -5336,6 +6853,23 @@
       {
         "body": "může příslušník policie za účelem jejich zadržení vstoupit do obydlí, jiných prostor nebo na pozemek, má-li důvodné podezření, že se zde zbraň nebo střelivo nalézají.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "405. O zajištění zbraně, střeliva nebo související dokladu nebo listiny může z některého z důvodů uvedených v zákoně o zbraních a střelivu rozhodnout:",
+    "answers": [
+      {
+        "body": "kterýkoli příslušník policie v rámci svých pravomocí, rozhodnutí musí ovšem vyhotovit písemně a doručit tomu, vůči komu směřuje, a to nejméně dva dny před samotným zajištěním zbraně, střeliva nebo související dokladu nebo listiny.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie, a to ve správním řízení, ve kterém může být vydání rozhodnutí o zajištění prvním krokem, a odvolání proti tomuto rozhodnutí nemá odkladný účinek.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie, Policejní prezidium České republiky, Ministerstvo vnitra, Český úřad pro zkoušení zbraní a střeliva a v případě aktivních komponentů střeliva také Český báňský úřad.",
+        "right": false
       }
     ]
   },
@@ -5374,6 +6908,23 @@
     ]
   },
   {
+    "name": "408. Pokud krajské ředitelství policie obdrží například informaci zpravodajské služby, že držitel zbraně nebo střeliva představuje vážné nebezpečí pro vnitřní pořádek nebo bezpečnost:",
+    "answers": [
+      {
+        "body": "může rozhodnout o zajištění zbraně, střeliva nebo související dokladu nebo listiny.",
+        "right": true
+      },
+      {
+        "body": "může rozhodnout o odnětí zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "vezme tuto informaci na vědomí; další opatření může činit až na základě výsledku řízení, bylo-li s takovou osobou zahájeno.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "409. Osoba, která přechovává zbraň, střelivo nebo související doklad nebo listinu, ohledně kterých krajské ředitelství policie rozhodlo o zajištění, je povinna:",
     "answers": [
       {
@@ -5387,6 +6938,23 @@
       {
         "body": "je bez zbytečného odkladu odevzdat do úschovy útvaru policie, který o jejich zajištění rozhodl, nebo sdělit místo jejich uložení a umožnit jejich převzetí policií.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "410. Pokud nejsou zbraň nebo střelivo, které byly zajištěny, neprodleně odevzdány nebo nebylo umožněno jejich převzetí policií:",
+    "answers": [
+      {
+        "body": "může příslušník policie předat řešení dané věci v rámci zadržení zbraně, střeliva nebo související dokladu nebo listiny; orgánem veřejné moci příslušným k zadržení zbraně nebo střeliva je v takovém případě Generální inspekce bezpečnostních sborů.",
+        "right": false
+      },
+      {
+        "body": "může příslušník policie za účelem jejich zajištění vstoupit do obydlí, jiných prostor nebo na pozemek, lze-li předpokládat, že se zde zbraň nebo střelivo nalézají.",
+        "right": true
+      },
+      {
+        "body": "zahájí krajské ředitelství bez zbytečného odkladu řízení o odnětí zbrojního oprávnění, zbrojní licence nebo zapsané autorizace osoby, která nakládá se zbraněmi, které byly zajištěny; taková osoba je povinna vydat zbraň nebo střelivo, které byly zajištěny, nejpozději ke dni vydání rozhodnutí o odnětí daného zbrojního oprávnění, zbrojní licence nebo zapsané autorizace.",
+        "right": false
       }
     ]
   },
@@ -5425,6 +6993,40 @@
     ]
   },
   {
+    "name": "413. Jakým způsobem nemůže vlastník naložit se zbraní nebo střelivem, ke kterým pozbyde oprávnění s nimi nakládat?",
+    "answers": [
+      {
+        "body": "Požádat krajské ředitelství policie o předání zbraně nebo střeliva jiné osobě oprávněné s nimi nakládat za účelem jejich úschovy, převodu, trvalého přeshraničního přemístění nebo nevratné úpravy.",
+        "right": false
+      },
+      {
+        "body": "Požádat krajské ředitelství policie o předání zbraně nebo střeliva k úřednímu zničení.",
+        "right": false
+      },
+      {
+        "body": "Požádat krajské ředitelství policie o stanovení lhůty, po kterou bude moci nakládat se zbraní nebo střelivem, přestože oprávnění pozbyl.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "414. Pokud vlastník zbraně nebo střeliva, který pozbyl oprávnění s nimi nakládat, nenaloží s takovou zbraní nebo střelivem způsobem uvedeným v zákoně o zbraních a střelivu do 12 měsíců ode dne pozbytí příslušného oprávnění, a tedy například nepožádá krajské ředitelství policie o jejich předání držiteli zbrojní licence skupiny ZL1 za účelem jejich prodeje nebo znehodnocení:",
+    "answers": [
+      {
+        "body": "dopustí se tím přestupku, za který může být uložena pokuta do výše 30 000 Kč nebo zákaz činnosti.",
+        "right": false
+      },
+      {
+        "body": "taková zbraň nebo střelivo připadnou do vlastnictví státu.",
+        "right": true
+      },
+      {
+        "body": "krajské ředitelství policie předá takovou zbraň, střelivo spolu se souvisejícími doklady a listinami Národnímu archivu České republiky k provedení jejich katalogizace, konzervace a k archivaci.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "415. Centrální registr zbraní je:",
     "answers": [
       {
@@ -5438,6 +7040,23 @@
       {
         "body": "neveřejný vnitřní informační systém používaný výhradně Policií České republiky, a to za účelem předcházení násilné trestné činnosti se zbraněmi, střelivem, municí, výbušninami a jejich prekurzory, pyrotechnickými výrobky a biologickými agens použitelnými jako zbraně.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "416. Správcem centrálního registru zbraní je:",
+    "answers": [
+      {
+        "body": "Český úřad pro zkoušení zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "Ministerstvo vnitra.",
+        "right": false
+      },
+      {
+        "body": "Policejní prezidium České republiky.",
+        "right": true
       }
     ]
   },
@@ -5493,18 +7112,188 @@
     ]
   },
   {
+    "name": "420. V případě, že vznikne pochybnost o kategorii zbraně nebo střeliva a tuto pochybnost se nepodaří vyřešit komunikací se správcem centrálního registru zbraní, zařadí zbraň nebo střelivo do kategorie:",
+    "answers": [
+      {
+        "body": "Policejní prezidium, a to rozhodnutím o odvolání proti stanovisku správce centrálního registru zbraní.",
+        "right": false
+      },
+      {
+        "body": "Ministerstvo vnitra, a to závazným stanoviskem.",
+        "right": false
+      },
+      {
+        "body": "Český úřad pro zkoušení zbraní a střeliva, a to opatřením obecné povahy o kategorizaci zbraně nebo střeliva.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "421. Pro řízení ve věcech týkajících se zbrojního oprávnění je místně příslušné krajské ředitelství policie podle místa:",
+    "answers": [
+      {
+        "body": "sídla provozovatele zapsané zkouškové střelnice, na které byla vykonána zkouška odborné způsobilosti nebo komisionální zkouška.",
+        "right": false
+      },
+      {
+        "body": "pobytu fyzické osoby.",
+        "right": true
+      },
+      {
+        "body": "faktického umístění zapsané zkouškové střelnice, na které byla vykonána zkouška odborné způsobilosti nebo komisionální zkouška.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "422. Podat žádost, provést registraci, ohlášení nebo splnit informační povinnosti podle zákona o zbraních a střelivu:",
     "answers": [
       {
         "body": "lze u kteréhokoli krajského ředitelství policie.",
-        "right": false
-      },
-      {
-        "body": "je držitel zbrojního oprávnění povinen u krajského ředitelství policie místně příslušného podle místa jeho pobytu.",
         "right": true
       },
       {
+        "body": "je držitel zbrojního oprávnění povinen u krajského ředitelství policie místně příslušného podle místa jeho pobytu.",
+        "right": false
+      },
+      {
         "body": "je fyzická osoba oprávněna u kteréhokoli orgánu státní správy místně příslušného podle místa jejího pobytu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "423. Je pravda, že držitel zbrojního oprávnění může provést registraci zbraně u kterékoli krajského ředitelství policie?",
+    "answers": [
+      {
+        "body": "Ano.",
+        "right": true
+      },
+      {
+        "body": "Ne.",
+        "right": false
+      },
+      {
+        "body": "Nelze určit, protože zákon o zbraních takový postup neupravuje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "424. Osoba, která převede zbraň nebo střelivo nebo jinak s nimi umožní nakládat jiné osobě, která k tomu není oprávněna, se takovým jednáním může dopustit například:",
+    "answers": [
+      {
+        "body": "přestupku podle zákona o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "kázeňského provinění, za které může být kterýkoli držitel zbrojního oprávnění potrestán krajským ředitelstvím policie podle příslušného stavovského předpisu.",
+        "right": false
+      },
+      {
+        "body": "pokusu neuposlechnutí výzvy úřední osoby ve stádiu přípravy.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "425. Držitel zbrojního oprávnění, který neprovede hlášení přepravy zbraní nebo střeliva podle § 111 a násl., kterou zajišťuje a která hlášení přepravy podléhá:",
+    "answers": [
+      {
+        "body": "se nedopouští protiprávního jednání, protože povinnost hlásit přepravu zbraní nebo střeliva má pouze držitel zbrojní licence.",
+        "right": false
+      },
+      {
+        "body": "se dopouští přestupku podle zákona o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "se dopouští přestupku podle zákona o silniční dopravě.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "426. Pro ukládání správních trestů podle zákona o zbraních a střelivu platí, že:",
+    "answers": [
+      {
+        "body": "lze uložit pokutu ve výši stanovené zákonem o zbraních a střelivu, jiný druh trestu se nepřipouští.",
+        "right": false
+      },
+      {
+        "body": "lze uložit pokutu ve výši stanovené zákonem o zbraních a střelivu, zákaz činnosti lze uložit pouze vyňaté veřejnoprávní instituci.",
+        "right": false
+      },
+      {
+        "body": "lze uložit pokutu ve výši stanovené zákonem o zbraních a střelivu, za nejzávažnější přestupky držitele zbrojní licence lze uložit zákaz činnosti, při splnění podmínek stanovených zákonem o odpovědnosti za přestupky a řízení o nich lze uložit také propadnutí věci.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "427. Za přestupek fyzické osoby lze podle zákona o zbraních a střelivu uložit pokutu:",
+    "answers": [
+      {
+        "body": "až do výše 10 000 Kč.",
+        "right": false
+      },
+      {
+        "body": "v minimální výši 2 000 Kč a v maximální výši 20 000 Kč.",
+        "right": false
+      },
+      {
+        "body": "obecně do výše 30 000 Kč, a dále pak až do výše 50 000 Kč v případě, že pachatel porušil povinnost stanovenou zákonem o zbraních a střelivu opakovaně nebo udržoval-li delší dobu protiprávní stav, do výše 100 000 Kč, pokud pachatel zvlášť hrubým porušením povinností stanovených zákonem o zbraních a střelivu ohrozil život nebo zdraví, a do výše 1 000 000 Kč, pokud bylo cílem jednání pachatele přestupku získat majetkový prospěch.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "428. Maximální pokutou, kterou lze podle zákona o zbraních a střelivu uložit, je:",
+    "answers": [
+      {
+        "body": "100 000 Kč; pokutu v této výši lze uložit pachateli, padělá, pozmění, zahlazuje nebo odstraňuje jedinečné označení střelné zbraně, které umožňuje její identifikaci.",
+        "right": false
+      },
+      {
+        "body": "5 000 000 Kč; pokutu v této výši lze uložit držiteli zbrojní licence například tehdy, pokud úmyslně, opakovaně nebo ve větším rozsahu nevede evidenci v souladu se zákonem o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "30 000 000 Kč; pokutu v této výši lze uložit osobě, která neumožní, překazí nebo zmaří výkon kontrolní pravomoci Ministerstva obrany v rámci kontroly fyzického a evidenčního stavu zvláště účinné zbraně podléhající mezinárodním kontrolním režimům, nebo neumožní, překazí nebo zmaří výkon obdobné pravomoci zahraničního inspekčního týmu v doprovodu zaměstnance zařazeného v Ministerstvu obrany, pokud taková pravomoc vyplývá z mezinárodní smlouvy, která je součástí právního řádu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "429. Maximální pokutou, kterou lze podle zákona o zbraních a střelivu uložit, je:",
+    "answers": [
+      {
+        "body": "5 000 000 Kč; pokutu v této výši lze uložit držiteli zbrojní licence například tehdy, pokud úmyslně, opakovaně nebo ve větším množství dodá na trh zbraň nebo střelivo v rozporu se zákonem o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "50 000 Kč; pokutu v této výši lze uložit provozovateli střelnice, který umožní na střelnici střelbu neoprávněné osobě nebo osobě, na kterou se zákon o zbraních a střelivu nevztahuje.",
+        "right": false
+      },
+      {
+        "body": "3 000 000 Kč; pokutu v této výši lze uložit osobě, která jako člen organizované skupiny vyrobí, sobě nebo jinému opatří nebo přechovává výbušninu v množství větším než malém, zbraň hromadně účinnou nebo součástky, jichž je k užití takové zbraně nezbytně třeba.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "430. Přestupky držitele zbrojního oprávnění podle zákona o zbraních a střelivu projednává:",
+    "answers": [
+      {
+        "body": "obecní úřad obce s rozšířenou působností; příslušník Policie České republiky může projednat přestupek podle zákona o zbraních a střelivu příkazem na místě.",
+        "right": true
+      },
+      {
+        "body": "Český úřad pro zkoušení zbraní a střeliva, pokud jde o projednání přestupku v prvním stupni, a Ministerstvo vnitra, pokud jde o rozhodování o odvolání proti prvostupňovému rozhodnutí o přestupku.",
+        "right": false
+      },
+      {
+        "body": "krajské ředitelství policie místně příslušné podle místa pobytu držitele zbrojního oprávnění.",
         "right": false
       }
     ]
@@ -5544,6 +7333,91 @@
     ]
   },
   {
+    "name": "433. Oprávnění nakládat se zbraní podléhající registraci nebo zbraní kategorie PO lze podle zákona o zbraních a střelivu prokázat například:",
+    "answers": [
+      {
+        "body": "předložením zbrojního listu spolu s předložením občanského průkazu, cestovního pasu nebo obdobného dokladu osoby, které byl zbrojní list vydán.",
+        "right": true
+      },
+      {
+        "body": "předložením občanského průkazu nebo cestovního pasu a místopřísežným ústním prohlášením.",
+        "right": false
+      },
+      {
+        "body": "předložením osvědčení o úspěšném složení zkoušky odborné způsobilosti nebo komisionální zkoušky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "434. Pro prokázání oprávnění nakládat se zbraní podléhající registraci nebo zbraní kategorie PO platí, že jej:",
+    "answers": [
+      {
+        "body": "lze prokázat před krajským ředitelstvím policie nebo Policejním prezidiem, které oprávnění ověří, a to popřípadě i na žádost osob, které navzájem chtějí oprávnění prokázat.",
+        "right": true
+      },
+      {
+        "body": "nelze prokázat před držitelem zbrojní licence, protože ten není oprávněn za tímto účelem v centrálním registru zbraní oprávnění ověřit.",
+        "right": false
+      },
+      {
+        "body": "lze prokázat čestným prohlášením.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "435. Oprávnění nakládat se zbraní podléhající registraci nebo zbraní kategorie PO lze podle zákona o zbraních a střelivu prokázat například:",
+    "answers": [
+      {
+        "body": "před obecním úřadem, který je oprávněn oprávnění osoby v centrálním registru ověřit, a to případně i na žádost osoby, která uvede, že na má na prokázání existence oprávnění nakládat se zbraněmi nebo střelivem u jiné osoby právní nebo jiný zájem.",
+        "right": false
+      },
+      {
+        "body": "ústním prohlášením v případech, které nesnesou odkladu.",
+        "right": false
+      },
+      {
+        "body": "před krajským ředitelstvím policie nebo Policejním prezidiem, které oprávnění ověří, a to popřípadě i na žádost osob, které navzájem chtějí oprávnění prokázat, nebo před držitelem zbrojní licence, který je oprávněn za tímto účelem v centrálním registru zbraní oprávnění ověřit.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "436. Oprávnění nakládat se zbraní podléhající registraci nebo zbraní kategorie PO lze podle zákona o zbraních a střelivu prokázat například:",
+    "answers": [
+      {
+        "body": "předložením textu zákona o zbraních a střelivu v listinné podobě a označením ustanovení, na jejichž základě prokazované oprávnění platí.",
+        "right": false
+      },
+      {
+        "body": "předložením evropského zbrojního pasu vydávaného Českou republikou, ve kterém je zapsána zbraň, které se dané oprávnění týká.",
+        "right": true
+      },
+      {
+        "body": "předložením faktury nebo obdobné listiny anebo účetního dokladu v elektronické podobě, které prokazují nabytí zbraně do vlastnictví osobou, která oprávnění nakládat s takovou zbraní prokazuje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "437. Zbrojní list je:",
+    "answers": [
+      {
+        "body": "ověřeným výstupem z informačního systému veřejné správy, ve kterém se o osobě, pro kterou se zbrojní list vydává, uvádí zejména soupis všech jejích oprávnění podle zákona o zbraních a střelivu, každá zbraň podléhající registraci nebo zbraň kategorie PO, jejichž je daná osoba držitelem, hlavním držitelem nebo vedlejším držitelem.",
+        "right": true
+      },
+      {
+        "body": "úřední listinou, ve které se o osobě, která je žadatelem o vydání zbrojního oprávnění, uvádí podrobnosti o úspěšně i neúspěšně absolvovaných zkouškách odborné způsobilosti, komisionálních zkouškách a o všech mimořádných přezkoušeních odborné způsobilosti nařízených krajským ředitelstvím policie v rámci jeho územní působnosti za období 12 měsíců po sobě jdoucích, a to ke dni předcházejícímu dni, ve kterém je krajskému ředitelství policie doručena žádost o vydání zbrojního listu.",
+        "right": false
+      },
+      {
+        "body": "dokumentem s úředně ověřeným podpisem, kterým držitel zbrojního oprávnění nebo zbrojní licence před orgánem veřejné moci, zejména před krajským ředitelstvím policie, čestně prohlašuje, že je držitelem ve zbrojním listu individuálně identifikované zbraně kategorie R2, R3, R4, PO nebo NO a konkrétním množstvím a ráží identifikovaného střeliva.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "438. Zbrojní list je:",
     "answers": [
       {
@@ -5561,7 +7435,24 @@
     ]
   },
   {
-    "name": "440. Zbrojní list vydává:",
+    "name": "439. Zbrojní list slouží:",
+    "answers": [
+      {
+        "body": "k zaznamenání a uchování kompletních technických informací o konkrétní zbrani, zejména pak nevratných úprav zbraně a pravidelných fyzických kontrol zbraně krajským ředitelstvím policie; zbrojní list lze v tomto ohledu přirovnat k tzv. velkému technickému průkazu vozidla.",
+        "right": false
+      },
+      {
+        "body": "k převodu zbraně; zbrojní list je certifikátem prokazujícím vlastnictví zbraně a osoba, které je zbrojní list předán, se stává vlastníkem zbraně, přičemž v případě zbraní podléhajících registraci a zbraní kategorie PO jí okamžikem předání zbrojního listu vzniká povinnost ohlášení převodu takové zbraně krajskému ředitelství policie a současně povinnost mu předložit i nabytý zbrojní list.",
+        "right": false
+      },
+      {
+        "body": "spolu s předložením dokladu totožnosti k prokázání oprávnění podle zákona o zbraních a střelivu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "440. Zbrojní list osobě, jíž se týká, vydá:",
     "answers": [
       {
         "body": "z moci úřední Ministerstvo vnitra, a to na návrh krajského ředitelství policie.",
@@ -5612,6 +7503,40 @@
     ]
   },
   {
+    "name": "443. Zbrojní list platí:",
+    "answers": [
+      {
+        "body": "po dobu 1 roku ode dne jeho vydání.",
+        "right": false
+      },
+      {
+        "body": "po dobu 30 dnů ode dne jeho vydání, není-li v něm uvedena doba platnosti kratší.",
+        "right": false
+      },
+      {
+        "body": "k okamžiku jeho vydání; zbrojní list nemá omezenou dobu platnosti či použitelnosti, vždy je ale třeba zvážit, zda je zbrojní list, od jehož vydání uběhla určitá doba, dostatečně relevantní a důvěryhodný pro prokázání existence určitého oprávnění v určité situaci.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "444. Zbrojní list podle zákona o zbraních a střelivu nenahrazuje:",
+    "answers": [
+      {
+        "body": "doklad o registraci zbraně, rozhodnutí o vydání výjimky kategorie R1 nebo R2 anebo povolení kategorie R3.",
+        "right": false
+      },
+      {
+        "body": "evropský zbrojní pas, zbrojní průvodní list nebo jinou listinu vydávanou v souvislosti s přeshraničním přemístěním zbraně nebo střeliva, potvrzení hlášení přepravy zbraní nebo střeliva, nebo certifikát znehodnocené zbraně.",
+        "right": true
+      },
+      {
+        "body": "doklad o zbrojním oprávnění nebo zbrojní licenci skupiny ZL2 nebo ZL3.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "445. Pro rozhodnutí o přiznání práva (např. vyhovění žádosti o vydání zbrojního oprávnění, zbrojní licence, výjimky kategorie R1, S1, R2 nebo S2 anebo povolení kategorie R3, registraci zbraně) platí, že:",
     "answers": [
       {
@@ -5650,7 +7575,7 @@
     "answers": [
       {
         "body": "PO-I.",
-        "right": true
+        "right": false
       },
       {
         "body": "PO.",
@@ -5658,7 +7583,7 @@
       },
       {
         "body": "NO.",
-        "right": false
+        "right": true
       }
     ]
   },
@@ -5676,6 +7601,40 @@
       {
         "body": "znehodnocena v souladu s právními předpisy platnými v době svého uvedení na trh.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "449. Povinnost označení zbraně identifikačními údaji podle § 86 zákona o zbraních a střelivu a dodatečné provedení označení zbraně identifikačními údaji se netýkají zbraně:",
+    "answers": [
+      {
+        "body": "podléhající registraci, která byla uvedena na trh před rokem 1996 v členském státě Evropského společenství, který ověření zbraně před uvedením na trh nevyžadoval.",
+        "right": false
+      },
+      {
+        "body": "která byla přede dnem nabytí účinnosti tohoto zákona uvedena na trh a platně ověřena, podléhala-li taková zbraň v době svého uvedení na trh ověřování.",
+        "right": true
+      },
+      {
+        "body": "která byla označena v souladu s doporučením Českého střeleckého svazu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "450. Palnou zbraní ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu se má na mysli:",
+    "answers": [
+      {
+        "body": "zbraň, jejíž funkce je odvozena od okamžitého uvolnění chemické energie; za palnou zbraň se považují také jiné předměty, na které se vztahuje tento zákon a které lze na palnou zbraň upravit, zejména poplašné a signalizační zbraně, akustické a salutní zbraně a polotovary hlavních částí zbraní.",
+        "right": true
+      },
+      {
+        "body": "zbraň určená pro použití jednotných nábojů, nábojek nebo děleného střeliva; za palnou zbraň se považují také jiné předměty, na které se vztahuje tento zákon a které lze na palnou zbraň upravit, zejména poplašné a signalizační zbraně, plynové a zápalné zbraně a polotovary hlavních částí zbraní.",
+        "right": false
+      },
+      {
+        "body": "zbraň, jejíž funkce je odvozena od okamžitého uvolnění potenciální mechanické energie akumulované ve střelném prachu; za palnou zbraň se považují také jiné předměty, na které se vztahuje tento zákon a které lze na palnou zbraň upravit, zejména poplašné a signalizační zbraně, akustické a salutní zbraně a zbraňové systémy založené na principu laseru, vyzařování částic nebo energie.",
+        "right": false
       }
     ]
   },
@@ -5743,6 +7702,40 @@
       },
       {
         "body": "střelná zbraň typu trébuchet.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "455. Plynovou zbraní ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu se má na mysli:",
+    "answers": [
+      {
+        "body": "okamžitého uvolnění energie stlačeného vzduchu nebo jiného plynu.",
+        "right": true
+      },
+      {
+        "body": "okamžitého uvolnění dynamické nebo mechanické energie.",
+        "right": false
+      },
+      {
+        "body": "tlaku plynů vznikajících při výbušném hoření střelného prachu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "456. Krátkou palnou zbraní ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu se rozumí:",
+    "answers": [
+      {
+        "body": "palná zbraň, jejíž délka v nejkratším funkčním stavu nepřesahuje 300 mm nebo jejíž délka hlavně nepřesahuje 152,4 mm (6 palců).",
+        "right": false
+      },
+      {
+        "body": "palná zbraň, jejíž délka v nejkratším funkčním stavu nepřesahuje 300 mm nebo jejíž celková délka i s případnou vysunoutou nebo vztyčenou ramenní opěrou a s nasazeným úsťovým zařízením (tlumič hluku výstřelu, kompenzátor apod.) nepřesahuje 600 mm.",
+        "right": false
+      },
+      {
+        "body": "palná zbraň, jejíž délka v nejkratším funkčním stavu nepřesahuje 600 mm nebo jejíž délka hlavně nepřesahuje 300 mm.",
         "right": true
       }
     ]
@@ -5833,6 +7826,40 @@
     ]
   },
   {
+    "name": "462. Samonabíjecí (poloautomatickou) palnou zbraní ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu se rozumí:",
+    "answers": [
+      {
+        "body": "palná zbraň, jejíž délka v nejkratším funkčním stavu nepřesahuje 600 mm nebo jejíž délka hlavně nepřesahuje 300 mm.",
+        "right": false
+      },
+      {
+        "body": "u níž se opětovné nabití děje využitím energie předchozího výstřelu a jejíž konstrukce umožňuje více výstřelů na jedno stisknutí spouště, nebo externího pohonu odlišného od ruční manipulace s jejím závěrovým mechanismem.",
+        "right": false
+      },
+      {
+        "body": "palná zbraň, u níž se opětovné nabití děje v důsledku předchozího výstřelu a jejíž konstrukce neumožňuje více výstřelů na jedno stisknutí spouště.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "463. Definici samonabíjecí (poloautomatické) palné zbraně ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu splňuje palná zbraň, u níž se opětovné nabití děje:",
+    "answers": [
+      {
+        "body": "v důsledku předchozího výstřelu a jejíž konstrukce neumožňuje více výstřelů na jedno stisknutí spouště.",
+        "right": true
+      },
+      {
+        "body": "ruční manipulací se závěrovým mechanismem zbraně.",
+        "right": false
+      },
+      {
+        "body": "využitím externího pohonu odlišného od ruční manipulace s jejím závěrovým mechanismem.",
+        "right": false
+      }
+    ]
+  }
+  {
     "name": "464. Opakovací palnou zbraní ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu se rozumí palná zbraň:",
     "answers": [
       {
@@ -5901,32 +7928,100 @@
     ]
   },
   {
-    "name": "470. Neaktivní zbraní ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je palná zbraň, která:",
+    "name": "468. Akustická a salutní zbraň ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je:",
     "answers": [
+      {
+        "body": "pracovní zařízení nebo rázový stroj zkonstruované na principu palné zbraně a určené k průmyslovým nebo technickým účelům nebo k jateční porážce zvířat.",
+        "right": false
+      },
+      {
+        "body": "palná zbraň zvláště upravená pro střelbu pouze s využitím nábojek nebo cvičných nábojů.",
+        "right": true
+      },
+      {
+        "body": "palná zbraň, jejíž funkce je odvozena od okamžitého uvolnění energie stlačeného vzduchu nebo jiného plynu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "469. Poplašná a signalizační zbraň je ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu palná zbraň pro střelbu nábojek nebo cvičných nábojů, dráždivých nebo obdobných účinných látek anebo pyrotechnických signalizačních nábojů, která:",
+    "answers": [
+      {
+        "body": "nemůže být přeměněna na palnou zbraň umožňující ostrou střelbu.",
+        "right": true
+      },
+      {
+        "body": "byla z původně ostré zbraně upravená pro střelbu pouze s využitím nábojek nebo cvičných nábojů.",
+        "right": false
+      },
+      {
+        "body": "může být přeměněna pouze na palnou zbraň, jejíž funkce je odvozena od okamžitého uvolnění energie stlačeného vzduchu nebo jiného plynu, a to pouze doplňkově k její základní funkci.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "470. Neaktivní zbraní ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu původně palná zbraň, která:",
+    "answers": [
+      {
+        "body": "není nabita náboji v zásobníku, nábojové schránce nebo jiném zásobovacím mechanismu nabitím se taková zbraň mění na aktivní a musí být zabezpečena v souladu s technickými požadavky stanovenými zákonem a nařízením vlády.",
+        "right": false
+      },
       {
         "body": "byla vyrobena do 31. prosince 1890, za podmínky, že všechny hlavní části zbraně byly vyrobeny do 31. prosince 1890.",
         "right": false
       },
       {
         "body": "se stala trvale a nevratně nefunkční; za neaktivní zbraň je považována znehodnocená zbraň, řez zbraně a neaktivní torzo zbraně.",
-        "right": true
-      },
-      {
-        "body": "byla vyrobena do 31. prosince 1869, přičemž nejvýše 2 hlavní části zbraně mohou být vyrobeny po tomto dni, ale nejpozději do 31. prosince 1890.",
         "right": false
       }
     ]
   },
   {
-    "name": "473. Mezi plynové zbraně ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu nepatří:",
+    "name": "471. Definici neaktivní zbraně ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu nesplňuje:",
     "answers": [
       {
-        "body": "paintballovou a airsoftovou zbraň.",
+        "body": "neaktivní zbraň, která byla, včetně všech jejích hlavních částí, učiněna trvale nefunkční postupem stanoveným tímto zákonem, přímo použitelným předpisem Evropské unie nebo jiným právním předpisem.",
         "right": false
       },
       {
-        "body": "pracovní zařízení nebo rázový stroj zkonstruované na principu palné zbraně a určené k průmyslovým nebo technickým účelům nebo k jateční porážce zvířat.",
+        "body": "palná zbraň, která byla vyrobena do 31. prosince 1890, za podmínky, že všechny hlavní části zbraně byly vyrobeny do 31. prosince 1890, a taková zbraň střelbyschopná.",
         "right": true
+      },
+      {
+        "body": "neaktivní zbraň, u níž je poškození nebo degradace takového rozsahu, že její uschopnění ke střelbě je vyloučeno.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "472. Znehodnocenou zbraní je ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu:",
+    "answers": [
+      {
+        "body": "palná zbraň zvláště upravená pro střelbu pouze s využitím nábojek nebo cvičných nábojů, pro použití například při divadelních představeních, fotografování, filmových a televizních záznamech, rekonstrukcích historických událostí, přehlídkách nebo sportovních akcích.",
+        "right": false
+      },
+      {
+        "body": "neaktivní zbraň, která byla, včetně všech jejích hlavních částí, učiněna trvale nefunkční postupem stanoveným tímto zákonem, přímo použitelným předpisem Evropské unie nebo jiným právním předpisem.",
+        "right": true
+      },
+      {
+        "body": "neaktivní zbraň, u níž je poškození nebo degradace takového rozsahu, že její uschopnění ke střelbě je vyloučeno.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "473. Plynová zbraň konstruovaná pro vystřelování neletální střely a určená pro výcvikové, sportovní nebo rekreační účely je ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu považována za:",
+    "answers": [
+      {
+        "body": "paintballovou a airsoftovou zbraň.",
+        "right": true
+      },
+      {
+        "body": "pracovní zařízení nebo rázový stroj zkonstruované na principu palné zbraně a určené k průmyslovým nebo technickým účelům nebo k jateční porážce zvířat.",
+        "right": false
       },
       {
         "body": "signální zbraň.",
@@ -5956,7 +8051,7 @@
     "answers": [
       {
         "body": "palná zbraň, která byla vyrobena do 31. prosince 1890.",
-        "right": false
+        "right": true
       },
       {
         "body": "palná zbraň vyrobená před dobou delší než 100 let.",
@@ -5964,7 +8059,7 @@
       },
       {
         "body": "palná zbraň, která byla vyrobena do 31. prosince 1869.",
-        "right": true
+        "right": false
       }
     ]
   },
@@ -6057,7 +8152,7 @@
     "name": "481. Nábojem ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je:",
     "answers": [
       {
-        "body": "celelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelekehlekkuhlele, který obsahuje aktivní komponent střeliva a který není nábojkou nebo děleným střelivem.",
+        "body": "celek, který obsahuje aktivní komponent střeliva a který není nábojkou nebo děleným střelivem.",
         "right": true
       },
       {
@@ -6122,6 +8217,40 @@
     ]
   },
   {
+    "name": "485. Nábojkou ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je:",
+    "answers": [
+      {
+        "body": "celek zhotovený z náboje delaborací jednotné nebo hromadné střely a uzavřením nábojnice obvykle tzv. hvězdicí; nábojky patří do skupiny expanzní munice.",
+        "right": false
+      },
+      {
+        "body": "nábojnice, která se po naplnění střelným prachem a osazení zápalkou a střelou považuje za náboj.",
+        "right": false
+      },
+      {
+        "body": "celek, který je za nábojku považován podle Úmluvy o vzájemném uznávání zkušebních značek ručních palných zbraní; nábojka je určena například pro simulaci ostré střelby při použití v poplašných a signalizačních zbraních.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "486. Děleným střelivem ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je:",
+    "answers": [
+      {
+        "body": "sestava, která je určena k nabití do palné zbraně a u níž jsou střela a aktivní komponenty střeliva nabíjeny do palné zbraně samostatně.",
+        "right": true
+      },
+      {
+        "body": "náboj pro poplašnou a signalizační zbraň, ze kterého byl oddělen projektil z důvodu zajištění bezpečného použití při simulaci ostré střelby.",
+        "right": false
+      },
+      {
+        "body": "sestava držená v jednom celku nábojnicí a určená k nabití do palné zbraně; dělené střelivo obsahuje aktivní komponent střeliva a střelu složenou ze 2 nebo více pevných těles, které se po opuštění hlavně rozdělí.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "487. Střelou ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je:",
     "answers": [
       {
@@ -6139,6 +8268,40 @@
     ]
   },
   {
+    "name": "488. Jednotnou střelou ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je:",
+    "answers": [
+      {
+        "body": "střela, které se po opuštění hlavně nerozdělí.",
+        "right": true
+      },
+      {
+        "body": "střela jednotného typu, která podléhá typové kontrole podle zákona o ověřování střelných zbraní a střeliva a která může být použita v kterékoli zbrani s příslušným nominálním rozměrem vývrtu hlavně.",
+        "right": false
+      },
+      {
+        "body": "střela sférického nebo ogiválního tvaru, ze které se po opuštění hlavně neoddělí více než 35 % její celkové hmoty.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "489. Hromadnou střelou se dle přílohy č. 1 k zákonu o zbraních a střelivu rozumí:",
+    "answers": [
+      {
+        "body": "střela, která je vyráběna průmyslově v podmínkách hromadné výroby; na rozdíl od hromadných střel jsou tzv. custom střely vyráběny v zásadě kusově s důrazem na maximální přesnost a minimální tolerance.",
+        "right": false
+      },
+      {
+        "body": "střela složená ze 2 nebo více pevných těles, které se po opuštění hlavně rozdělí a které jsou určeny k zasažení cíle nebo vyvolání jiného účinku.",
+        "right": true
+      },
+      {
+        "body": "sestava, která je určena k nabití do palné zbraně a u níž jsou střela a aktivní komponenty střeliva nabíjeny do palné zbraně samostatně.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "490. Střela pro vojenské nebo speciální účely, která obsahuje výbušnou náplň a je určená k tomu, aby po dopadu nebo za jiných vymezených podmínek explodovala je dle přílohy č. 1 k zákonu o zbraních a střelivu:",
     "answers": [
       {
@@ -6152,6 +8315,40 @@
       {
         "body": "střela expanzní.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "491. Svítící střelou se dle přílohy č. 1 k zákonu o zbraních a střelivu rozumí:",
+    "answers": [
+      {
+        "body": "střela s hrotem z luminiscenčního plastu nebo obdobné hmoty.",
+        "right": false
+      },
+      {
+        "body": "střela se stopovkou zkonstruovaná tak, aby bylo možné sledovat její dráhu.",
+        "right": true
+      },
+      {
+        "body": "světlice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "492. Střelou zápalnou ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je střela pro vojenské nebo speciální účely, která:",
+    "answers": [
+      {
+        "body": "obsahuje výbušnou náplň a je určená k tomu, aby po dopadu nebo za jiných vymezených podmínek explodovala.",
+        "right": false
+      },
+      {
+        "body": "u které dojde po výstřelu ze zbraně k zážehu a její dostřel činí nanejvýš 100 m, neboť po této vzdálenosti celá střela odhoří.",
+        "right": false
+      },
+      {
+        "body": "je určena pro vyvolání zápalného účinku.",
+        "right": true
       }
     ]
   },
@@ -6317,11 +8514,11 @@
       },
       {
         "body": "při použití běžného střeliva snižuje hluk výstřelu alespoň o 10 dB.",
-        "right": false
+        "right": true
       },
       {
         "body": "při použití běžného střeliva snižuje hluk výstřelu alespoň o 45 dB.",
-        "right": true
+        "right": false
       }
     ]
   },
@@ -6339,6 +8536,23 @@
       {
         "body": "20 nábojů v případě krátké palné zbraně nebo s kapacitou přesahující 10 nábojů v případě dlouhé palné zbraně.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "504. Nadlimitním zásobníkem ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu je zásobník nebo sestava nábojové schránky přesahující zákonem o zbraních a střelivu stanovenou kapacitu určené pro palnou zbraň pro střelivo:",
+    "answers": [
+      {
+        "body": "s jednotnou střelou.",
+        "right": false
+      },
+      {
+        "body": "se středovým zápalem.",
+        "right": true
+      },
+      {
+        "body": "s okrajovým nebo středovým zápalem.",
+        "right": false
       }
     ]
   },
@@ -6364,7 +8578,7 @@
     "answers": [
       {
         "body": "zákeřné zbraně.",
-        "right": false
+        "right": true
       },
       {
         "body": "samonabíjecí palná zbraň, která vznikla nevratnou úpravou ze samočinné palné zbraně.",
@@ -6585,11 +8799,11 @@
     "answers": [
       {
         "body": "PO.",
-        "right": true
+        "right": false
       },
       {
         "body": "R3.",
-        "right": false
+        "right": true
       },
       {
         "body": "R4.",
@@ -6626,7 +8840,24 @@
         "right": false
       },
       {
-        "body": "samonabíjecí palné zbraně, jejichž zásobník nebo nábojová schránka a nábojová komora mohou dohromady pojmout více než 3 náboje, a které nejsou odnímatelné.",
+        "body": "dlouhé samonabíjecí palné zbraně, jejichž zásobník nebo nábojová schránka a nábojová komora nemohou dohromady pojmout více než 3 náboje avšak nejvíce 10 nábojů a jsou odnímatelné, nebo u nichž není zaručeno, že nemohou být přeměněny běžně dostupnými nástroji na zbraně, jejichž zásobník nebo nábojová schránka a nábojová komora mohou dohromady pojmout více než 3 náboje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "522. Signální zbraně ráže 26,5 mm jsou podle přílohy č. 2 k zákonu o zbraních a střelivu zbraněmi kategorie:",
+    "answers": [
+      {
+        "body": "R3.",
+        "right": true
+      },
+      {
+        "body": "R1.",
+        "right": false
+      },
+      {
+        "body": "PO.",
         "right": false
       }
     ]
