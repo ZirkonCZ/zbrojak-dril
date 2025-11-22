@@ -1342,7 +1342,6 @@
       }
     ]
   },
-  [
   {
     "name": "80. Rozšířené zbrojní oprávnění je podle zákona o zbraních a střelivu vyžadováno pro výkon:",
     "answers": [
@@ -7858,7 +7857,7 @@
         "right": false
       }
     ]
-  }
+  },
   {
     "name": "464. Opakovací palnou zbraní ve smyslu přílohy č. 1 k zákonu o zbraních a střelivu se rozumí palná zbraň:",
     "answers": [
@@ -9058,11 +9057,11 @@
       },
       {
         "body": "PO.",
-        "right": false
+        "right": true
       },
       {
         "body": "NO.",
-        "right": true
+        "right": false
       }
     ]
   },
@@ -9254,6 +9253,40 @@
     ]
   },
   {
+    "name": "546. Mezi střelivo kategorie S2 nepatří:",
+    "answers": [
+      {
+        "body": "cvičné náboje.",
+        "right": true
+      },
+      {
+        "body": "náboje pro krátké palné zbraně obsahující ve své sestavě střelu s řízenou deformací nebo fragmentací určenou k vyvolání zvýšeného ranivého účinku.",
+        "right": false
+      },
+      {
+        "body": "aktivní komponenty střeliva, pokud jde o svítící střely.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "547. Mezi střelivo kategorie S3 podle přílohy č. 2 k zákonu o zbraních a střelivu jsou zařazeny:",
+    "answers": [
+      {
+        "body": "náboje s hromadnou nebo jednotnou střelou neuvedené v jiných kategoriích střeliva.",
+        "right": true
+      },
+      {
+        "body": "aktivní komponenty střeliva, s výjimkou výbušných, zápalných nebo svítících střel.",
+        "right": false
+      },
+      {
+        "body": "náboje obsahující ve své sestavě střelu výbušnou, zápalnou nebo průbojnou.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "548. Náboje s pyrotechnickým prostředkem podle zákona o pyrotechnice s akustickým, světelným nebo dýmovým efektem určené pro střelbu z palných zbraní jsou ohledem na přílohu č. 2 k zákonu o zbraních a střelivu:",
     "answers": [
       {
@@ -9279,11 +9312,11 @@
       },
       {
         "body": "nábojky.",
-        "right": false
+        "right": true
       },
       {
         "body": "signální náboje určené pro signální zbraně ráže větší než 16 mm.",
-        "right": true
+        "right": false
       }
     ]
   },
@@ -9296,11 +9329,11 @@
       },
       {
         "body": "S3.",
-        "right": false
+        "right": true
       },
       {
         "body": "S4.",
-        "right": true
+        "right": false
       }
     ]
   },
@@ -9309,7 +9342,7 @@
     "answers": [
       {
         "body": "S4.",
-        "right": true
+        "right": false
       },
       {
         "body": "S2.",
@@ -9317,7 +9350,7 @@
       },
       {
         "body": "S3.",
-        "right": false
+        "right": true
       }
     ]
   },
@@ -9326,14 +9359,31 @@
     "answers": [
       {
         "body": "S4.",
-        "right": true
-      },
-      {
-        "body": "S3.",
         "right": false
       },
       {
+        "body": "S3.",
+        "right": true
+      },
+      {
         "body": "PO.",
+        "right": false
+      }
+    ]
+  },
+  { 
+    "name": "553. Mezi střelivo kategorie S4 podle přílohy č. 2 k zákonu o zbraních a střelivu mimo jiné patří:",
+    "answers": [
+      {
+        "body": "náboje s hromadnou nebo jednotnou střelou neuvedené v jiných kategoriích střeliva.",
+        "right": false
+      },
+      {
+        "body": "aktivní komponenty střeliva, s výjimkou výbušných, zápalných nebo svítících střel.",
+        "right": true
+      },
+      {
+        "body": "náboje pro krátké palné zbraně obsahující ve své sestavě střelu s řízenou deformací nebo fragmentací určenou k vyvolání zvýšeného ranivého účinku.",
         "right": false
       }
     ]
@@ -9343,7 +9393,7 @@
     "answers": [
       {
         "body": "S3.",
-        "right": true
+        "right": false
       },
       {
         "body": "S2.",
@@ -9351,7 +9401,7 @@
       },
       {
         "body": "S4.",
-        "right": false
+        "right": true
       }
     ]
   },
@@ -9369,6 +9419,91 @@
       {
         "body": "zdravotnické minimum a zásady první pomoci (příloha č.  1) a zásady bezpečného nakládání se zbraněmi a střelivem (příloha č. 2).",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "556. Právně závazné technické a organizační požadavky na střelnice jsou stanoveny:",
+    "answers": [
+      {
+        "body": "v příloze č. 3 zákona o zbraních a střelivu a střelivu.",
+        "right": true
+      },
+      {
+        "body": "v technických normách (ČSN).",
+        "right": false
+      },
+      {
+        "body": "pro střelnice v rámci jednoho kraje v územním výměru vydávaném periodicky místně příslušným krajským ředitelstvím policie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "557. Ohroženým prostorem ve smyslu technických a organizačních požadavků na střelnice podle přílohy č. 3 k zákonu o zbraních je:",
+    "answers": [
+      {
+        "body": "prostor střelnice, který se vždy nachází mimo bezpečný směr pro bezpečnou manipulaci se zbraní a střelivem.",
+        "right": false
+      },
+      {
+        "body": "prostor, v němž se provádějí technická opatření, která musí zajistit, že i při nedodržení pravidel stanovených provozním řádem (např. vstup neoprávněné osoby do ohroženého prostoru) zde nemůže být ohrožen život nebo zdraví účinkem kinetické energie střel, střepin nebo povýstřelových zplodin.",
+        "right": false
+      },
+      {
+        "body": "prostor, v němž může být i při dodržení pravidel a opatření stanovených provozním řádem střelnice ohrožen život nebo zdraví účinkem kinetické energie střel, střepin nebo povýstřelových zplodin.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "558. Terče a terčová zařízení musí být ve smyslu přílohy č. 3 k zákonu o zbraních a střelivu umísťována tak, aby se minimalizovalo:",
+    "answers": [
+      {
+        "body": "riziko nebezpečných odrazů střel.",
+        "right": true
+      },
+      {
+        "body": "působení hluku výstřelu alespoň o 10 dB.",
+        "right": false
+      },
+      {
+        "body": "riziko vstupu nezúčastněných osob do výstřelného prostoru mezi střelcem a terčem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "559. K zajištění ochrany života a zdraví osob v ohroženém prostoru a při zacházení se zbraněmi a střelivem na konkrétní střelnici, a to i mimo ohrožené prostory, jakož i při příchodu a odchodu ze střelnice jsou přiměřená technicko-organizační opatření stanovena v:",
+    "answers": [
+      {
+        "body": "zákoně o munici.",
+        "right": false
+      },
+      {
+        "body": "technicko-organizační směrnici Ministerstva vnitra.",
+        "right": false
+      },
+      {
+        "body": "provozním řádu střelnice.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "560. Technická opatření k zajištění bezpečného provozu střelnice spočívají zejména v:",
+    "answers": [
+      {
+        "body": "vhodné konstrukci dopadiště a terčových zařízení, ochranných prvků; přijetí opatření proti vstupu nezúčastněných osob do ohroženého prostoru, instalaci fyzických zábran pohybu se zbraní po střelnici; střelnice, které nejsou střelnicemi krytými instalují nad celým prostorem střeliště neprůstřelné podhledy.",
+        "right": false
+      },
+      {
+        "body": "vhodné konstrukci dopadiště a terčových zařízení, ochranných prvků a přijetí opatření proti vstupu nezúčastněných osob do ohroženého prostoru; účelem technických opatření je zabránit úniku střel z prostoru střelnice bez ohledu na chování konkrétních návštěvníků střelnice a jejich nekázeň.",
+        "right": false
+      },
+      {
+        "body": "vhodné konstrukci dopadiště a terčových zařízení, ochranných prvků a přijetí opatření proti vstupu nezúčastněných osob do ohroženého prostoru; při nedodržování organizačních opatření nebo nekázni na střelnici mohou však být veškerá technická opatření k zajištění bezpečného provozu střelnice bez ohledu na jejich důkladnost zcela neúčinná.",
+        "right": true
       }
     ]
   },
@@ -9407,6 +9542,40 @@
     ]
   },
   {
+    "name": "563. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky platí, že zbraň, která nebyla kontrolou uvedena do bezpečného stavu:",
+    "answers": [
+      {
+        "body": "může směřovat ústím hlavně výhradně vertikálně k zemi.",
+        "right": false
+      },
+      {
+        "body": "není zkontrolovaná a proto je technicky nezpůsobilá ke střelbě.",
+        "right": false
+      },
+      {
+        "body": "musí při manipulaci směřovat do bezpečného směru.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "564. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky se nepřipouští provádění manipulace nebo simulace situací, při kterých by zbraň, u níž nebyla provedena kontrola jejího stavu nebo se kterou se simuluje nabitý stav zbraně nebo střelba:",
+    "answers": [
+      {
+        "body": "směřovala do bezpečného směru.",
+        "right": false
+      },
+      {
+        "body": "nesměřovala do bezpečného směru.",
+        "right": true
+      },
+      {
+        "body": "nebyla nabita školními náboji v nábojové komoře a v zásobníku nebo revolverovém válci.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "565. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky platí, že určený bezpečný směr:",
     "answers": [
       {
@@ -9420,6 +9589,23 @@
       {
         "body": "je určen závazně pro manipulaci s nabitou zbraní a pro ostrou střelbu, tedy pro jediné případy manipulace se zbraní, při kterých hrozí riziko náhodného výstřelu.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "566. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky se rána jistoty provádí tak:",
+    "answers": [
+      {
+        "body": "aby bylo případně možné určit, zda byla zbraň nabita školním nábojem, cvičným nábojem anebo ostrým střelivem.",
+        "right": false
+      },
+      {
+        "body": "aby nemohlo dojít k vypuštění bicího mechanismu zbraně.",
+        "right": false
+      },
+      {
+        "body": "aby zbraň vždy směřovala do bezpečného směru.",
+        "right": true
       }
     ]
   },
@@ -9471,6 +9657,40 @@
       {
         "body": "se považuje za porušení zásad bezpečného nakládání se zbraní, s výjimkou případů, kdy je stisknutí spouště nezbytné k záměrnému provedení výstřelu nebo je v případě nenabité zkontrolované zbraně nezbytné pro manipulaci, například provedení rány jistoty, nebo pokud takovou manipulaci se zbraní stanovuje její výrobce, například před nebo při rozebrání zbraně.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "570. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky se přerušení střelby provede:",
+    "answers": [
+      {
+        "body": "pokud žadatel o vydání zbrojního oprávnění dostřílí stanovený počet nábojů pro nástřelnou položku nebo pro hodnocenou část střelby na terč v rámci praktické části zkoušky odborné způsobilosti nebo komisionální zkoušky.",
+        "right": false
+      },
+      {
+        "body": "s ohledem na konkrétní charakter situace, která k přerušení střelby vedla, například při vstupu osoby do prostoru ohroženého střelbou nebo v případě jiné události neumožňující pokračovat bezpečně ve střelbě; přitom je nezbytné směřovat zbraň do prostoru, kde by náhodný výstřel nezpůsobil škody.",
+        "right": true
+      },
+      {
+        "body": "kontrolou zbraně, přičemž vždy se provede mířená rána jistoty do bezpečného směru, který na začátku praktické části zkoušky určí zkušební komisař.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "571. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky se při ukončení střelby:",
+    "answers": [
+      {
+        "body": "provede kontrola zbraně.",
+        "right": true
+      },
+      {
+        "body": "musí zkušebnímu komisaři zřetelně slovně ohlásit, zda v průběhu střelby došlo k závadě na zbrani nebo střelivu anebo k jiné mimořádné události.",
+        "right": false
+      },
+      {
+        "body": "provede rozborka a sborka zbraně v rozsahu nezbytném pro vyčištění zbraně po ukončení střelby.",
+        "right": false
       }
     ]
   },
@@ -9560,19 +9780,121 @@
     ]
   },
   {
-    "name": "578. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole samonabíjecí pistole mimo jiné platí, že:",
+    "name": "577. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole samonabíjecí pistole mimo jiné platí, že:",
     "answers": [
       {
-        "body": "po provedení kontroly lze závěr ponechat v zadní poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do přední polohy; v přední poloze závěru se provede rána jistoty.",
-        "right": true
-      },
-      {
-        "body": "po provedení kontroly lze závěr ponechat v přední poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do zadní polohy a zde jej zachytit na záchytu závěru; v zadní poloze závěru se provede rána jistoty.",
+        "body": "se provede kontrola zásobníkové šachty, přičemž pro zajištění bezpečnosti tohoto postupu musí být kontrola provedena k tomu určeným speciálním nástrojem (tzv. magwell).",
         "right": false
       },
       {
         "body": "se provede kontrola celkové kapacity zásobníku, a to buď vizuálně pohledem přes výhozné okénko při stažení závěru do zadní polohy nebo pohmatem prsty ruky, která nedrží zbraň, přes ústí zásobníkové šachty.",
         "right": false
+      },
+      {
+        "body": "se provede kontrola zásobníkové šachty, zda se v ní nenachází zásobník; tuto kontrolu lze provést vizuálně pohledem přes výhozné okénko při stažení závěru do zadní polohy nebo pohmatem prsty ruky, která nedrží zbraň, přes ústí zásobníkové šachty.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "578. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole samonabíjecí pistole mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "po provedení kontroly lze závěr ponechat v zadní poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do přední polohy; v přední poloze závěru se provede rána jistoty.",
+        "right": false
+      },
+      {
+        "body": "po provedení kontroly lze závěr ponechat v přední poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do zadní polohy a zde jej zachytit na záchytu závěru; v zadní poloze závěru se provede rána jistoty.",
+        "right": true
+      },
+      {
+        "body": "se provede kontrola celkové kapacity zásobníku, a to buď vizuálně pohledem přes výhozné okénko při stažení závěru do zadní polohy nebo pohmatem prsty ruky, která nedrží zbraň, přes ústí zásobníkové šachty.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "579. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole revolveru mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "se provede vyklopení nábojového válce a vizuální kontrola jeho nábojových komor.",
+        "right": true
+      },
+      {
+        "body": "se provede stažení závěru vzad a vizuální nebo pohmatová kontrola nábojových komor a zásobníkové šachty.",
+        "right": false
+      },
+      {
+        "body": "se provede vyklopení nábojového válce, sklopení hlavňového svazku a vizuální kontrola nábojových komor nábojového válce i hlavňového svazku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "580. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole revolveru mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "odložení revolveru se provede vyklopeným válcem nebo s nábojovým válcem uzamčeným ve zbrani, ale v takovém případě je před odložením zbraně nezbytné provést ránu jistoty, a to minimálně tolikrát, kolik nábojových komor má nábojový válec daného revolveru.",
+        "right": false
+      },
+      {
+        "body": "odložení revolveru se provede se závěrem v zadní poloze.",
+        "right": false
+      },
+      {
+        "body": "odložení revolveru se provede s vyklopeným nábojovým válcem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "581. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole samonabíjecí dlouhé kulové zbraně mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "se provede vyjmutí zásobníku a vizuální kontrola zásobníkové šachty přes ústí zásobníkové šachty, provede se vyjmutí baterie z pažby nebo podle konstrukce zbraně z jiného umístění a zbraň se odloží.",
+        "right": false
+      },
+      {
+        "body": "se provede vyjmutí zásobníku; pokud to konstrukce zbraně umožňuje, provede se vizuální kontrola nábojové komory po stažení závěru do zadní polohy přes výhozné okénko a pokud konstrukce zbraně vizuální kontrolu nábojové komory přes výhozné okénko neumožňuje, provede se opakované stažení závěru do zadní polohy s následným vypuštěním do přední polohy.",
+        "right": true
+      },
+      {
+        "body": "se provede vyjmutí zásobníku, ze kterého se vyjmou náboje, provede se kontrola funkčnosti mířidel a spoušťového a bicího mechanismu, kontrola samonabíjecí dlouhé zbraně končí stažením závěru do zadní polohy, přičemž kontrola nábojové komory se neprovádí, neboť u moderních konstrukcí těchto zbraní je nábojová komora z vnějšku nedostupná a zbraň je vybavena bezpečnostními prvky, které náhodnému výstřelu efektivně brání.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "582. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole samonabíjecí dlouhé kulové zbraně mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "se provede kontrola zásobníkové šachty, zda se v ní nenachází zásobník; tuto kontrolu lze provést vizuálně pohledem přes výhozné okénko při stažení závěru do zadní polohy nebo pohmatem prsty ruky, která nedrží zbraň, přes ústí zásobníkové šachty.",
+        "right": true
+      },
+      {
+        "body": "se provede kontrola zásobníkové šachty, a to tak že se do ní opakovaně vloží a opět vyjme zásobník, ze kterého byly vybity veškeré náboje.",
+        "right": false
+      },
+      {
+        "body": "se provede kontrola zásobníkové šachty, zda se v ní nenachází zásobník; tuto kontrolu lze provést manipulací se závěrem nebo k tomu určeným ovládacím prvkem zbraně (tzv. vytahovač podavače zásobníku).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "583. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole samonabíjecí dlouhé kulové zbraně mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "po provedení kontroly lze zásobník ponechat v zadní poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do přední polohy; v přední poloze zásobníku se provede jeho vizuální kontrola přes výhozné okénko nebo rána jistoty.",
+        "right": false
+      },
+      {
+        "body": "odložení revolveru se provede se závěrem v zadní poloze.",
+        "right": false
+      },
+      {
+        "body": "po provedení kontroly lze závěr ponechat v zadní poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do přední polohy; v přední poloze závěru se provede rána jistoty.",
+        "right": true
       }
     ]
   },
@@ -9594,6 +9916,23 @@
     ]
   },
   {
+    "name": "585. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při kontrole opakovací dlouhé kulové zbraně s otočným odsuvným závěrem mimo jiné platí, že:",
+    "answers": [
+      {
+        "body": "odložení zbraně se provede po sklopení hlavňového svazku, a to tak, aby ústí hlavní směřovala do bezpečného směru nebo k zemi.",
+        "right": false
+      },
+      {
+        "body": "odložení zbraně se provede se závěrem v otevřené poloze; při uzamčení nenabité zkontrolované zbraně se provede vypuštění bicího mechanismu prostřednictvím rány jistoty.",
+        "right": true
+      },
+      {
+        "body": "odložení zbraně se provede se závěrem v otevřené poloze; rána jistoty se provádí vždy také se závěrem v otevřené poloze, protože při provedení rány jistoty s uzamčeným závěrem by mohlo dojít k poškození bicího mechanismu.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "586. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu selhač platí, že:",
     "answers": [
       {
@@ -9607,6 +9946,23 @@
       {
         "body": "je třeba vyčkat minimálně 10 sekund, přičemž zbraň musí být odložena tak, aby ústí hlavně směřovalo do bezpečného směru, neboť může dojít k opožděné detonaci střely uvízlé v hlavni, výrobce zbraně nebo střeliva může v návodu k použití stanovovat též jinou (vesměs delší) minimální dobu, po kterou je třeba vyčkat, zda nedojde k opožděné detonaci.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "587. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu selhač platí, že:",
+    "answers": [
+      {
+        "body": "po vyjmutí náboje ze zbraně je třeba jej umístit na bezpečné místo a vyčkat minimálně 10 sekund, zda nedojde k jeho opožděné iniciaci; rovněž se následně provede kontrola zbraně zkontroluje se zápalník, zda na něm zápalka nezanechala otisk v případě, že závada byla zapříčiněna střelivem.",
+        "right": false
+      },
+      {
+        "body": "po uplynutí doby, po kterou je nutné vyčkat, zda nedojde k opožděné iniciaci náboje a k výstřelu, se selhaný náboj odevzdá správci střelnice, pokud k selhači došlo na střelnici, myslivecké stráži, pokud k selhači došlo při lovu, a Českému úřadu pro zkoušení zbraní a střeliva v ostatních případech.",
+        "right": false
+      },
+      {
+        "body": "po uplynutí doby, po kterou je nutné vyčkat, zda nedojde k opožděné iniciaci náboje a k výstřelu, se provede kontrola zbraně; následně je také třeba zkontrolovat otisk zápalníku na zápalce pro zjištění, zda je závada zapříčiněna zbraní nebo střelivem.",
+        "right": true
       }
     ]
   },
@@ -9645,6 +10001,23 @@
     ]
   },
   {
+    "name": "590. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu selhač platí, že:",
+    "answers": [
+      {
+        "body": "po vyjmutí náboje ze zbraně je třeba jej umístit na bezpečné místo a vyčkat minimálně 10 sekund, zda nedojde k jeho opožděné iniciaci; rovněž se následně provede kontrola zbraně zkontroluje se zápalník, zda na něm zápalka nezanechala otisk v případě, že závada byla zapříčiněna střelivem.",
+        "right": false
+      },
+      {
+        "body": "po uplynutí doby, po kterou je nutné vyčkat, zda nedojde k opožděné iniciaci náboje a k výstřelu, se selhaný náboj odevzdá správci střelnice, pokud k selhači došlo na střelnici, myslivecké stráži, pokud k selhači došlo při lovu, a Českému úřadu pro zkoušení zbraní a střeliva v ostatních případech.",
+        "right": false
+      },
+      {
+        "body": "po uplynutí doby, po kterou je nutné vyčkat, zda nedojde k opožděné iniciaci náboje a k výstřelu, se provede kontrola zbraně; následně je také třeba zkontrolovat otisk zápalníku na zápalce pro zjištění, zda je závada zapříčiněna zbraní nebo střelivem.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "591. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu slabá rána platí, že:",
     "answers": [
       {
@@ -9679,6 +10052,23 @@
     ]
   },
   {
+    "name": "593. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu zádržka platí, že:",
+    "answers": [
+      {
+        "body": "odstranění závady se provádí s ohledem na její charakter, a to zejména kontrolou průchodnosti vývrtu hlavně po provedení kontroly zbraně; nejčastěji bude k odstranění závady typu zádržka postačovat výměna zásobníku za zásobník s vytahovačem, který vykazuje lepší kluzné vlastnosti.",
+        "right": false
+      },
+      {
+        "body": "po uplynutí doby, po kterou je nutné vyčkat, zda nedojde k opožděné iniciaci náboje a k výstřelu, se provede kontrola zbraně; následně je také třeba zkontrolovat otisk zápalníku na zápalce pro zjištění, zda je závada zapříčiněna zbraní nebo střelivem.",
+        "right": false
+      },
+      {
+        "body": "odstranění závady se provádí s ohledem na její charakter, a to zejména odstraněním vzpříčeného nebo zaseklého náboje nebo nábojnice z zbraně; nejčastěji bude k odstranění závady typu zádržka postačovat po vyjmutí zásobníku opakované stažení a vypuštění závěru do přední polohy.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "594. Z hlediska základních pravidel pro manipulaci se zbraní a střelbu stanovených pro průběh zkoušky odborné způsobilosti nebo komisionální zkoušky při řešení závady na zbrani nebo střelivu typu zádržka platí, že:",
     "answers": [
       {
@@ -9687,11 +10077,11 @@
       },
       {
         "body": "v případě, že nelze vysunout zásobník, například z důvodu náboje vzpříčeného ve vývodkách zásobníku, je třeba pokud možno zachytit závěr v zadní poloze a",
-        "right": false
+        "right": true
       },
       {
-        "body": "asdf",
-        "right": true
+        "body": "provedení rány jistoty po kontrole zbraně, u které došlo k zádržce, je porušením zásad bezpečného nakládání se zbraní, a to zejména pokud je takový způsob uvolnění spoušťového a bicího mechanismu nezbytný pro její rozebrání.",
+        "right": false
       }
     ]
   },
@@ -9760,6 +10150,23 @@
       {
         "body": "zákon o zbraních a střelivu nepřipouš ani krátkodobé uložení zbraně nebo střeliva ve vozidla, naopak platí zásada, že “auto není trezor” a zbraně nebo střelivo tak mohou být v souvislosti s dopravou ukládány pouze v zapečetěných ocelových kontejnerech pro intermodální přepravu, přičemž však uložení zbraní nebo střeliva v takových kontejnerech nesmí přesáhnout 4 hodiny.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "599. Z hlediska technických požadavků na způsob zabezpečení zbraně nebo střeliva při jejich krátkodobém uložení ve vozidle platí, že:",
+    "answers": [
+      {
+        "body": "zbraň nebo střelivo, které jsou stanoveným způsobem zabezpečovány při jejich krátkodobém uložení ve vozidle, smí být umístěny pouze v té části vozidla, do které je z vnějšího prostoru vidět, a to tak, aby osoba, která za zabezpečení zbraní a střeliva nese odpovědnost, mohla provádět jejich pravidelnou vizuální kontrolu v intervalech, které nesmějí přesáhnout 4 hodiny.",
+        "right": false
+      },
+      {
+        "body": "zbraň nebo střelivo, které je ve vozidle uloženo po dobu delší než 4 hodiny, musí být zabezpečeno způsobem, který stanoví vláda nařízením; to neplatí, je-li zabezpečení zbraní provedeno jiným vhodným způsobem se srovnatelnou účinností (například pomocí psa bojového plemene přítomného ve vozidle po celou dobu uložení zbraní nebo střeliva).",
+        "right": false
+      },
+      {
+        "body": "zbraň nebo střelivo, které jsou stanoveným způsobem zabezpečovány při jejich krátkodobém uložení ve vozidle, smí být umístěny pouze v té části vozidla, která je chráněna uzavřenou pevnou kovovou karoserií; okna a jiné obdobné otvory vozidla musí být plně uzavřeny a vozidlo musí být standardním způsobem uzamčeno.",
+        "right": true
       }
     ]
   },
@@ -9849,6 +10256,40 @@
     ]
   },
   {
+    "name": "605. Z hlediska nakládání s aktivními komponenty střeliva při přebíjení střeliva podle nařízení vlády o technických požadavcích a dalších specifikacích pro některé zbraně, střelivo a střelnice a pro zabezpečení zbraní a střeliva platí, že:",
+    "answers": [
+      {
+        "body": "při přebíjení nábojů musí být dodržována omezení, která mají vliv na ráži výsledného náboje, přičemž v případě, že dojde vlivem nedodržení postupů nebo tolerancí v průběhu přebíjení ke změně ráže, musí být tato změna držitelem zbrojního oprávnění zřetelně vyznačena na náboji a na zbrani.",
+        "right": false
+      },
+      {
+        "body": "při přebíjení nábojů musí být dodržována omezení, která mají vliv na maximální tlaky vznikající při výstřelu a na manipulační bezpečnost, plynoucí z technických údajů uváděných výrobci jednotlivých aktivních komponentů střeliva, střel a zařízení určených k přebíjení střeliva, které jsou při přebíjení střeliva použity.",
+        "right": true
+      },
+      {
+        "body": "při přebíjení nábojů musí být dodržována omezení vyplývající z konstrukce zbraně, zejména pak její nábojové komory a zásobovacího ústrojí; náboje, které po nabití do zásobníku zbraně mohou způsobit závady při přebíjení, musí být odevzdány krajskému ředitelství policie k úřednímu zničení.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "606. Podle nařízení vlády o technických požadavcích a dalších specifikacích pro některé zbraně, střelivo a střelnice a pro zabezpečení zbraní a střeliva je celkové maximální množství daného druhu aktivního komponentu střeliva, se kterým může jedna fyzická osoba oprávněná nakládat se střelivem kategorie S4, nejde-li o držitele zbrojní licence, v kterýkoli okamžik podle zákona o zbraních a střelivu nakládat (tzv. obecný množstevní limit):",
+    "answers": [
+      {
+        "body": "10 kg v případě bezdýmného prachu, 3 kg v případě černého loveckého prachu, 15 000 ks zápalek pro kulové zbraně, 10 000 ks zápalek pro brokové zbraně a 15 000 ks perkusních zápalek.",
+        "right": true
+      },
+      {
+        "body": "25 kg střelného prachu a 10 000 ks zápalek.",
+        "right": false
+      },
+      {
+        "body": "10 kg střelného prachu, 15 000 ks zápalek, 100 ks rozbušek a 20 metrů bleskovice.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "607. Podle nařízení vlády o technických požadavcích a dalších specifikacích pro některé zbraně, střelivo a střelnice a pro zabezpečení zbraní a střeliva se do obecného množstevního limitu aktivních komponentů střeliva, se kterým může jedna fyzická osoba oprávněná nakládat se střelivem kategorie S4, nejde-li o držitele zbrojní licence, v kterýkoli okamžik podle zákona o zbraních a střelivu nakládat, započítává:",
     "answers": [
       {
@@ -9884,6 +10325,41 @@
     ]
   },
   {
+    "name": "609. Podle nařízení vlády o technických požadavcích a dalších specifikacích pro některé zbraně, střelivo a střelnice a pro zabezpečení zbraní a střeliva představují výše uvedené obrazce:",
+    "image": "data/img/609.png",
+    "answers": [
+      {
+        "body": "verifikační znehodnocovací značky, jejichž vyznačením na znehodnocené zbrani příslušný orgán, kterým je Český úřad pro zkoušení zbraní a střeliva nebo Ministerstvo obrany, potvrzuje, že znehodnocená zbraň prošla kontrolou a znehodnocení bylo provedeno v souladu se stanovenými technickými požadavky.",
+        "right": true
+      },
+      {
+        "body": "kontrolní ověřovací značky, jejichž vyznačením na znehodnocené zbrani příslušný orgán, kterým je Český úřad pro zkoušení zbraní a střeliva nebo Ministerstvo obrany, potvrzuje, že daná zbraň byla v souladu s požadavky na přeshraniční přepravu dovezena z jiného členského státu Evropské unie nebo vyrobena na území České republiky pod dohledem autorizovaného zbrojního inspektora.",
+        "right": false
+      },
+      {
+        "body": "typové verifikační značky, jejichž vyznačením na znehodnocené zbrani příslušný orgán, kterým je Český úřad pro zkoušení zbraní a střeliva nebo Ministerstvo obrany, potvrzuje, že daná zbraň podléhající registraci byla schválena pro uvedení buď v rámci celého vnitřního trhu Evropské unie nebo pouze v rámci území České republiky, anebo schválena pro použití ozbrojenými silami České republiky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "610. Právo bránit život svůj či život jiného člověka i se zbraní je zaručeno za podmínek, které stanoví zákon:",
+    "answers": [
+      {
+        "body": "má toliko občan České republiky, přičemž toto právo si s sebou nese i při cestách do zahraničí (uplatňuje se zde tzv. personalita práva).",
+        "right": false
+      },
+      {
+        "body": "má pouze držitel rozšířeného zbrojního oprávnění.",
+        "right": false
+      },
+      {
+        "body": "je základním právem uvedeným v Listině základních práv a svobod.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "611. Právo bránit život svůj či život jiného člověka i se zbraní je podle Listiny základních práv a svobod zaručeno za podmínek, které stanoví zákon; tímto zákonem se rozumí:",
     "answers": [
       {
@@ -9896,6 +10372,40 @@
       },
       {
         "body": "zejména trestní zákoník, pokud jde o vymezení podmínek použití zbraně mj. v nutné obraně a v krajní nouzi, a též zákon o zbraních, pokud jde o právo cíleně nakládat se střelnými zbraněmi za účelem ochrany života.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "612. Zákon o zbraních a střelivu a zákon o nakládání se zbraněmi v některých případech ovlivňujících vnitřní pořádek a bezpečnost:",
+    "answers": [
+      {
+        "body": "jsou synonyma téhož právního předpisu, konkrétně zákona č. 90/2024 Sb.",
+        "right": false
+      },
+      {
+        "body": "jsou dva odlišné právní předpisy, které na sebe navzájem navazují.",
+        "right": true
+      },
+      {
+        "body": "jsou dva odlišné právní předpisy, přičemž zákon o zbraních a střelivu se týká nakládání se zbraněmi v civilní sféře, zatímco zákon o nakládání se zbraněmi v některých případech ovlivňujících vnitřní pořádek a bezpečnost upravuje nakládání se zbraněmi pouze u příslušníků ozbrojených sil.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "613. Zakládat, organizovat nebo vyzbrojovat ozbrojenou skupinu podle zákona č. 14/2021 Sb., o nakládání se zbraněmi v některých případech ovlivňujících vnitřní pořádek a bezpečnost:",
+    "answers": [
+      {
+        "body": "je dovoleno.",
+        "right": false
+      },
+      {
+        "body": "je dovoleno, pokud k tomu Policejní prezidium České republiky vydalo souhlas.",
+        "right": false
+      },
+      {
+        "body": "je zakázáno.",
         "right": true
       }
     ]
@@ -10020,6 +10530,40 @@
     ]
   },
   {
+    "name": "621. Výrobky, jejich součásti a náhradní díly, které jsou vzhledem ke svým charakteristickým technicko-konstrukčním vlastnostem posuzovány jako zkonstruované nebo přizpůsobené pro použití v ozbrojených silách nebo bezpečnostních sborech, nebo jsou hromadně v těchto složkách užívány k zabezpečení úkolů obrany a bezpečnosti státu:",
+    "answers": [
+      {
+        "body": "jsou regulovány zákonem o nakládání se zbraněmi v některých případech ovlivňujících vnitřní pořádek nebo bezpečnost České republiky a nakládat s nimi jsou v rámci zahraničního obchodu oprávněni jen držitelé akreditace nebo aprobace, které byly uděleny podle tohoto speciálního právního předpisu.",
+        "right": false
+      },
+      {
+        "body": "jsou vojenským materiálem ve smyslu zákona č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem; při dovozu, vývozu a přeshraničním přemístění těchto výrobků se postupuje podle tohoto speciálního právního předpisu, a to i tehdy, jde-li o zbraně podléhající jinak zákonu o zbraních.",
+        "right": true
+      },
+      {
+        "body": "jsou zvláštním majetkem státu, se kterým může disponovat pouze Ministerstvo obrany pro výzkumné účely.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "622. Držitel zbrojní licence je oprávněn trvale dovézt, trvale vyvézt nebo v rámci Evropské unie trvale přeshraničně přemístit zbraně a střelivo, které jsou vojenským materiálem:",
+    "answers": [
+      {
+        "body": "na základě povolení podle zákona č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem, přičemž v případech stanovených tímto zákonem mu současně musí být Ministerstvem průmyslu a obchodu udělena licence.",
+        "right": true
+      },
+      {
+        "body": "na základě zbrojního průvodního listu podle zákona č. 90/2024 Sb., o zbraních a střelivu, který mu vydá příslušný útvar Celní správy na hraničním přechodu.",
+        "right": false
+      },
+      {
+        "body": "pouze na základě výjimky udělené Ministerstvem obrany v souladu s usnesením o vyhlášení stavu ohrožení státu nebo válečného stavu.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "623. Přeshraniční přemístění výrobků dvojího použití podle nařízení Evropského parlamentu a Rady (EU) 2021/821, o režimu Unie pro kontrolu vývozu, zprostředkování, technické pomoci, tranzitu a převodu zboží dvojího použití, mimo území Evropské unie:",
     "answers": [
       {
@@ -10050,6 +10594,23 @@
       {
         "body": "je bezpečná pro použi ke střelbě, neboť písmenem „X“ je označena aktuálně platná zkušební značka podle zákona o ověřování střelných zbraní a střeliva; zkušební značky, které nejsou takto označeny jako aktuálně platné, se považují za neúčinné.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "625. Ve vyhlášce č. 335/2004 Sb., kterou se provádějí některá ustanovení zákona o ověřování střelných zbraní a střeliva, je možné se seznámit mimo jiné:",
+    "answers": [
+      {
+        "body": "se vzorem kontrolní znehodnocovací značky, kterou držiteli znehodnocené zbraně přiděluje Český úřad pro zkoušení zbraní a střeliva.",
+        "right": false
+      },
+      {
+        "body": "s postupem Policie České republiky při ověřování stanovených střelných zbraní nebo stanoveného střeliva.",
+        "right": false
+      },
+      {
+        "body": "s podobou uznávaných zkušebních značek a identifikačních značek zkušeben v rámci systému vzájemného uznávání zkušebních značek podle příslušné mezinárodní úmluvy („C.I.P.“).",
+        "right": true
       }
     ]
   },
@@ -10122,6 +10683,74 @@
     ]
   },
   {
+    "name": "629. Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává střelnou zbraň nebo její hlavní části, tlumič hluku výstřelu, munici anebo ve větším množství střelivo nebo polotovary hlavních částí zbraně, anebo kdo padělá, pozmění, zahlazuje nebo odstraňuje jedinečné označení střelné zbraně, které umožňuje její identifikaci, se:",
+    "answers": [
+      {
+        "body": "dopustí přestupku podle zákona o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů.",
+        "right": false
+      },
+      {
+        "body": "dopustí trestného činu nedovoleného ozbrojování.",
+        "right": true
+      },
+      {
+        "body": "se dopustí disciplinárního deliktu podle etického kodexu držitelů oprávnění nakládat se zbraněmi; tento disciplinární delikt projednává oborová rada jmenovaná ministrem vnitra a může uložit sankci v podobě povinnosti věnování určené částky na charitativní nebo obdobné obecně prospěšné účely a povinnosti věnovat předmětnou zbraň nebo střelivo muzejní instituci, která se danou problematikou zabývá, přičemž pokud není určena jiná muzejní instituce, platí, že zbraň a střelivo připadají Muzeu Policie České republiky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "630. Kdo podstatně ohrozí obecný zájem tím, že poruší zákaz, omezení nebo jinou důležitou povinnost stanovenou pro dovoz, vývoz nebo průvoz zbraně, munice nebo většího množství střeliva, se:",
+    "answers": [
+      {
+        "body": "dopustí přestupku podle zákona o zbraních.",
+        "right": false
+      },
+      {
+        "body": "dopustí platebního deliktu podle daňového řádu.",
+        "right": false
+      },
+      {
+        "body": "dopustí trestného činu podle § 261 trestního zákoníku.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "631. U přestupku, k jehož spáchání byla užita zbraň nebo k jehož spáchání byla tato zbraň určena, anebo ji pachatel získal přestupkem nebo jako odměnu za něj, lze uložit mimo jiné také trest:",
+    "answers": [
+      {
+        "body": "propadnutí věci (tj. dané zbraně).",
+        "right": true
+      },
+      {
+        "body": "odebrání zbraně, avšak pouze tehdy, není-li její hodnota v hrubém nepoměru k povaze přestupku.",
+        "right": false
+      },
+      {
+        "body": "zajištění věci (tj. dané zbraně), pouze pokud takovou sankci za příslušný přestupek zákon o odpovědnosti za přestupky a řízení o nich výslovně uložit umožňuje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "632. V trestním zákoníku je o krajní nouzi stanoveno, že jde o:",
+    "answers": [
+      {
+        "body": "čin jinak trestný, kterým někdo odvrací mimořádně důrazný útok směřovaný vůči většímu množství občanů, kteří jsou chráněni tímto zákoníkem, není trestným činem, pokud tak rozhodne soud na návrh Ministerstva spravedlnosti; nejde o krajní nouzi, jestliže bylo možno tento útok odvrátit jinými prostředky.",
+        "right": false
+      },
+      {
+        "body": "čin jinak trestný, kterým někdo odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem, není trestným činem; nejde o krajní nouzi, jestliže bylo možno toto nebezpečí za daných okolností odvrátit jinak anebo způsobený následek je zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil, anebo byl ten, komu nebezpečí hrozilo, povinen je snášet.",
+        "right": true
+      },
+      {
+        "body": "čin jinak trestný, kterým někdo zabraňuje útočníkovi v páchání trestného nebo jiného činu, který je uveden v trestním zákoníku, není trestným činem; jde o krajní nouzi, i jestliže bylo možno pachateli v páchání činu zabránit jiným způsobem.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "633. Jednat v krajní nouzi podle trestního zákoníku je obecně oprávněn:",
     "answers": [
       {
@@ -10151,6 +10780,23 @@
       },
       {
         "body": "výsledek psychologického vyšetření osoby jednající v krajní nouzi.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "635. Základní podmínkou vzniku stavu krajní nouze je nebezpečí, které hrozí zájmu chráněnému trestním zákonem. Toto nebezpečí:",
+    "answers": [
+      {
+        "body": "musí hrozit přímo (tedy bezprostředně).",
+        "right": true
+      },
+      {
+        "body": "musí hrozit výhradně nepřímo (tedy zprostředkovaně).",
+        "right": false
+      },
+      {
+        "body": "musí hrozit nejpozději ve střednědobé budoucnosti a jeho vznik musí vyplývat z úřední lis�ny, údaje vedeného v informačním systému veřejné správy nebo z obdobně důvěryhodné skutečnosti.",
         "right": false
       }
     ]
@@ -10359,6 +11005,77 @@
       }
     ]
   },
+  {
+    "name": "649. Obě vyobrazení zobrazují stejný náboj, jedná se o:",
+    "image": "data/img/649-655.png",
+    "answers": [
+      {
+        "body": "kulové střelivo, a to konkrétně o ráži 32 G pro revolvery.",
+        "right": false
+      },
+      {
+        "body": "brokové střelivo, a to konkrétně o ráži 12.",
+        "right": true
+      },
+      {
+        "body": "brokové střelivo, a to konkrétně o ráži 67,5 mm.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "650. Brokový náboj na vyobrazení výše je nábojem se střelou:",
+    "image": "data/img/649-655.png",
+    "answers": [
+      {
+        "body": "jednotnou, typu Brenneke.",
+        "right": false
+      },
+      {
+        "body": "hromadnou s velkostí broku 67,5 mm.",
+        "right": true
+      },
+      {
+        "body": "hromadnou a obsahuje celkově 32 broků o standardizované velikosti „g“.",
+        "right": false
+      }
+    ]
+  },
+  {}
+650.
+Brokový náboj na vyobrazení výše je nábojem se střelou:
+A) 
+B) 
+C) 
+651.
+Na těle nábojnice výše vyobrazeného brokového náboje je uvedena hodnota „67,5“, toto
+číslo znamená:
+158
+A) maximální délku nábojové komory, ve které lze tento náboj bezpečně použít.
+B) maximální počet nábojů tohoto typu, který lze ze zbraně bez přerušení vystřelit.
+C) minimální délku nábojové komory, ve které lze tento náboj bezpečně použít.
+652.
+Šipkou označená část brokového náboje se nazývá:
+A) zátka.
+B) střela.
+C) kování.
+653.
+Šipkou označená část brokového náboje se nazývá:
+A) zápalka.
+B) rázový středič.
+C) zátka.
+654.
+Šipkou označená část brokového náboje slouží k:
+159
+A) iniciaci (zážehu) výmetné prachové náplně náboje při výstřelu.
+B) inauguraci (uvedení) náboje do nábojové komory zbraně před výstřelem.
+C) informaci (údaji) o velikosti prachové náplně v náboji (tato střední část je tím větší, čím
+menší prachová náplň je do náboje laborována).
+655.
+Šipka na obrázku výše neukazuje na komponent brokového střeliva označovaný jako:
+A) zápalka.
+B) nábojnice.
+C) zátka.
   {
     "name": "656. Výše vyobrazené brokové náboje mají na dnu nábojnice vyznačeny hodnoty „12“ (v případě horního náboje) a „20“ (v případě dolního náboje); který z těchto nábojů má větší ráži?",
     "image": "data/img/656-657.png",
@@ -11769,5 +12486,4 @@
       }
     ]
   }
-]
 ]
