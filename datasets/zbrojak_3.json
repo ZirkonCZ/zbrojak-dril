@@ -661,5 +661,22 @@
         "right": true
       }
     ]
+  },
+  {
+    "name": "648. Pokud osoba spáchá trestný čin odvraceje útok, aniž byly ale zcela splněny podmínky nutné obrany, soud při ukládání trestu takové osobě k tomuto",
+    "answers": [
+      {
+        "body": "přihlédne pouze jako k polehčující okolnosti.",
+        "right": true
+      },
+      {
+        "body": "přihlédne jako k přitěžující okolnosti.",
+        "right": false
+      },
+      {
+        "body": "nepřihlédne.",
+        "right": false
+      }
+    ]
   }
 ]

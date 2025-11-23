@@ -11006,6 +11006,23 @@
     ]
   },
   {
+    "name": "648. Pokud osoba spáchá trestný čin odvraceje útok, aniž byly ale zcela splněny podmínky nutné obrany, soud při ukládání trestu takové osobě k tomuto",
+    "answers": [
+      {
+        "body": "přihlédne pouze jako k polehčující okolnosti.",
+        "right": true
+      },
+      {
+        "body": "přihlédne jako k přitěžující okolnosti.",
+        "right": false
+      },
+      {
+        "body": "nepřihlédne.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "649. Obě vyobrazení zobrazují stejný náboj, jedná se o:",
     "image": "data/img/649-655.png",
     "answers": [
@@ -11041,41 +11058,96 @@
       }
     ]
   },
-  {}
-650.
-Brokový náboj na vyobrazení výše je nábojem se střelou:
-A) 
-B) 
-C) 
-651.
-Na těle nábojnice výše vyobrazeného brokového náboje je uvedena hodnota „67,5“, toto
-číslo znamená:
-158
-A) maximální délku nábojové komory, ve které lze tento náboj bezpečně použít.
-B) maximální počet nábojů tohoto typu, který lze ze zbraně bez přerušení vystřelit.
-C) minimální délku nábojové komory, ve které lze tento náboj bezpečně použít.
-652.
-Šipkou označená část brokového náboje se nazývá:
-A) zátka.
-B) střela.
-C) kování.
-653.
-Šipkou označená část brokového náboje se nazývá:
-A) zápalka.
-B) rázový středič.
-C) zátka.
-654.
-Šipkou označená část brokového náboje slouží k:
-159
-A) iniciaci (zážehu) výmetné prachové náplně náboje při výstřelu.
-B) inauguraci (uvedení) náboje do nábojové komory zbraně před výstřelem.
-C) informaci (údaji) o velikosti prachové náplně v náboji (tato střední část je tím větší, čím
-menší prachová náplň je do náboje laborována).
-655.
-Šipka na obrázku výše neukazuje na komponent brokového střeliva označovaný jako:
-A) zápalka.
-B) nábojnice.
-C) zátka.
+  {
+    "name": "651. Na těle nábojnice výše vyobrazeného brokového náboje je uvedena hodnota „67,5“, toto číslo znamená:",
+    "image": "data/img/649-655.png",
+    "answers": [
+      {
+        "body": "maximální délku nábojové komory, ve které lze tento náboj bezpečně použít.",
+        "right": false
+      },
+      {
+        "body": "maximální počet nábojů tohoto typu, který lze ze zbraně bez přerušení vystřelit.",
+        "right": false
+      },
+      {
+        "body": "minimální délku nábojové komory, ve které lze tento náboj bezpečně použít.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "652. Šipkou označená část brokového náboje se nazývá:",
+    "image": "data/img/649-655.png",
+    "answers": [
+      {
+        "body": "zátka.",
+        "right": false
+      },
+      {
+        "body": "střela.",
+        "right": false
+      },
+      {
+        "body": "kování.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "653. Šipkou označená část brokového náboje se nazývá:",
+    "image": "data/img/649-655.png",
+    "answers": [
+      {
+        "body": "zápalka.",
+        "right": true
+      },
+      {
+        "body": "rázový středič.",
+        "right": false
+      },
+      {
+        "body": "zátka.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "654. Šipkou označená část brokového náboje slouží k:",
+    "image": "data/img/649-655.png",
+    "answers": [
+      {
+        "body": "iniciaci (zážehu) výmetné prachové náplně náboje při výstřelu.",
+        "right": true
+      },
+      {
+        "body": "inauguraci (uvedení) náboje do nábojové komory zbraně před výstřelem.",
+        "right": false
+      },
+      {
+        "body": "informaci (údaji) o velikosti prachové náplně v náboji (tato střední část je tím větší, čím menší prachová náplň je do náboje laborována).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "655. Šipka na obrázku výše neukazuje na komponent brokového střeliva označovaný jako:",
+    "image": "data/img/649-655.png",
+    "answers": [
+      {
+        "body": "zápalka.",
+        "right": true
+      },
+      {
+        "body": "nábojnice.",
+        "right": false
+      },
+      {
+        "body": "zátka.",
+        "right": false
+      }
+    ]
+  },
   {
     "name": "656. Výše vyobrazené brokové náboje mají na dnu nábojnice vyznačeny hodnoty „12“ (v případě horního náboje) a „20“ (v případě dolního náboje); který z těchto nábojů má větší ráži?",
     "image": "data/img/656-657.png",
@@ -11109,6 +11181,60 @@ C) zátka.
       {
         "body": "v případě, že je do nábojové komory brokové zbraně ráže 12 omylem vložen náboj ráže 20, může dojít k zachycení náboje za jeho okraj v přechodovém kuželu vývrtu hlavně, a pokud následně dojde k vložení náboje ráže 12 a k výstřelu, dojde s vysokou pravděpodobností k destrukci zbraně a k ohrožení zdraví a případně života střelce a případně i dalších osob; z tohoto důvodu mívají brokové náboje ráže 20 žlutý plášť nábojnice, kterým se odlišují od jiných brokových nábojů.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "658. Výše zobrazené náboje ráží 7,5 x 55 Swiss (dva náboje shora) a 7,62 x 54 R (náboj zobrazený nejníže) jsou střelivem určeným pro:",
+    "image": "data/img/658-663.png",
+    "answers": [
+      {
+        "body": "dlouhé palné zbraně s drážkovaným vývrtem hlavně, například pro pušky nebo kulovnice.",
+        "right": true
+      },
+      {
+        "body": "dlouhé palné zbraně s hladkým vývrtem hlavně, například pro samopaly nebo kulomety.",
+        "right": false
+      },
+      {
+        "body": "krátké expanzní zbraně s drážkovaným vývrtem hlavně, například pro jateční expanzní přístroje nebo upevňovací rázové stroje na principu střelné zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "659. Výše vyobrazené kulové náboje ráží 7,5 x 55 Swiss (dva náboje shora) a 7,62 x 54 R (náboj zobrazený nejníže) mají tvar nábojnice:",
+    "image": "data/img/658-663.png",
+    "answers": [
+      {
+        "body": "dvouválcový.",
+        "right": false
+      },
+      {
+        "body": "lahvovitý.",
+        "right": true
+      },
+      {
+        "body": "špičatý.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "660. Výše vyobrazené náboje ráží 7,5 x 55 Swiss (dva náboje shora) a 7,62 x 54 R (náboj zobrazený nejníže) představují typické zástupce kulových nábojů pro palné zbraně, tyto náboje se standardně skládají z:",
+    "image": "data/img/658-663.png",
+    "answers": [
+      {
+        "body": "nábojnice, střely a závěru.",
+        "right": false
+      },
+      {
+        "body": "nábojnice, střely, prachové náplně a zápalky.",
+        "right": true
+      },
+      {
+        "body": "nábojnice, střely, práškového zapalovače a patrony.",
+        "right": false
       }
     ]
   },
@@ -11221,6 +11347,60 @@ C) zátka.
     ]
   },
   {
+    "name": "667. Vyberte z výše vyobrazených nábojů náboje s okrajovým zápalem:",
+    "image": "data/img/667-672.png",
+    "answers": [
+      {
+        "body": "jde o náboj s číslem 1 (náboj ráže 22 Long Rifle) a náboj s číslem 2 (náboj ráže 9 mm Flobert).",
+        "right": true
+      },
+      {
+        "body": "jde o náboj s číslem 3 (náboj ráže 7,65 mm Browning) a náboj s číslem 4 (náboj ráže 9 mm Luger).",
+        "right": false
+      },
+      {
+        "body": "jde o náboj s číslem 3 (náboj ráže 7,65 mm Browning), náboj s číslem 4 (náboj ráže 9 mm Luger) a náboj s číslem 5 (náboj ráže 7,62x25 mm Tokarev).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "668. Vyberte z výše vyobrazených nábojů náboj se střelou poloplášťovou:",
+    "image": "data/img/667-672.png",
+    "answers": [
+      {
+        "body": "jde o náboj s číslem 5 (náboj ráže 7,62x25 mm Tokarev).",
+        "right": false
+      },
+      {
+        "body": "jde o náboj s číslem 2 (náboj ráže 9 mm Flobert).",
+        "right": false
+      },
+      {
+        "body": "jde o náboj s číslem 4 (náboj ráže 9 mm Luger).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "669. Náboje s čísly 3 (ráže 7,65 mm Browning) a 4 (ráže 9 mm Luger) lze z hlediska určení považovat za typické zástupce nábojů pro:",
+    "image": "data/img/667-672.png",
+    "answers": [
+      {
+        "body": "dlouhé opakovací kulové palné zbraně.",
+        "right": false
+      },
+      {
+        "body": "krátké samonabíjecí kulové palné zbraně.",
+        "right": true
+      },
+      {
+        "body": "krátké samonabíjecí nebo opakovací palné zbraně s hladkým vývrtem hlavně.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "670. O výkonových parametrech výše vyobrazených nábojů lze rámcově uvést:",
     "image": "data/img/667-672.png",
     "answers": [
@@ -11235,6 +11415,24 @@ C) zátka.
       {
         "body": "maximální dostřel činí zhruba 300 m či méně a zhruba po pět šestin této dráhy (tj. do 250 m) má střela potenciálně smrtící účinek; podstatně větší maximální dostřel má pouze náboj zobrazený nad číslem 5 (náboj ráže 7,62 x 25 mm Tokarev).",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "671. Výše uvedené náboje představují střelivo, které je určeno:",
+    "image": "data/img/667-672.png",
+    "answers": [
+      {
+        "body": "výhradně pro krátké palné zbraně, a to pouze pro zbraně s drážkovaným vývrtem hlavně nebo s hladkým vývrtem typu „Paradox“",
+        "right": false
+      },
+      {
+        "body": "obvykle pro dlouhé palné zbraně a pouze pro zbraně s drážkovaným vývrtem hlavně.",
+        "right": false
+      },
+      {
+        "body": "pro krátké nebo dlouhé palné zbraně, přičemž zejména v případě dlouhých zbraní pro střelivo typu Flobert je poměrně časté použití hladkého vývrtu hlavně.",
+        "right": true
       }
     ]
   },
@@ -11257,6 +11455,96 @@ C) zátka.
     ]
   },
   {
+    "name": "673. Šipkou označená část kulového náboje se nazývá:",
+    "image": "data/img/673-674.png",
+    "answers": [
+      { 
+        "body": "nábojnice.",
+        "right": true
+      },
+      { 
+        "body": "dutinka.",
+        "right": true
+      },
+      { 
+        "body": "nábojová komora.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "674. Náboj na obrázku představuje typického zástupce jednotných kulových nábojů. Z hlediska použití tohoto střeliva vyznačuje šipka na obrázku:",
+    "image": "data/img/673-674.png",
+    "answers": [
+      { 
+        "body": "směr, který je opačný vůči směru, ve kterém je náboj vkládán (zasouván) do nábojové komory.",
+        "right": false 
+      },
+      { 
+        "body": "směr, ve kterém je náboj nebo nábojnice vytahována (vysouvána) ven z nábojové komory.",
+        "right": false 
+      },
+      { 
+        "body": "směr, ve kterém je náboj vkládán (zasouván) do nábojové komory.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "675. Šipka na vyobrazení výše ukazuje na část náboje, která se nazývá:",
+    "image": "data/img/675-676.png",
+    "answers": [
+      { 
+        "body": "kování.",
+        "right": false 
+      },
+      { 
+        "body": "kalíšková zápalka.",
+        "right": false 
+      },
+      { 
+        "body": "střela (projektil).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "676. Šipka na vyobrazení výše směřuje ve směru, ve kterém:",
+    "image": "data/img/675-676.png",
+    "answers": [
+      { 
+        "body": "se po stisknutí spouště pohybuje úderník (zápalník) před dopadem na zápalku, kterou tím iniciuje.", 
+        "right": false
+      },
+      { 
+        "body": "jsou náboj nebo nábojnice vytahovány (vysouvány) ven z nábojové komory.", 
+        "right": true
+      },
+      { 
+        "body": "je náboj vkládán (zasouván) do nábojové komory.", 
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "677. Vyobrazený předmět s největší pravděpodobností je:",
+    "image": "data/img/677.png",
+    "answers": [
+      {
+        "body": "pyrotechnickým výrobkem kategorie F1 podle zákona o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "municí podle zákona o munici.",
+        "right": true
+      },
+      {
+        "body": "zakázaným střelivem kategorie S1 podle zákona o pyrotechnice.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "678. Na vyobrazené zbrani byla provedena nevratná úprava:",
     "image": "data/img/678.png",
     "answers": [
@@ -11266,10 +11554,154 @@ C) zátka.
       },
       {
         "body": "znehodnocení podle přímo použitelného předpisu Evropské unie.",
-        "right": true
+        "right": false
       },
       {
         "body": "zhotovení řezu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "679. Kterým číslem je na vyobrazené zbrani označena hlavní část zbraně – tělo pistole?",
+    "image": "data/img/679-680.png",
+    "answers": [
+      {
+        "body": "1",
+        "right": false
+      },
+      {
+        "body": "4",
+        "right": false
+      },
+      {
+        "body": "3",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "680. Kterým číslem je na vyobrazené zbrani označena část těla pistole nazývaná lučík?",
+    "image": "data/img/679-680.png",
+    "answers": [
+      {
+        "body": "2",
+        "right": true
+      },
+      {
+        "body": "1",
+        "right": false
+      },
+      {
+        "body": "4",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "681. Vyobrazená zbraň je:",
+    "image": "data/img/681-682.png",
+    "answers": [
+      {
+        "body": "revolver, neboli krátká kulová samonabíjecí palná zbraň.",
+        "right": false
+      },
+      {
+        "body": "revolver, neboli krátká kulová opakovací palná zbraň.",
+        "right": true
+      },
+      {
+        "body": "pistole, neboli malá ruční kulová rychlopalná zbraň.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "682. Vyobrazená zbraň je zřejmě z hlediska svého použití primárně, resp. standardně určena pro:",
+    "image": "data/img/681-682.png",
+    "answers": [
+      {
+        "body": "sportovní mířenou terčovou střelbu, a to od krátkých po střední vzdálenosti.",
+        "right": false
+      },
+      {
+        "body": "ochranu života, zdraví nebo majetku a obdobné účely.",
+        "right": true
+      },
+      {
+        "body": "sportovní střelbu na pohyblivé cíle (např. disciplínu běžící terč 30+30 ran na 50m).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "683. Na vyobrazené zbrani je číslem „3“ označena součást nazývaná:",
+    "image": "data/img/683-685.png",
+    "answers": [
+      {
+        "body": "difuzor, jedná se o hlavní část zbraně ve smyslu zákona o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "bubínek, nejedná se o hlavní část zbraně ve smyslu zákona o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "revolverový válec, jedná se o hlavní část zbraně ve smyslu zákona o zbraních a střelivu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "684. Na vyobrazené zbrani je červené číslo „2\" umístěno na:",
+    "image": "data/img/683-685.png",
+    "answers": [
+      {
+        "body": "výklopné konzoli válce.",
+        "right": true
+      },
+      {
+        "body": "předpažbí revolverové zbraně.",
+        "right": false
+      },
+      {
+        "body": "kloubu kloubového závěru pistole.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "685. Vnější bicí kohout je na vyobrazené zbrani označen číslem:",
+    "image": "data/img/683-685.png",
+    "answers": [
+      {
+        "body": "„6“.",
+        "right": false
+      },
+      {
+        "body": "„3“.",
+        "right": false
+      },
+      {
+        "body": "„5“.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "686. U vyobrazeného revolveru došlo k havárii, přičemž již podle tohoto vyobrazení lze s jistotou říci, že došlo minimálně k podstatnému poškození:",
+    "image": "data/img/686-687.png",
+    "answers": [
+      {
+        "body": "rámu a revolverového válce.",
+        "right": true
+      },
+      {
+        "body": "hlavně a otočného závěru.",
+        "right": false
+      },
+      {
+        "body": "bubínku a závorníku.",
         "right": false
       }
     ]
@@ -11293,6 +11725,78 @@ C) zátka.
     ]
   },
   {
+    "name": "688. Obrázek výše zobrazuje střední část dlouhé brokové zbraně s vnějšími bicími kohouty a sklopným hlavňovým svazkem, která se obvykle nazývá:",
+    "image": "data/img/688.png",
+    "answers": [
+      {
+        "body": "browning.",
+        "right": false
+      },
+      {
+        "body": "lankasterka.",
+        "right": true
+      },
+      {
+        "body": "malorážka.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "689. Šipka na vyobrazení výše ukazuje na jeden běžný ovládací prvek zbraní s lůžkovým závěrem a sklopným hlavňovým svazkem; tento ovládací prvek se nazývá:",
+    "image": "data/img/689.png",
+    "answers": [
+      {
+        "body": "temenní klička.",
+        "right": true
+      },
+      {
+        "body": "klika závěru.",
+        "right": false
+      },
+      {
+        "body": "pákový závěr.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "690. Vyobrazená dlouhá broková zbraň má hlavňový svazek se dvěma hlavněmi umístěnými vertikálně nad sebou; tento druh dlouhé zbraně se nazývá:",
+    "image": "data/img/690-691.png",
+    "answers": [
+      {
+        "body": "kozderka.",
+        "right": false
+      },
+      {
+        "body": "kozlík.",
+        "right": false
+      },
+      {
+        "body": "kozlice.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "691. Vyobrazená zbraň bude v obvyklém případě (bez skrytých nestandardních úprav):",
+    "image": "data/img/690-691.png",
+    "answers": [
+      {
+        "body": "brokovou zbraní s lůžkovým závěrem a sklopným hlavňovým svazkem.",
+        "right": true
+      },
+      {
+        "body": "kulobrokovou zbraní s vertikálně posuvným blokovým závěrem.",
+        "right": false
+      },
+      {
+        "body": "svazkovou zbraní se sklopným závěrem a brokovým lůžkem v hlavišti.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "692. Části zbraně označené šipkami na vyobrazení výše se nazývají:",
     "image": "data/img/692.png",
     "answers": [
@@ -11307,6 +11811,24 @@ C) zátka.
       {
         "body": "část označená šipkou ve směru zleva doprava se nazývá ramenní opěra a část označená šipkou směřující zdola nahoru se nazývá ponosová rukojeť.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "693. Na obrázku výše je zbraň vycházející z historické konstrukce palné zbraně určené pro černý prach a nabíjené ústím nábojové komory revolverového válce, tento druh zbraně se nazývá:",
+    "image": "data/img/693-694.png",
+    "answers": [
+      {
+        "body": "křesadlový revolver.",
+        "right": false
+      },
+      {
+        "body": "bubínkový revolver.",
+        "right": false
+      },
+      {
+        "body": "perkusní revolver.",
+        "right": true
       }
     ]
   },
@@ -11329,6 +11851,24 @@ C) zátka.
     ]
   },
   {
+    "name": "695. Na obrázku výše je zbraň vycházející z historické konstrukce palné zbraně určené pro černý prach a nabíjené ústím hlavně, tento druh zbraně lze označit jako:",
+    "image": "data/img/695.png",
+    "answers": [
+      {
+        "body": "palnou zbraň s konstrukcí založenou na křesadlovém zámkovém systému.",
+        "right": true
+      },
+      {
+        "body": "palnou zbraň s konstrukcí založenou na doutnákovém zámkovém systému.",
+        "right": false
+      },
+      {
+        "body": "palnou zbraň s konstrukcí založenou na dvojákovém trojáku.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "696. O výše vyobrazené zbrani lze z hlediska zásad bezpečné manipulace se zbraněmi a střelivem říci, že:",
     "image": "data/img/696.png",
     "answers": [
@@ -11342,6 +11882,150 @@ C) zátka.
       },
       {
         "body": "před další manipulací s ní by bylo nutné vyjmout zásobník, ale další kontrolu by nutné provést nebylo s ohledem na to, že náboj v komoře se nacházet nemůže, protože je již vypuštěn bicí kohout.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "697. Umístění zásobníku ve zbrani vyobrazené výše odpovídají čísla:",
+    "image": "data/img/697-699.png",
+    "answers": [
+      {
+        "body": "„1“ a „3“.",
+        "right": false
+      },
+      {
+        "body": "„2“ a „6“.",
+        "right": false
+      },
+      {
+        "body": "„2“ a „5“.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "698. Pod číslem „1“ se na obrázku výše nachází součást zbraně označovaná jako:",
+    "image": "data/img/697-699.png",
+    "answers": [
+      {
+        "body": "výhozná komůrka, která se nachází pod odemčenou kulisou palné zbraně.",
+        "right": false
+      },
+      {
+        "body": "výhozné okénko, přičemž ve výhozném okénku je vidět část hlavně s nábojovou komorou.",
+        "right": true
+      },
+      {
+        "body": "baskule.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "699. Na obrázku výše je ústí hlavně vyobrazené zbraně označeno:",
+    "image": "data/img/697-699.png",
+    "answers": [
+      {
+        "body": "číslem „1“.",
+        "right": false
+      },
+      {
+        "body": "číslem „2“.",
+        "right": false
+      },
+      {
+        "body": "číslem „3“.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "700. Čísla „3“, „5“ a „6“ na obrázku výše označují:",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "hlavní části zbraně ve smyslu zákona o zbraních a střelivu.",
+        "right": false
+      },
+      {
+        "body": "součásti zbraně umožňující samočinnou střelbu.",
+        "right": false
+      },
+      {
+        "body": "součásti zbraně, které nejsou hlavními částmi zbraně ve smyslu zákona o zbraních a střelivu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "701. Čísla „1“, „2“ a „4“ na obrázku výše označují:",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "hlavní části zbraně ve smyslu zákona o zbraních a střelivu.",
+        "right": true
+      },
+      {
+        "body": "součásti zbraně umožňující samočinnou střelbu.",
+        "right": false
+      },
+      {
+        "body": "součásti zbraně, které nejsou hlavními částmi zbraně ve smyslu zákona o zbraních a střelivu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "702. Hlavní části zbraně ve smyslu zákona o zbraních a střelivu se na obrázku výše nacházejí pod čísly:",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "„1“, „2“, „3“ a „6“.",
+        "right": false
+      },
+      {
+        "body": "„4“ a „5“.",
+        "right": false
+      },
+      {
+        "body": "„1“, „2“ a „4“.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "703. Pod číslem „1“ se na obrázku výše nachází hlavní část zbraně, kterou lze z technického pohledu označit jako:",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "kluzný pistolový závěr.",
+        "right": true
+      },
+      {
+        "body": "závěr opakovací palné zbraně.",
+        "right": false
+      },
+      {
+        "body": "ústí samonabíjecí pistole.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "704. Pod číslem „2“ se na obrázku výše nachází součást samonabíjecí pistole označovaná jako:",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "hlaveň; v tomto případě hlaveň nese též uzamykací ozuby a odemykací kulisu.",
+        "right": true
+      },
+      {
+        "body": "lauf; zde jde konkrétně o svazek laufů s drážkováním z horní strany.",
+        "right": false
+      },
+      {
+        "body": "hlaveň s ozubeným závorníkem.",
         "right": false
       }
     ]
@@ -11365,6 +12049,222 @@ C) zátka.
     ]
   },
   {
+    "name": "706. Pod číslem „4“ se na obrázku výše nachází součást samonabíjecí pistole označovaná jako:",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "pažba, přičemž v tomto případě se jedná o pažbu s přední pistolovou rukojetí.",
+        "right": false
+      },
+      {
+        "body": "tělo zbraně.",
+        "right": true
+      },
+      {
+        "body": "adaptér.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "707. Pod číslem „6“ se na obrázku výše nachází součást samonabíjecí pistole označovaná jako:",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "blokový pistolový závěr.",
+        "right": false
+      },
+      {
+        "body": "záchyt závěru.",
+        "right": false
+      },
+      {
+        "body": "zásobník.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "708. Kterým číslem je na vyobrazené zbrani označena vnější manuální pojistka?",
+    "image": "data/img/700-708.png",
+    "answers": [
+      {
+        "body": "Vnější manuální pojistka je označena číslem „5“.",
+        "right": false
+      },
+      {
+        "body": "Žádným z čísel není vnější manuální pojistka zbraně označena.",
+        "right": true
+      },
+      {
+        "body": "Vnější manuální pojistka je označena číslem „1“.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "709. Zbraň na obrázku je vybavena bicím a spoušťovým mechanismem:",
+    "image": "data/img/709-710.png",
+    "answers": [
+      {
+        "body": "s přepnutým úderníkovým kohoutem.",
+        "right": false
+      },
+      {
+        "body": "s vnějším bicím kohoutem a dvojčinnou spouští (DA/SA).",
+        "right": false
+      },
+      {
+        "body": "s přímoběžným úderníkem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "710. Zbraň na obrázku je:",
+    "image": "data/img/709-710.png",
+    "answers": [
+      {
+        "body": "samonabíjecí pistole s odnímatelným zásobníkem a pevnými mechanickými mířidly.",
+        "right": true
+      },
+      {
+        "body": "samonabíjecí zbraň typu PDW (Personal Defense Weapon, čili osobní obranná zbraň) s pevnou zásobníkovou schránkou a odnímatelnými mířidly.",
+        "right": false
+      },
+      {
+        "body": "krátká palná zbraň nabíjená jednotlivě s pevnou hlavní, přičemž tato zbraň je konstruována pro střelbu ze zadní polohy (otevřeného) závěru.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "711. Vyberte správnou odpověď:",
+    "image": "data/img/711.png",
+    "answers": [
+      {
+        "body": "Závěr je na obrázku výše označen číslem „3“ a pažba je označena číslem „4“.",
+        "right": false
+      },
+      {
+        "body": "Tělo zbraně je na obrázku výše označeno číslem „1“ a „4“ a čísla „3“ a „2“ označují zásobovací ústrojí zbraně.",
+        "right": false
+      },
+      {
+        "body": "Závěr je na obrázku výše označen čísly „3“ a „2“ a číslo „4\" je umístěno uvnitř lučíku spouště.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "712. Zbraň, jejíž část je vyobrazena výše, je patrně zbraní:",
+    "image": "data/img/712-713.png",
+    "answers": [
+      {
+        "body": "palnou samonabíjecí.",
+        "right": false
+      },
+      {
+        "body": "zápalnou samoplnící.",
+        "right": false
+      },
+      {
+        "body": "palnou opakovací.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "713. Na vyobrazení výše jsou alespoň částečně viditelné součásti zbraně:",
+    "image": "data/img/712-713.png",
+    "answers": [
+      {
+        "body": "pažba, lučík, spoušť, klika závěru, závěr, hmatník pojistky, pouzdro závěru, výhozné okénko, hlaveň, hledí, dno zásobníku.",
+        "right": true
+      },
+      {
+        "body": "pažba, předpažbí, spoušť, natahovací páka závěru, závěr, hmatník pojistky, pouzdro závěru, hlaveň, muška, dno zásobníku.",
+        "right": false
+      },
+      {
+        "body": "pažba, lučiště, spoušť, záchyt závěru, závorník, hmatník pojistky, pouzdro závěru, hlaveň, dnový šroub, dno zásobníku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "714. Výše je vyobrazena pouze střední část dlouhé palné zbraně – opakovací malorážky. Určete, které tvrzení níže platí z hlediska správného používání této zbraně:",
+    "image": "data/img/714.png",
+    "answers": [
+      {
+        "body": "šipka nad zbraní označuje směr, pro který je z hlediska používání zbraně charakteristické zejména to, že jde o bezpečný směr a pokud zbraň ve směru této šipky směřuje k osobám, nejedná se nikdy o porušení zásad bezpečné manipulace se zbraní, zatímco ve směru naznačeném šipkou pod zbraní se o bezpečný směr jedná pouze tehdy, směřuje-li zbraň k rameni střelce.",
+        "right": false
+      },
+      {
+        "body": "šipka nad zbraní označuje směr, pro který je z hlediska používání zbraně charakteristické zejména to, že jde o směr působení zpětného rázu zbraně, zatímco šipka pod zbraní směřuje pryč od místa, kde se zbraň opírá do ramene střelce.",
+        "right": false
+      },
+      {
+        "body": "šipka nad zbraní označuje směr, pro který je z hlediska používání zbraně charakteristické zejména to, že jde o směr, ve kterém střela opouští zbraň, jde tedy o šipku směřující k ústí hlavně, zatímco šipka pod zbraní směřuje k rameni střelce.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "715. Brokovou zbraň označenou výše vyobrazenou zkušební značkou lze použít:",
+    "image": "data/img/715.png",
+    "answers": [
+      {
+        "body": "ke střelbě jednotnou střelou bez ohledu na velikost zahrdlení.",
+        "right": false
+      },
+      {
+        "body": "ke střelbě ocelovými broky.",
+        "right": true
+      },
+      {
+        "body": "ke střelbě tzv. francouzskými saboty.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "716. O zbrani označené výše vyobrazenou značkou lze říci, že:",
+    "image": "data/img/716.png",
+    "answers": [
+      {
+        "body": "jde o zbraň ověřenou státní autoritou v České republice (od roku 2000 je touto autoritou Český úřad pro zkoušení zbraní a střeliva).",
+        "right": true
+      },
+      {
+        "body": "jde o zbraň zařazenou do výzbroje ozbrojených sil České republiky, jedná se o tzv. přejímku.",
+        "right": false
+      },
+      {
+        "body": "jde o zbraň určenou výhradně pro střelivo plněné černým prachem a náhradní střelou.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "717. Výše vyobrazená jednotná zkušební značka dokládá, že touto značkou označená palná zbraň byla:",
+    "image": "data/img/717.png",
+    "answers": [
+      {
+        "body": "otestována na maximálně přípustný obsah dusíku v kovových součástech, čímž je garantována minimální vyžadovaná pružnost těchto součástí.",
+        "right": false
+      },
+      {
+        "body": "ověřena na základě tzv. obyčejné zkoušky, přičemž jde o značku uznávanou podle Úmluvy o vzájemném uznávání zkušebních značek ručních palných zbraní („C.I.P.\").",
+        "right": true
+      },
+      {
+        "body": "zkontrolována, přičemž ověřením neprošla („N\") a byla vyřazena z používání; v případě, že by zbraň ověřením prošla úspěšně, byla by označena písmenem „A“.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "718. Závorník u zbraně je součást, která:",
     "answers": [
       {
@@ -11378,6 +12278,74 @@ C) zátka.
       {
         "body": "u některých zbraní (zejména loveckých) slouží jako pojistný mechanismus, který se řadí mezi automatické pojistky.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "719. Nosič závorníku u zbraně je součást, která:",
+    "answers": [
+      {
+        "body": "unáší při nabíjecím cyklu zbraně závorník a zajišťuje tak jeho odemčení a uzamčení.",
+        "right": true
+      },
+      {
+        "body": "může být připojena ke zbrani se složeným závěrovým mechanismem a umožňuje její bezpečné nošení s vyjmutým závorníkem.",
+        "right": false
+      },
+      {
+        "body": "je součástí pouzdra závěru, do které je při výstřelu uzamčen závorník.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "720. Hlaveň je součást palné nebo plynové zbraně:",
+    "answers": [
+      {
+        "body": "v níž se tepelná energie vznikající při hoření střelného prachu nebo při prudkém stlačování plynu přeměňuje na potenciální energii střely, která se rovná kinetické energii této střely při jejím dopadu na cíl.",
+        "right": false
+      },
+      {
+        "body": "která vymete náboj směrem od střelce, a to silou která odpovídá složeným silám úderníkové pružiny a odstředivé síly pohybu závěrového mechanismu.",
+        "right": false
+      },
+      {
+        "body": "v níž se určitý druh energie přemění v pohybovou energii střely, vodicí část vývrtu přitom vede střelu v požadovaném směru.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "721. Účelem hlavně s drážkovanou částí vývrtu je:",
+    "answers": [
+      {
+        "body": "vytvoření podélných rýh na povrchu střely, jejichž účelem je způsobení větší destrukce v cíli.",
+        "right": false
+      },
+      {
+        "body": "uvedení střely do otáčivého pohybu kolem její podélné osy.",
+        "right": true
+      },
+      {
+        "body": "zapojení střely do drážek, které střelu následně dovedou až k cíli.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "722. Vývrtem hlavně se rozumí:",
+    "answers": [
+      {
+        "body": "část hlavně, do které jsou vyvrtány otvory pro uchycení jiných částí zbraně.",
+        "right": false
+      },
+      {
+        "body": "\"vývrtkovité\" vrypy v hlavni.",
+        "right": false
+      },
+      {
+        "body": "vnitřní dutina hlavně; vývrt hlavně může být hladký nebo drážkovaný.",
+        "right": true
       }
     ]
   },
@@ -11416,6 +12384,23 @@ C) zátka.
     ]
   },
   {
+    "name": "725. Výhozné okénko je:",
+    "answers": [
+      {
+        "body": "součást, která po vyklopení ze zbraně umožňuje vyhození vytahovače zbraně.",
+        "right": false
+      },
+      {
+        "body": "otvor, kterým se ze zbraně vybavené trubicovou nábojovou schránkou obvykle vyhazuje prázdný zásobník.",
+        "right": false
+      },
+      {
+        "body": "otvor, kterým se ze zbraně vyhazuje vystřelená nábojnice, resp. náboj při vybití zbraně.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "726. Součást zbraně zvaná „lučík“:",
     "answers": [
       {
@@ -11428,6 +12413,23 @@ C) zátka.
       },
       {
         "body": "zakrývá otvor, kterým se ze zbraně vyhazuje vystřelená nábojnice, resp. náboj při vybití zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "727. Uzamčeným závěrem je závěr, který:",
+    "answers": [
+      {
+        "body": "je vybaven zámkem, kterým lze zbraň speciálně k tomu určeným mechanickým klíčem (nebo u zbraní novějších konstrukcí digitálně) uzamknout a zamezit tak jejímu zneužití neoprávněnou osobou.",
+        "right": false
+      },
+      {
+        "body": "je v okamžiku výstřelu pevně spojen (uzamčen) s hlavní; účelem uzamčení je udržení tlaku vznikajícího při výstřelu uvnitř hlavně.",
+        "right": true
+      },
+      {
+        "body": "je při střelbě pevně spojen s tělem zbraně a volně zakluzuje (nebo podle konstrukce předkluzuje) vůči hlavni; účelem uzamčení je zajištění spolehlivosti nabíjecího cyklu.",
         "right": false
       }
     ]
@@ -11446,6 +12448,74 @@ C) zátka.
       {
         "body": "závěr bez ovládací kličky nebo obdobného ovládacího prvku; jedná se například o lůžkový závěr zbraně se sklopným hlavňovým svazkem.",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "729. Uzamykacími prvky závěru se rozumí zejména:",
+    "answers": [
+      {
+        "body": "uzamykací ozuby, uzamykací kuličky nebo válečky, kleština nebo závora.",
+        "right": true
+      },
+      {
+        "body": "klíče závěru.",
+        "right": false
+      },
+      {
+        "body": "závěr, závorník, nosič závorníku, hlaveň, vložná hlaveň, vložná nábojová komora, tělo zbraně včetně horní a dolní části pouzdra závěru, a válec revolverové zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "730. Bicím mechanismem zbraně se rozumí:",
+    "answers": [
+      {
+        "body": "mechanismus způsobující úder na zápalku (iniciační mechanismus).",
+        "right": true
+      },
+      {
+        "body": "bajonet nebo bodák zbraně; v případě starších konstrukcí se za bicí mechanismus považovala také zápalková perkuse.",
+        "right": false
+      },
+      {
+        "body": "nabiják a další součásti sestavy nabíjecího mechanismu zbraně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "731. Spoušťovým ústrojím zbraně se rozumí:",
+    "answers": [
+      {
+        "body": "mechanismus pro vypouštění prázdného zásobníku ze zbraně nebo pro vypouštění zásobníku ze zbraně v případě kontroly zbraně.",
+        "right": false
+      },
+      {
+        "body": "mechanismus, kterým působí zbraň a střelivo na cíl a vyvolává požadovaný destruktivní účinek (zastarale se hovořilo o mechanismu \"způsobujícím spoušť\").",
+        "right": false
+      },
+      {
+        "body": "mechanismus zbraně, který slouží k ovládání iniciačního ústrojí (bicího mechanismu).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "732. Spouští se v případě střelných zbraní rozumí:",
+    "answers": [
+      {
+        "body": "ovládací prvek, který se vyskytuje pouze u krátkých zbraní a ovládá se prstem střelcovy ruky; v případě dlouhých zbraní se namísto spouště hovoří o spoušťové páce.",
+        "right": false
+      },
+      {
+        "body": "součást, na kterou je připojena bicí pružina, která po stisknutí kohoutku vymete z hlavně nábojnici.",
+        "right": false
+      },
+      {
+        "body": "součást, jejíž pohyb vyvolaný typicky tlakem prstu na jazýček spouště způsobí přímo nebo zprostředkovaně aktivaci iniciačního ústrojí (bicího mechanismu).",
+        "right": true
       }
     ]
   },
@@ -11518,6 +12588,74 @@ C) zátka.
     ]
   },
   {
+    "name": "737. Funkční cyklus samonabíjecí pušky určené pro náboje středního balistického výkonu (např. 223 Remington nebo 7,62 x 39 mm) je obvykle založen na:",
+    "answers": [
+      {
+        "body": "manuálním ovládání závěrového mechanismu přes páku, kliku nebo obdobný ovládací prvek, který může být s ohledem na konkrétní konstrukci zbraně spojen buď přímo se závěrem, s pístem nebo pístnicí; přímoběžný bicí mechanismus bývá umístěn typicky v dutině nosiče závěru.",
+        "right": false
+      },
+      {
+        "body": "impulzu zpětného rázu při výstřelu, který působí na dynamický (neuzamčený) otočný odsuvný závěr.",
+        "right": false
+      },
+      {
+        "body": "využití tlaku spalných plynů, a to buď v podobě impulzu udělovaného nosiči závorníku těmito plyny odebranými z vývrtu hlavně (v případě uzamčených závěrových mechanismů), nebo formou jejich tlaku na dno nábojnice (v případě bržděných nebo též polouzamčených závěrových mechanismů).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "738. Pojistka zbraně je:",
+    "answers": [
+      {
+        "body": "zařízení, které vyhazuje nábojnici nebo náboj.",
+        "right": false
+      },
+      {
+        "body": "součást zajišťující zbraň proti výstřelu.",
+        "right": true
+      },
+      {
+        "body": "součást, která přidržuje nábojnici.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "739. Je-li dlouhá broková zbraň vybavena automatickou pojistkou, která zajišťuje zbraň při každém sklopení hlavně nebo hlavňového svazku, před výstřelem:",
+    "answers": [
+      {
+        "body": "není nutno ji odjistit, neboť k zajišťování a odjišťování tohoto typu pojistky dochází automaticky nezávisle na vůli střelce; od střelce se pouze vyžaduje, aby identifikoval okamžik, kdy automatický mechanismus zbraň odjistí, a následně může zahájit střelbu.",
+        "right": false
+      },
+      {
+        "body": "je nutno ji odjistit pomocí příslušného ovládacího prvku umístěného například na hřbetě krku pažby.",
+        "right": true
+      },
+      {
+        "body": "dojde k jejímu automatickému odjištění při prvním stisknutím spouště, k zajištění dochází obvykle (podle konkrétní konstrukce) při dalším stisknutí spouště.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "740. Vložná hlaveň je:",
+    "answers": [
+      {
+        "body": "hlaveň větší ráže vkládaná do vývrtu hlavně menší ráže.",
+        "right": false
+      },
+      {
+        "body": "zařízení nebo součást hlavně, která upravuje účinky výstřelu (například nábojová redukce), nebo která slouží k uchycení tlumiče hluku výstřelu na hlaveň s hladkým vývrtem.",
+        "right": false
+      },
+      {
+        "body": "hlaveň menší ráže vkládaná do vývrtu hlavně větší ráže.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "741. Rám revolverové zbraně je:",
     "answers": [
       {
@@ -11530,6 +12668,210 @@ C) zátka.
       },
       {
         "body": "součást revolveru, na které jsou ostatní hlavní části a jiné součásti revolveru upevněny nebo jsou s ní pohyblivě spojeny.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "742. Palná zbraň – jednuška je:",
+    "answers": [
+      {
+        "body": "jednoranová dvouhlavňová brokovnice.",
+        "right": false 
+      },
+      {
+        "body": "jednohlavňová jednoranová brokovnice.",
+        "right": true 
+      },
+      {
+        "body": "víceranová brokovnice.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "743. Palná zbraň – dvojka je:",
+    "answers": [
+      {
+        "body": "dvouhlavňová brokovnice s hlavněmi vedle sebe.",
+        "right": true 
+      },
+      {
+        "body": "dvouhlavňová brokovnice s hlavněmi nad sebou.",
+        "right": false 
+      },
+      {
+        "body": "lovecká zbraň s brokovou a kulovou hlavní vedle sebe.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "744. Palná zbraň - lankasterka je:",
+    "answers": [
+      {
+        "body": "dvojka se skrytými kladívky.",
+        "right": false 
+      },
+      {
+        "body": "jednoranová kozlice.",
+        "right": false 
+      },
+      {
+        "body": "dvojka s vnějšími kohouty.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "745. Palná zbraň - hamerleska je:",
+    "answers": [
+      {
+        "body": "opakovací zbraň s kulovou a brokovou hlavní, které jsou spojeny kladívkovým zámkem.",
+        "right": false 
+      },
+      {
+        "body": "dvojka s vnějšími kohouty.",
+        "right": false 
+      },
+      {
+        "body": "dvojka se sklopnými hlavněmi a se skrytými kladívky.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "746. Palná zbraň - broková kozlice je:",
+    "answers": [
+      {
+        "body": "opakovací zbraň s kulovou a brokovou hlavní, které jsou spojeny uzamykacím kozlíkem.",
+        "right": false 
+      },
+      {
+        "body": "zbraň se dvěma hlavněmi vedle sebe; obě tyto hlavně jsou brokové.",
+        "right": false 
+      },
+      {
+        "body": "zbraň se dvěma hlavněmi nad sebou; obě tyto hlavně jsou brokové.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "747. Palná zbraň - kombinovaná zbraň je:",
+    "answers": [
+      {
+        "body": "lovecká dlouhá zbraň se dvěma a více hlavněmi; hlavně mají různý vývrt.",
+        "right": true 
+      },
+      {
+        "body": "zbraň s délkou hlavně 30 cm a celkovou délkou 60 cm, díky čemuž tato zbraň efektivně kombinuje výhody jak krátké, tak i dlouhé zbraně.",
+        "right": false 
+      },
+      {
+        "body": "broková zbraň s přepínačem, který umožňuje používat tuto zbraň jak v samonabíjecím režimu, tak i v režimu opakovací zbraně (ovládané posuvným předpažbím).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "748. Palná zbraň - kulobroková kozlice je:",
+    "answers": [
+      {
+        "body": "zbraň s dvěma hlavněmi stejné ráže nad sebou, kdy první část vývrtu těchto hlavní je hladká a druhá (obvykle kratší) část vývrtu je drážkovaná; díky této konstrukci umožňuje tato kozlice z obou hlavní střelbu jak brokovým, tak i kulovým střelivem.",
+        "right": false 
+      },
+      {
+        "body": "zbraň se dvěma hlavněmi nad sebou, a to kulovou a brokovou hlavní.",
+        "right": true 
+      },
+      {
+        "body": "lovecká zbraň určená pro střelbu dnes již zastaralého kulobrokového střeliva.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "749. Palná zbraň - kulovnice je:",
+    "answers": [
+      {
+        "body": "opakovací lovecká zbraň se sklopným svazkem 2 nebo 3 hlavní, kdy alespoň jedna z těchto hlavní musí být určena pro střelbu kulovými náboji.",
+        "right": false 
+      },
+      {
+        "body": "lovecká zbraň s kulovým závěrem.",
+        "right": false 
+      },
+      {
+        "body": "jednohlavňová (obvykle lovecká) dlouhá zbraň s drážkovaným vývrtem určená pro střelbu kulovými náboji.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "750. Palná zbraň - dvoják je:",
+    "answers": [
+      {
+        "body": "lovecká dlouhá zbraň se dvěma kulovými hlavněmi vedle sebe.",
+        "right": true 
+      },
+      {
+        "body": "zbraň konstruovaná pro střelbu střelivem s vyššími tlaky, a to až do dvojnásobku standardního tlaku podle C.I.P.",
+        "right": false 
+      },
+      {
+        "body": "lovecká dlouhá zbraň se dvěma kulovými hlavněmi nad sebou.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "751. Palná zbraň - kulová kozlice je:",
+    "answers": [
+      {
+        "body": "lovecká palná zbraň specificky určená pro regulační odstřel kozlic muflona evropského, kamzíka horského, kozy bezoárové a některých nepůvodních zavlečených druhů jako např. kozy kamerunské.",
+        "right": false 
+      },
+      {
+        "body": "lovecká dlouhá zbraň se dvěma kulovými hlavněmi nad sebou.",
+        "right": true 
+      },
+      {
+        "body": "speciální střelecké vybavení určené pro nastřelování kulovnic, někdy se též hovoří o střelecké koze nebo kulové stolici.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "752. Palná zbraň - flobertka je:",
+    "answers": [
+      {
+        "body": "krátká nebo dlouhá jednohlavňová nebo vícehlavňová zbraň určená pro náboje typu Flobert.",
+        "right": true 
+      },
+      {
+        "body": "krátká nebo dlouhá zbraň s hladkým vývrtem pro kulový náboj s jiným než středovým nebo okrajovým zápalem.",
+        "right": false 
+      },
+      {
+        "body": "plynová zbraň pro střelbu tréninkového charakteru nebo např. střelbu v místnostech.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "753. Palná zbraň - pistole je:",
+    "answers": [
+      {
+        "body": "krátká zbraň s pevnou hlavní a otáčivým válcem s nábojovými komorami, které se mezi jednotlivými výstřely natáčejí do osy hlavně.",
+        "right": false 
+      },
+      {
+        "body": "dlouhá zbraň s pevnou hlavní s nábojovou komorou; jednoranová, opakovací nebo samonabíjecí (popřípadě vícehlavňová).",
+        "right": false 
+      },
+      {
+        "body": "krátká zbraň s pevnou nebo pohyblivou hlavní s nábojovou komorou; jednoranová, opakovací nebo samonabíjecí (popřípadě vícehlavňová).",
         "right": true
       }
     ]
@@ -11569,6 +12911,74 @@ C) zátka.
     ]
   },
   {
+    "name": "756. Zahrdlení je úprava:",
+    "answers": [
+      {
+        "body": "ústí šachty zásobníku zbraně vybavené odnímatelným zásobníkem, účelem zahrdlení je usnadnit vkládání zásobníku do zásobníkové šachty při rychlém přebíjení zbraně.",
+        "right": false
+      },
+      {
+        "body": "nábojové komory brokové zbraně jejímž účelem je zajistit dostatečné zaškrcení čela náboje s hromadnou střelou.",
+        "right": false
+      },
+      {
+        "body": "úsťové části brokové hlavně ovlivňující velikost a charakter krytí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "757. Ráže palné zbraně pro brokový náboj je:",
+    "answers": [
+      {
+        "body": "přesná velikost průměru vodicí části vývrtu hlavně, což je smluvní číslo udávající počet koulí stejného průměru odlitých z jednoho kilogramu olova, které projdou vývrtem hlavně.",
+        "right": false
+      },
+      {
+        "body": "vyjádřena přesnou velikostí průměru vývrtu hlavně a smluvním číslem udávajícím počet ogiválních střel o váze jedné unce (≐ 28,35 g) odlitých z jedné anglické libry olova, které suvně projdou vývrtem hlavně.",
+        "right": false
+      },
+      {
+        "body": "smluvní označení, ke kterému přísluší zejména smluvní velikost průměru vodící části hlavně a jmenovitá nebo skutečná délka nábojnice.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "758. Střelivo s mechanickým zápalem se dělí na střelivo:",
+    "answers": [
+      {
+        "body": "s okrajovým zápalem, středovým zápalem, zápalem typu Gatling nebo zápalem Bordeaux.",
+        "right": false
+      },
+      {
+        "body": "s nízkým, středním a silným zápalem.",
+        "right": false
+      },
+      {
+        "body": "s okrajovým zápalem, středovým zápalem nebo se zápalem Lefaucheux.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "759. Školní náboj je náboj:",
+    "answers": [
+      {
+        "body": "určený ke světelné a akustické imitaci ostré střelby v rámci výuky a výcviku ve vojenských školách nebo školách bezpečnostních sborů.",
+        "right": false
+      },
+      {
+        "body": "bez výmetné náplně a zápalky, který rozměrově odpovídá skutečnému náboji: slouží pro výuku a výcvik v nabíjení a spouštění zbraně a pro kontrolu funkce zásobníku, závěru a spušťadla.",
+        "right": true
+      },
+      {
+        "body": "s výmetnou náplní, který rozměrově neodpovídá skutečnému náboji.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "760. Náboj typu Flobert je náboj:",
     "answers": [
       {
@@ -11582,6 +12992,57 @@ C) zátka.
       {
         "body": "s okrajovým zápalem; má střelu jednotnou nebo hromadnou, obvykle v rážích 4 mm, 6 mm nebo 9 mm.",
         "right": true
+      }
+    ]
+  },
+  {
+    "name": "761. U perkusního zámku se iniciace výmetné náplně zajišťuje:",
+    "answers": [
+      {
+        "body": "úderem kladívka (kohoutu) na perkusní zápalku.",
+        "right": true
+      },
+      {
+        "body": "úhozem kladívka (kohoutu) na ocílku.",
+        "right": false
+      },
+      {
+        "body": "úderem křemene, pazourku nebo jejich syntetické náhražky upevněných v čelistech zámku na perkusní střelný prach.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "762. Záměrná je:",
+    "answers": [
+      {
+        "body": "kladný náměr, který definuje odklon odměru od úrovně ústí hlavně směrem vzhůru.",
+        "right": false
+      },
+      {
+        "body": "přímka spojující mířidla zamířené zbraně a záměrný bod na cíli.",
+        "right": true
+      },
+      {
+        "body": "rána vystřelená ze zbraně záměrně a s rozmyslem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "763. Maximální dostřel je:",
+    "answers": [
+      {
+        "body": "největší dosažitelný dostřel při střelbě z určité zbraně s určitým střelivem.",
+        "right": true
+      },
+      {
+        "body": "největší vzdálenost od zbraně, na níž lze efektivně vyřadit střelbou zvolený cíl.",
+        "right": false
+      },
+      {
+        "body": "největší počet výstřelů dosažitelný při střelbě z určité zbraně.",
+        "right": false
       }
     ]
   },
@@ -11603,6 +13064,23 @@ C) zátka.
     ]
   },
   {
+    "name": "765. Maximální dostřel při výstřelu z dlouhé kulové zbraně ráže 308 Winchester nebo srovnatelné ráže, při použití standardního střeliva, může činit přibližně:",
+    "answers": [
+      {
+        "body": "až 800 m, přičemž střela může způsobit vážnou újmu na zdraví po celé své dráze letu.",
+        "right": false
+      },
+      {
+        "body": "až 3 km, přičemž střela může způsobit vážnou újmu na zdraví pouze zhruba v první polovině dráhy svého letu.",
+        "right": false
+      },
+      {
+        "body": "až 4 km, přičemž střela může způsobit vážnou újmu na zdraví po celé své dráze letu.",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "766. Maximální dostřel při výstřelu z dlouhé kulové zbraně ráže 22 Long Rifle, při použití standardního střeliva, může činit:",
     "answers": [
       {
@@ -11620,6 +13098,57 @@ C) zátka.
     ]
   },
   {
+    "name": "767. Maximální dostřel při výstřelu hromadné střely (broky o velikosti 2,4 mm až 3,5 mm) z dlouhé brokové zbraně ráže 12 nebo 16 činí přibližně:",
+    "answers": [
+      {
+        "body": "i více než 1,5 km, přičemž větší shluk broků může způsobit vážnou újmu na zdraví po celé dráze letu.",
+        "right": false
+      },
+      {
+        "body": "stovky metrů; hodnotu maximálního dostřelu v metrech lze přibližně určit jako stonásobek průměru broku v milimetrech (tzn. např. přibližně 250 m v případě broků velikosti 2,4 mm).",
+        "right": true
+      },
+      {
+        "body": "desítky metrů; maximální dostřel se shoduje s tzv. distanční vzdáleností střelby, kterou se rozumí orientačně zjištěná vzdálenost, na kterou lze za běžných viditelnostních podmínek rozpoznat postavu člověka, a to bez použití optického zaměřovače; v případě použití optického zaměřovače se takto zjištěná vzdálenost zvyšuje na dvojnásobek.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "768. Maximální dostřel při výstřelu hromadné střely (broky větších velikostí, tzv. hrubé broky či „buck shoty“, např. velikosti 8,43 mm) z dlouhé brokové zbraně ráže 12 nebo 16 činí přibližně:",
+    "answers": [
+      {
+        "body": "nižší stovky metrů, hodnotu maximálního dostřelu v metrech lze přibližně určit jako stonásobek průměru broku v milimetrech.",
+        "right": false
+      },
+      {
+        "body": "pravidlo o stonásobku průměru broku v milimetrech na maximální dostřel v případě hrubých broků použít nelze, tyto broky mají již vesměs maximální dostřel srovnatelný s kulovými střelami menších ráží, a tedy i přes 1000 m.",
+        "right": true
+      },
+      {
+        "body": "při optimálním náměru přibližně až 3 km, přičemž ale účinný dostřel představuje pouze přibližně 50 m.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "769. Účinný dostřel je:",
+    "answers": [
+      {
+        "body": "největší vzdálenost od zbraně, na níž lze efektivně vyřadit mířenou střelbou zvolený cíl.",
+        "right": true
+      },
+      {
+        "body": "největší dosažený dostřel při střelbě z určité zbraně s určitým střelivem, a to při ideálním náměru kolem 30°.",
+        "right": false
+      },
+      {
+        "body": "maximální vzdálenost od zbraně, kam dopadne náboj.",
+        "right": false
+      }
+    ]
+  },
+  {
     "name": "770. Krytí brokovnice je:",
     "answers": [
       {
@@ -11632,6 +13161,227 @@ C) zátka.
       },
       {
         "body": "účinnost maskovacího nástřiku (krycí povrchové úpravy) zejména u loveckých brokovnic; krytí se hodnotí v jednotkách DPI (dots per inch).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "771. Ranivý účinek je:",
+    "answers": [
+      {
+        "body": "ničivý účinek střel na živé cíle, jehož výsledkem je vznik střelných poranění.",
+        "right": true
+      },
+      {
+        "body": "ničivý účinek střel na pevné cíle, jehož výsledkem je zničení cíle.",
+        "right": false
+      },
+      {
+        "body": "rozdíl mezi dopadovou a zbytkovou energií střely, přičemž tento rozdíl ovlivňuje velikost zpětného rázu zbraně a může při manipulaci se zbraní způsobit zranění neopatrnému střelci.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "772. Průbojný účinek je:",
+    "answers": [
+      {
+        "body": "účinek střely, který umožňuje, aby střela procházela vývrtem hlavně a byla jí drážkováním udělována rotace.",
+        "right": false
+      },
+      {
+        "body": "ničivý účinek střel na živé cíle, jehož výsledkem je vznik střelných poranění.",
+        "right": false
+      },
+      {
+        "body": "ničivý účinek střely spočívající v pronikání střely cílem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "773. Vydutí hlavně je",
+    "answers": [
+      {
+        "body": "rozšíření ústí brokové hlavně; jedná se o konstrukční úpravu, jejímž smyslem je zvýšení krytí při použití broků menšího průměru (tzv. bird shots).",
+        "right": false
+      },
+      {
+        "body": "místní zvětšení průměru hlavně způsobené při výstřelu; jedná se o formu havárie zbraně.",
+        "right": true
+      },
+      {
+        "body": "výšleh plamene z hlavně po výstřelu; vydutí je způsobeno nespálenými zrny střelného prachu, které jsou z hlavně při výstřelu vymeteny.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "774. Zápalka je:",
+    "answers": [
+      {
+        "body": "prachová tableta určená pro použití jako zápalná látka v palných střelných zbraních.",
+        "right": false
+      },
+      {
+        "body": "součást náboje obsahující zápalkovou slož, která se nárazem nebo jiným způsobem vznítí a zažehne výmetnou náplň.",
+        "right": true
+      },
+      {
+        "body": "rozbuška se zpožďovačem, která je určena k vyvolání iniciační detonace v brokovém náboji těsně před tím, než bicí mechanismus přivede zbraň k výstřelu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "775. Střelecké stanoviště je:",
+    "answers": [
+      {
+        "body": "přesně určené místo, popřípadě ohrazené, z něhož se střílí.",
+        "right": true
+      },
+      {
+        "body": "přesně určené místo, popřípadě ohrazené, na kterém se střelcům udělují instrukce.",
+        "right": false
+      },
+      {
+        "body": "stanoviště, odkud střelci vyrážejí k plnění střeleckých úloh; střeleckým stanovištěm je například prostor, ze kterého vyjíždějí závodníci v rámci biatlonových soutěží.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "776. Palebná čára je čára, která omezuje střelecká stanoviště směrem:",
+    "answers": [
+      {
+        "body": "k terčové čáře.",
+        "right": true
+      },
+      {
+        "body": "k ostatním střelcům, kteří současně provádějí střelbu.",
+        "right": false
+      },
+      {
+        "body": "od dopadiště k terčové čáře.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "777. Cílový prostor je prostor, kde:",
+    "answers": [
+      {
+        "body": "se zdržuje střelec po zasažení cíle.",
+        "right": false
+      },
+      {
+        "body": "je prováděno vyhodnocení střelby na cíl.",
+        "right": false
+      },
+      {
+        "body": "je umístěn terč a terčová zařízení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "778. Terčové zařízení je zařízení sloužící:",
+    "answers": [
+      {
+        "body": "k automatickému lepení terčů po provedené střelbě.",
+        "right": false
+      },
+      {
+        "body": "k umístění a případnému pohybu terčů.",
+        "right": true
+      },
+      {
+        "body": "k uskladnění používaných terčů na střelnici.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "779. Nástřelná série je:",
+    "answers": [
+      {
+        "body": "série sloužící k ověření zkušební značky zbraně.",
+        "right": false
+      },
+      {
+        "body": "série sloužící k ověření průměrné hodnoty bodu zásahu.",
+        "right": false
+      },
+      {
+        "body": "série sloužící k ověření nastřelení a funkce zbraně zpravidla před soutěží.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "780. V případě značného znečištění hlavně nebo je-li v hlavni jiná cizí překážka (např. způsobená nechtěným nabráním hlíny do vývrtu hlavně), hrozí při výstřelu:",
+    "answers": [
+      {
+        "body": "že samonabíjecí zbraň začne tzv. kulometit, neboli vystřelí dávku ran v důsledku selhání správné činnosti bicího mechanismu; přitom hrozí ztráta kontroly nad zbraní a zasažení nezúčastněných osob střelbou.",
+        "right": false
+      },
+      {
+        "body": "vydutí nebo roztržení hlavně a případně další destrukce zbraně s možností vážného zranění střelce nebo v okolí se nacházejících osob.",
+        "right": true
+      },
+      {
+        "body": "snížení tlaku spalných plynů v hlavni, neboť střela musí při průchodu vývrtem hlavně překonávat zvýšený odpor; v důsledku toho může obvykle dojít k výraznému zhoršení přesnosti a střela může mít nižší (suboptimální) účinek střely v cíli.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "781. Ke střelbě ze zbraně v dobrém technickém stavu lze bezpečně použít:",
+    "answers": [
+      {
+        "body": "střelivo ráže a případně též konkrétního výrobního provedení, pro které je zbraň určena a které jsou obvykle vyznačeny na zbrani.",
+        "right": true
+      },
+      {
+        "body": "střelivo, které lze do zbraně vložit a uzamknout, aniž by musela být použita větší síla.",
+        "right": false
+      },
+      {
+        "body": "náboje označené typem dané zbraně; to platí vždy v případě civilních zbraní, zatímco u vojenských zbraní může být stanoven odlišný postup.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "782. Kulové střelivo s výrazně zdeformovanou střelou nebo střelou pokrytou např. rzí:",
+    "answers": [
+      {
+        "body": "může být použito ke střelbě pouze na schválených střelnicích.",
+        "right": false
+      },
+      {
+        "body": "by nemělo být použito ke střelbě, protože může způsobit poškození, případně i havárii zbraně.",
+        "right": true
+      },
+      {
+        "body": "může být použito ke střelbě pouze ve zbraních určených pro použití střeliva se zvýšeným ranivým účinkem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "783. Střelivo může být použito ke střelbě:",
+    "answers": [
+      {
+        "body": "ze zbraně, která je pro takové střelivo určena, a pouze v případě, že je jak střelivo, tak i zbraň v dobrém technickém stavu.",
+        "right": true
+      },
+      {
+        "body": "pouze v případě, že bylo vyrobeno před méně než 10 lety, po uplynutí této doby je střelivo považováno za expirované a jeho použití je vysoce rizikové.",
+        "right": false
+      },
+      {
+        "body": "ve zbrani příslušné nebo obdobné ráže; pokud zbraň není určena přímo pro toto střelivo, ale lze jej do této zbraně nabít, lze jej v takové zbrani vždy bezpečně použít, pokud je výkonově slabší než střelivo, pro které je daná zbraň určena.",
         "right": false
       }
     ]
@@ -11688,6 +13438,41 @@ C) zátka.
     ]
   },
   {
+    "name": "787. Za jednu ze zásad bezpečného zacházení se zbraní a střelivem lze považovat následující tezi:",
+    "answers": [
+      {
+        "body": "Při střelbě lze použít ochranu sluchu, zejména pokud střílíme častěji; ochranu zraku je nutné použít pouze tehdy, pokud hrozí odrazy střel.",
+        "right": false
+      },
+      {
+        "body": "Při střelbě je potřeba použít ochranu sluchu a zraku, pokud je to možné.",
+        "right": true
+      },
+      {
+        "body": "Při střelbě je nezbytné použití střeleckých rukavic, pokud je střelba prováděna ve ztíženýchklimatických podmínkách.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "788. Za jednu ze zásad bezpečného zacházení se zbraní a střelivem lze považovat následující tezi:",
+    "answers": [
+      {
+        "body": "Nošení zbraně je přípustné pouze na místech, kde je nižší koncentrace osob, především tedy mimo intravilán obcí a měst.",
+        "right": false
+      },
+      {
+        "body": "Nošení zbraně je komplexní problematika; vždy je třeba věnovat nošení zbraně důsledný trénink, a to zejména s ohledem na rychlost tasení zbraně. Zbraň musí být nošena ve stavu umožňujícím okamžité použití.",
+        "right": false
+      },
+      {
+        "body": "Nošení zbraně je komplexní problematika; zejména je třeba zohledňovat platná právní pravidla, nosit krátkou zbraň v odpovídajícím pouzdře a volit oděv tak, aby umožňoval bezpečné nošení zbraně; dlouhou zbraň je na místě nosit vždy buď zajištěnou, a není-li vybavena spolehlivou manuální pojistkou nebo obdobným mechanismem, tak ji nosit bez náboje v nábojové komoře.",
+        "right": true
+      }
+    ]
+  },
+  
+  {
     "name": "789. Za jednu ze zásad bezpečného zacházení se zbraní a střelivem lze považovat následující tezi:",
     "answers": [
       {
@@ -11717,6 +13502,40 @@ C) zátka.
       },
       {
         "body": "Pokud střelec nechce střílet, nesmí se nijak dotýkat spouště zepředu ukazovákem střílející ruky; přípustná je při dodržení ostatních bezpečnostních zásad pouze umístění jiného prstu do prostoru lučíku nebo dotýkání se spouště zboku (tak, aby se prst zároveň nenacházel přímo v prostoru lučíku).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "791. Za jednu ze zásad bezpečného zacházení se zbraní a střelivem lze považovat následující tezi:",
+    "answers": [
+      {
+        "body": "Každý si musí být vědom rizik souvisejících s možným průstřelem terče nebo jiného cíle, na druhé straně ale střelec nemůže být vesměs schopen odhadnout materiál a prostřelitelnost objektů nacházejících se za terčem nebo jiným cílem; rizika spojená s prostřelením těchto objektů tedy nelze při střelbě zohledňovat.",
+        "right": false
+      },
+      {
+        "body": "Při střelbě si musí být každý vědom toho, že po průstřelu terče nebo jiného cíle dochází k bezpečnému zachycení střely v půdě pod terčem nebo jiným cílem; pouze pokud nedojde k zasažení terče nebo jiného cíle, musí střelec odpovědně zvažovat, kde střela skončí svůj let.",
+        "right": false
+      },
+      {
+        "body": "Při střelbě je třeba si být vědom, kde střela skončí, a to až do jejího úplného zachycení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "792. Za jednu ze zásad bezpečného zacházení se zbraní a střelivem lze považovat následující tezi:",
+    "answers": [
+      {
+        "body": "Není přípustné střílet na cíl, který může daná zbraň prostřelit, aniž by si byl střelec jistý, co je za tímto cílem v dosahu střely vypálené z jeho zbraně.",
+        "right": true
+      },
+      {
+        "body": "Při střelbě si musí být každý vědom toho, že po průstřelu terče nebo jiného cíle dochází k bezpečnému zachycení střely v půdě pod terčem nebo jiným cílem; pouze pokud nedojde k zasažení terče nebo jiného cíle, musí střelec odpovědně zvažovat, kde střela skončí svůj let.",
+        "right": false
+      },
+      {
+        "body": "Každý si musí být vědom rizik souvisejících s možným průstřelem terče nebo jiného cíle, na druhé straně ale střelec nemůže být vesměs schopen odhadnout materiál a prostřelitelnost objektů nacházejících se za terčem nebo jiným cílem; rizika spojená s prostřelením těchto objektů tedy nelze při střelbě zohledňovat.",
         "right": false
       }
     ]
@@ -11841,7 +13660,7 @@ C) zátka.
     ]
   },
   {
-    "name": "799. Při popálení nebo opaření malé plochy postižené místo:",
+    "name": "800. Při popálení nebo opaření malé plochy postižené místo:",
     "answers": [
       {
         "body": "chladíme popálené místo pod tekoucí vodou (15–20 minut), ne ledem. Sundáme šperky kvůli otoku. Po zchlazení sterilně překryjeme.",
@@ -11858,7 +13677,7 @@ C) zátka.
     ]
   },
   {
-    "name": "800. Při polití kyselinou nebo louhem:",
+    "name": "801. Při polití kyselinou nebo louhem:",
     "answers": [
       {
         "body": "postižené místo okamžitě a dlouze oplachujeme tekoucí vodou směrem ven od těla, abychom zabránili dalšímu šíření chemikálie.",
@@ -11875,7 +13694,7 @@ C) zátka.
     ]
   },
   {
-    "name": "801. Jak se postupuje při krátkodobém bezvědomí postiženého, který rychle nabude vědomí (tzv. mdloba):",
+    "name": "802. Jak se postupuje při krátkodobém bezvědomí postiženého, který rychle nabude vědomí (tzv. mdloba):",
     "answers": [
       {
         "body": "posženého ihned posadíme a dáme mu napít vody a najíst, aby se vzpamatoval a probral se vlastní akvitou.",
@@ -11892,7 +13711,7 @@ C) zátka.
     ]
   },
   {
-    "name": "802. V případě použití zaškrcovadla:",
+    "name": "803. V případě použití zaškrcovadla:",
     "answers": [
       {
         "body": "zaškrcovadlo přikládáme na jakékoli místo končeny, ideálně přímo na ránu, aby se krvácení rychle zastavilo.",
@@ -11909,7 +13728,7 @@ C) zátka.
     ]
   },
   {
-    "name": "803. Rozhodneme-li se provádět při resuscitaci také dýchání z plic do plic a vidíme-li, že je dýchání z plic do plic neúčinné (tzn. nezvedá se hrudník postiženého):",
+    "name": "804. Rozhodneme-li se provádět při resuscitaci také dýchání z plic do plic a vidíme-li, že je dýchání z plic do plic neúčinné (tzn. nezvedá se hrudník postiženého):",
     "answers": [
       {
         "body": "pokračujeme ve stlačování hrudníku a před dalším vdechem upravíme záklon hlavy, abychom lépe uvolnili dýchací cesty.",
@@ -11926,7 +13745,7 @@ C) zátka.
     ]
   },
   {
-    "name": "804. Při bezvědomí:",
+    "name": "805. Při bezvědomí:",
     "answers": [
       {
         "body": "posženého ihned uložíme do stabilizované polohy, i když ještě nevíme, zda dýchá. Hlavně se nesmí dusit jazykem, takže mu otevřeme ústa a vytáhneme jazyk, pokud to jde.",
@@ -11943,7 +13762,7 @@ C) zátka.
     ]
   },
   {
-    "name": "805. Při dýchání z plic do plic:",
+    "name": "806. Při dýchání z plic do plic:",
     "answers": [
       {
         "body": "po každém stlačení hrudníku uděláme jeden vdech, aby měl posžený dostatek vzduchu. Čím častěji budeme dýchat, m lépe.",
@@ -11960,7 +13779,7 @@ C) zátka.
     ]
   },
   {
-    "name": "806. Resuscitaci provádíme:",
+    "name": "807. Resuscitaci provádíme:",
     "answers": [
       {
         "body": "stlačujeme hrudník měkkou čás dlaně a držíme prsty rozevřené, aby bylo stlačování šetrnější. Hrudník stlačujeme jen do hloubky asi 3-4 cm, abychom neporanili žebra. Pokud se posžený po dvou minutách neprobere, voláme 155.",
@@ -11977,7 +13796,7 @@ C) zátka.
     ]
   },
   {
-    "name": "807. Kdy lze manipulovat s postiženým, u kterého máme podezření na poranění páteře:",
+    "name": "808. Kdy lze manipulovat s postiženým, u kterého máme podezření na poranění páteře:",
     "answers": [
       {
         "body": "zjistíme-li, že postižený nedýchá normálně, musíme ihned zahájit resuscitaci. V takovém případě je nutné postiženého šetrně uložit na záda na tvrdou podložku, i když máme podezření na poranění páteře. Zástava dechu je okamžitě život ohrožující stav, zatímco poranění páteře je v tuto chvíli pouze podezření – prioritou je vždy záchrana života.",
@@ -11994,7 +13813,7 @@ C) zátka.
     ]
   },
   {
-    "name": "808. Jak postupujeme u masivního krvácení na končetinách:",
+    "name": "809. Jak postupujeme u masivního krvácení na končetinách:",
     "answers": [
       {
         "body": "při masivním krvácení přikládáme rovnou tlakový obvaz, bez zbytečného zdržování přímým tlakem. Zaškrcovadlo používáme až jako úplně poslední možnost, protože může způsobit poškození nervů a amputaci končeny. Volání záchranky není nutné, pokud se krvácení podaří zastavit.",
@@ -12011,7 +13830,7 @@ C) zátka.
     ]
   },
   {
-    "name": "809. Cizí těleso v ráně:",
+    "name": "810. Cizí těleso v ráně:",
     "answers": [
       {
         "body": "každé cizí těleso by se mělo z rány co nejrychleji vyjmout, aby rána mohla volně krvácet a byla přístupná pro dezinfekci. Pokud těleso ponecháme, hrozí infekce nebo další poškození tkáně. Po odstranění tělesa krvácení ošetříme tlakem sterilním obvazem a ránu zakryjeme.",
@@ -12028,7 +13847,7 @@ C) zátka.
     ]
   },
   {
-    "name": "810. Zotavovací poloha je:",
+    "name": "811. Zotavovací poloha je:",
     "answers": [
       {
         "body": "poloha na boku, používaná u člověka v bezvědomí, který dýchá normálně. Zajišťuje samostatný záklon hlavy a umožňuje odtok zvratků, krve nebo slin z úst, čímž snižuje riziko vdechnutí. Spodní ruka je natažená před tělo, horní ruka podepírá hlavu, horní noha je pokrčená a zajišťuje stabilitu těla. Tato poloha se používá, pokud je zachránce sám a musí od postiženého odejít, nebo hrozí vdechnutí tekutin.",
@@ -12045,7 +13864,7 @@ C) zátka.
     ]
   },
   {
-    "name": "811. Jak postupujeme při krvácení z nosu:",
+    "name": "812. Jak postupujeme při krvácení z nosu:",
     "answers": [
       {
         "body": "postižený předkloní hlavu. Pomocí prstů stlačíme postiženému měkkou část nosu nad nosními dírkami po dobu 5-10 minut, díky čemuž stlačíme cévy, ze kterých teče krev. Pro úlevu můžeme přiložit studený obklad na zátylek nebo kořen nosu.",
@@ -12062,7 +13881,7 @@ C) zátka.
     ]
   },
   {
-    "name": "812. Jak postupujeme u otevřené zlomeniny?",
+    "name": "813. Jak postupujeme u otevřené zlomeniny?",
     "answers": [
       {
         "body": "Při otevřené zlomenině musíme co nejdříve končenu narovnat, aby se kost dostala zpět do původní polohy. Následně silně utáhneme obvaz, abychom ránu stáhli a zabránili otoku a krvácení.",
@@ -12079,7 +13898,7 @@ C) zátka.
     ]
   },
   {
-    "name": "813. Při podezření na vnitřní poranění břicha, kdy je postižený při vědomí:",
+    "name": "814. Při podezření na vnitřní poranění břicha, kdy je postižený při vědomí:",
     "answers": [
       {
         "body": "při podezření na vnitřní poranění břicha posadíme posženého do vzpřímené polohy, aby se mu lépe dýchalo, a na oblast břicha přiložíme led nebo studený obklad, který pomůže omezit vnitřní krvácení a zmírnit bolest. Tato opatření snižují riziko šoku a pomáhají udržet stabilní stav. Voláme 155.",
@@ -12096,7 +13915,7 @@ C) zátka.
     ]
   },
   {
-    "name": "814. Jak postupujeme u zlomeniny horní končetiny:",
+    "name": "815. Jak postupujeme u zlomeniny horní končetiny:",
     "answers": [
       {
         "body": "zlomeninu zpevníme pevným tlakem, například obinadlem nebo šátkem, abychom kost vráli do správné polohy. Poté ji přitáhneme k tělu a zafixujeme, aby se nehýbala.",
@@ -12113,7 +13932,7 @@ C) zátka.
     ]
   },
   {
-    "name": "815. Jak postupujeme u zlomeniny dolní končetiny:",
+    "name": "816. Jak postupujeme u zlomeniny dolní končetiny:",
     "answers": [
       {
         "body": "zlomeniny nedlahujeme, nezatěžujeme a nehýbeme s nimi. U zlomeniny dolní končetiny voláme ideálně 155 a kontrolujeme stav postiženého do příjezdu záchranné služby.",
@@ -12130,14 +13949,14 @@ C) zátka.
     ]
   },
   {
-    "name": "816. První pomoc je povinen poskytnout:",
+    "name": "817. První pomoc je povinen poskytnout:",
     "answers": [
       {
         "body": "první pomoc poskytuje pouze zdravotník nebo proškolená osoba, ostatní se do zásahu nemají zapojovat, aby neudělali chybu. Běžný neproškolený občan nemá právní povinnost pomáhat.",
         "right": false
       },
       {
-        "body": "první pomoc je povinen poskytnout **každý občan České republiky**, pokud tím neohrozí sebe ani jiné. **Zákonná povinnost vyplývá z trestního zákoníku (§ 150 a 151)**. Povinnost se týká především základních úkonů, jako je **přivolání zdravotnické záchranné služby (tel. 155)** a **zajištění bezpečnosti na místě**. Neznalost nebo nejistota není omluvou pro zcela pasivní přístup. Povinnost neplatí, pokud by pomoc byla spojena s **vážným ohrožením života či zdraví zachránce**.",
+        "body": "první pomoc je povinen poskytnout každý občan České republiky, pokud tím neohrozí sebe ani jiné. Zákonná povinnost vyplývá z trestního zákoníku (§ 150 a 151). Povinnost se týká především základních úkonů, jako je přivolání zdravotnické záchranné služby (tel. 155) a zajištění bezpečnosti na místě. Neznalost nebo nejistota není omluvou pro zcela pasivní přístup. Povinnost neplatí, pokud by pomoc byla spojena s vážným ohrožením života či zdraví zachránce.",
         "right": true
       },
       {
@@ -12147,14 +13966,14 @@ C) zátka.
     ]
   },
   {
-    "name": "817. Při střelném poranění:",
+    "name": "818. Při střelném poranění:",
     "answers": [
       {
         "body": "musíme ránu pro zvýšenou možnost infekce důkladně vyčist a vydezinfikovat.",
         "right": false
       },
       {
-        "body": "**voláme 155 a řešíme život ohrožující stav (masivní krvácení, bezvědomí)**. Pokud rána masivně krvácí, snažíme se zastavit masivní krvácení. Pokud je zastaveno masivní krvácení a postižený je v bezvědomí a nedýchá normálně, zahájíme resuscitaci.",
+        "body": "voláme 155 a řešíme život ohrožující stav (masivní krvácení, bezvědomí). Pokud rána masivně krvácí, snažíme se zastavit masivní krvácení. Pokud je zastaveno masivní krvácení a postižený je v bezvědomí a nedýchá normálně, zahájíme resuscitaci.",
         "right": true
       },
       {
@@ -12164,10 +13983,10 @@ C) zátka.
     ]
   },
   {
-    "name": "818. Při střelném poranění hrudníku, kdy je postižený při vědomí:",
+    "name": "819. Při střelném poranění hrudníku, kdy je postižený při vědomí:",
     "answers": [
       {
-        "body": "**voláme 155, usadíme postiženého do polosedu, ránu ničím nepřikrýváme, necháváme zcela nezakrytou s ponechanou komunikací s okolním prostředím. V případě, že rána masivně krvácí, je třeba krvácení zastavit přímým tlakem v ráně a jen v případě nezbytnosti lze použít speciální krytí (prodyšný nebo vybavený chlopní)**.",
+        "body": "voláme 155, usadíme postiženého do polosedu, ránu ničím nepřikrýváme, necháváme zcela nezakrytou s ponechanou komunikací s okolním prostředím. V případě, že rána masivně krvácí, je třeba krvácení zastavit přímým tlakem v ráně a jen v případě nezbytnosti lze použít speciální krytí (prodyšný nebo vybavený chlopní).",
         "right": true
       },
       {
@@ -12181,7 +14000,7 @@ C) zátka.
     ]
   },
   {
-    "name": "819. Při střelném poranění končetiny:",
+    "name": "820. Při střelném poranění končetiny:",
     "answers": [
       {
         "body": "zvedneme končenu vůči tělu do výšky, abychom snížili průtok krve do rány. Místo vstřelu vydezinfikujeme a překryjeme sterilním obvazem.",
@@ -12192,16 +14011,16 @@ C) zátka.
         "right": false
       },
       {
-        "body": "**voláme 155 a řešíme život ohrožující stav (masivní krvácení, bezvědomí)**. Pokud rána masivně krvácí, **snažíme se zastavit masivní krvácení – první volnou je stlačení rány prsty ruky, druhou použití tlakového obvazu, v případě, že prosakuje i druhá vrstva tlakového obvazu, končetinu zaškrtíme**.",
+        "body": "voláme 155 a řešíme život ohrožující stav (masivní krvácení, bezvědomí). Pokud rána masivně krvácí, snažíme se zastavit masivní krvácení – první volnou je stlačení rány prsty ruky, druhou použití tlakového obvazu, v případě, že prosakuje i druhá vrstva tlakového obvazu, končetinu zaškrtíme.",
         "right": true
       }
     ]
   },
   {
-    "name": "820. Při poskytování první pomoci je u postiženého v bezvědomí nejdříve nutné:",
+    "name": "821. Při poskytování první pomoci je u postiženého v bezvědomí nejdříve nutné:",
     "answers": [
       {
-        "body": "**zastavit masivní krvácení**, následně **zaklonit hlavu pro uvolnění dýchacích cest**, **zkontrolovat dýchání** a v případě, že postižený nedýchá normálně, **zahájit resuscitaci**.",
+        "body": "zastavit masivní krvácení, následně zaklonit hlavu pro uvolnění dýchacích cest, zkontrolovat dýchání a v případě, že postižený nedýchá normálně, zahájit resuscitaci.",
         "right": true
       },
       {
@@ -12215,7 +14034,7 @@ C) zátka.
     ]
   },
   {
-    "name": "821. Jaká jsou zásadní základní pravidla pro řešení zlomenin?",
+    "name": "822. Jaká jsou zásadní základní pravidla pro řešení zlomenin?",
     "answers": [
       {
         "body": "Pokud zlomenina působí deformaci např. končeny, co nejrychleji ji narovnáme, abychom zabránili trvalým následkům.",
@@ -12226,20 +14045,20 @@ C) zátka.
         "right": false
       },
       {
-        "body": "**Zlomeniny nedlahujeme, nezatěžujeme a nehýbeme s nimi**.",
+        "body": "Zlomeniny nedlahujeme, nezatěžujeme a nehýbeme s nimi.",
         "right": true
       }
     ]
   },
   {
-    "name": "822. Podezření na poranění páteře a míchy vyvolává:",
+    "name": "823. Podezření na poranění páteře a míchy vyvolává:",
     "answers": [
       {
         "body": "pozice těla posženého.",
         "right": false
       },
       {
-        "body": "**mechanismus úrazu (pády z výšky, úrazy na lyžích, autonehody)**, **ztráta hybnosti a citlivosti končetin**.",
+        "body": "mechanismus úrazu (pády z výšky, úrazy na lyžích, autonehody), ztráta hybnosti a citlivosti končetin.",
         "right": true
       },
       {
@@ -12249,14 +14068,14 @@ C) zátka.
     ]
   },
   {
-    "name": "823. Při krátkodobé ztrátě vědomí (tzv. mdlobě) je volání záchranné služby nezbytné:",
+    "name": "824. Při krátkodobé ztrátě vědomí (tzv. mdlobě) je volání záchranné služby nezbytné:",
     "answers": [
       {
         "body": "vždy.",
         "right": false
       },
       {
-        "body": "**nedojde-li k rychlé úpravě stavu**, dochází-li k **opakovaným ztrátám vědomí**.",
+        "body": "nedojde-li k rychlé úpravě stavu, dochází-li k opakovaným ztrátám vědomí.",
         "right": true
       },
       {
@@ -12266,10 +14085,10 @@ C) zátka.
     ]
   },
   {
-    "name": "824. Jak se provádí uvolnění dýchacích cest u postiženého v bezvědomí:",
+    "name": "825. Jak se provádí uvolnění dýchacích cest u postiženého v bezvědomí:",
     "answers": [
       {
-        "body": "**řádným záklonem hlavy**.",
+        "body": "řádným záklonem hlavy.",
         "right": true
       },
       {
@@ -12283,7 +14102,7 @@ C) zátka.
     ]
   },
   {
-    "name": "825. Co je nejdůležitější při poskytování aktivní první pomoci?",
+    "name": "826. Co je nejdůležitější při poskytování aktivní první pomoci?",
     "answers": [
       {
         "body": "Zajištění dýchacích cest.",
@@ -12294,16 +14113,16 @@ C) zátka.
         "right": false
       },
       {
-        "body": "**Vlastní bezpečí, tedy bezpečí zachránce**.",
+        "body": "Vlastní bezpečí, tedy bezpečí zachránce.",
         "right": true
       }
     ]
   },
   {
-    "name": "826. Je dýchání z plic do plic povinná součást laické resuscitace?",
+    "name": "827. Je dýchání z plic do plic povinná součást laické resuscitace?",
     "answers": [
       {
-        "body": "**Není**. Laik by měl provádět dýchání z plic do plic, **pokud to umí a neohrožuje ho to na životě a zdraví**.",
+        "body": "Není. Laik by měl provádět dýchání z plic do plic, pokud to umí a neohrožuje ho to na životě a zdraví.",
         "right": true
       },
       {
@@ -12311,13 +14130,13 @@ C) zátka.
         "right": false
       },
       {
-        "body": "Je povinná pouze u osob zjevně vyššího věku a malých dě.",
+        "body": "Je povinná pouze u osob zjevně vyššího věku a malých dětí.",
         "right": false
       }
     ]
   },
   {
-    "name": "827. Jak mohu nejlépe určit polohu místa nehody, kterou musím sdělit dispečerce záchranné služby?",
+    "name": "828. Jak mohu nejlépe určit polohu místa nehody, kterou musím sdělit dispečerce záchranné služby?",
     "answers": [
       {
         "body": "Pomocí popisu okolí, lesa, polí, cest, křižovatek, budov.",
@@ -12328,13 +14147,13 @@ C) zátka.
         "right": false
       },
       {
-        "body": "**Např. pomocí aplikace záchranka, pomocí číselných kódů na lampách pouličního osvětlení, pomocí čísel mostů, železničních přejezdů, silnic; pomocí čísel na turistických značkách či kódů na tabulkách záchranných bodů umístěných v přírodě**.",
+        "body": "Např. pomocí aplikace záchranka, pomocí číselných kódů na lampách pouličního osvětlení, pomocí čísel mostů, železničních přejezdů, silnic; pomocí čísel na turistických značkách či kódů na tabulkách záchranných bodů umístěných v přírodě.",
         "right": true
       }
     ]
   },
   {
-    "name": "828. Jaká je první pomoc při křečových stavech?",
+    "name": "829. Jaká je první pomoc při křečových stavech?",
     "answers": [
       {
         "body": "Posženého se snažíme udržet silou v jedné pozici, abychom utlumili jeho chvění a zabránili tak případnému zranění.",
@@ -12345,16 +14164,16 @@ C) zátka.
         "right": false
       },
       {
-        "body": "**Křeče necháváme volně proběhnout. Kolem postiženého uděláme prostor, aby se dále nezranil (odstraníme okolní nábytek apod.). Po odeznění křečí, zkontrolujeme vědomí postiženého**.",
+        "body": "Křeče necháváme volně proběhnout. Kolem postiženého udělame prostor, aby se dále nezranil (odstraníme okolní nábytek apod.). Po odeznění křečí, zkontrolujeme vědomí postiženého.",
         "right": true
       }
     ]
   },
   {
-    "name": "829. Jaký je postup při otravě léky?",
+    "name": "830. Jaký je postup při otravě léky?",
     "answers": [
       {
-        "body": "**Voláme 155. Pokusíme se u postiženého vyvolat zvracení, je-li postižený při vědomí. Můžeme podat tablety černého uhlí. Důležité je zjistit o jaký druh léčiv se jedná. Další postup konzultujeme s linkou 155 nebo Toxikologickým informačním střediskem**.",
+        "body": "Voláme 155. Pokusíme se u postiženého vyvolat zvracení, je-li postižený při vědomí. Můžeme podat tablety černého uhlí. Důležité je zjistit o jaký druh léčiv se jedná. Další postup konzultujeme s linkou 155 nebo Toxikologickým informačním střediskem.",
         "right": true
       },
       {
@@ -12368,14 +14187,14 @@ C) zátka.
     ]
   },
   {
-    "name": "830. U jakých chemikálií nemůžeme vyvolávat zvracení v rámci poskytování první pomoci u otrav?",
+    "name": "831. U jakých chemikálií nemůžeme vyvolávat zvracení v rámci poskytování první pomoci u otrav?",
     "answers": [
       {
         "body": "Alkohol.",
         "right": false
       },
       {
-        "body": "**Kyseliny, zásady, pěnidla**.",
+        "body": "Kyseliny, zásady, pěnidla.",
         "right": true
       },
       {
@@ -12385,14 +14204,14 @@ C) zátka.
     ]
   },
   {
-    "name": "831. Kdy zahajujeme resuscitaci u postiženého, který je v bezvědomí?",
+    "name": "832. Kdy zahajujeme resuscitaci u postiženého, který je v bezvědomí?",
     "answers": [
       {
         "body": "Pokud posžený nereaguje na opakované bolesvé podněty např. špání, údery konečky prstů do žeber, zatahání za vlasy okolo uší, poplácání dlaní po tváři apod.",
         "right": false
       },
       {
-        "body": "**V případě, že jsme uvolnili dýchací cesty záklonem hlavy a postižený nedýchá normálně, zahájíme resuscitaci. \"Nedýchá normálně\" znamená: při záklonu hlavy nedýchá vůbec, chrčí či lape po dechu**.",
+        "body": "V případě, že jsme uvolnili dýchací cesty záklonem hlavy a postižený nedýchá normálně, zahájíme resuscitaci. \"Nedýchá normálně\" znamená: při záklonu hlavy nedýchá vůbec, chrčí či lape po dechu.",
         "right": true
       },
       {
@@ -12402,10 +14221,10 @@ C) zátka.
     ]
   },
   {
-    "name": "832. Kdy vytahujeme rukou jazyk postiženého, který je v bezvědomí?",
+    "name": "833. Kdy vytahujeme rukou jazyk postiženého, který je v bezvědomí?",
     "answers": [
       {
-        "body": "**Nikdy**.",
+        "body": "Nikdy.",
         "right": true
       },
       {
@@ -12419,14 +14238,14 @@ C) zátka.
     ]
   },
   {
-    "name": "833. Postiženého v bezvědomí, který je zasažen elektrickým proudem:",
+    "name": "834. Postiženého v bezvědomí, který je zasažen elektrickým proudem:",
     "answers": [
       {
         "body": "opláchneme studenou vodou, aby se rychleji probral.",
         "right": false
       },
       {
-        "body": "**nejprve izolujeme od zdroje elektrického proudu**.",
+        "body": "nejprve izolujeme od zdroje elektrického proudu.",
         "right": true
       },
       {
@@ -12436,10 +14255,10 @@ C) zátka.
     ]
   },
   {
-    "name": "834. Jaké příznaky se objevují u cévní mozkové příhody, tzv. mrtvice?",
+    "name": "835. Jaké příznaky se objevují u cévní mozkové příhody, tzv. mrtvice?",
     "answers": [
       {
-        "body": "**Ochabnutí koutku oka, úst, patrný křivý úsměv, plazení jazyka šikmo, ochrnutí na jednu polovinu těla (špatná hybnost, slabost v končetinách, nepředpažení rukou, jiná síla v rukou), postižení řečového centra (potíže s mluvením)**.",
+        "body": "Ochabnutí koutku oka, úst, patrný křivý úsměv, plazení jazyka šikmo, ochrnutí na jednu polovinu těla (špatná hybnost, slabost v končetinách, nepředpažení rukou, jiná síla v rukou), postižení řečového centra (potíže s mluvením).",
         "right": true
       },
       {
@@ -12453,7 +14272,7 @@ C) zátka.
     ]
   },
   {
-    "name": "835. Jaká je první pomoc u člověka s cukrovkou, který je při vědomí a špatně komunikuje?",
+    "name": "836. Jaká je první pomoc u člověka s cukrovkou, který je při vědomí a špatně komunikuje?",
     "answers": [
       {
         "body": "Podáme malé množství tvrdého alkoholu, nejlépe 40 % v množství 0,04L. Pokud nedojde k rychlému zlepšení zdravotního stavu poškozeného, můžeme podat ještě jednu dávku, více však ne.",
@@ -12464,16 +14283,16 @@ C) zátka.
         "right": false
       },
       {
-        "body": "**Vždy podáme cukr, ideálně v tekuté formě. Dále sledujeme stav postiženého, zda dochází ke zlepšení. V případě, že se stav nelepší, voláme 155**.",
+        "body": "Vždy podáme cukr, ideálně v tekuté formě. Dále sledujeme stav postiženého, zda dochází ke zlepšení. V případě, že se stav nelepší, voláme 155.",
         "right": true
       }
     ]
   },
   {
-    "name": "836. Kdy se používá automatizovaný externí defibrilátor a proč?",
+    "name": "837. Kdy se používá automatizovaný externí defibrilátor a proč?",
     "answers": [
       {
-        "body": "**U postiženého, který je resuscitován, je-li v dosahu a nezdržuje to zachránce od provádění resuscitace (zpravidla tak musí být na místě více zachránců)**.",
+        "body": "U postiženého, který je resuscitován, je-li v dosahu a nezdržuje to zachránce od provádění resuscitace (zpravidla tak musí být na místě více zachránců).",
         "right": true
       },
       {
