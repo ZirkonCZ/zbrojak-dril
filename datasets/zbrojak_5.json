@@ -1,6 +1,6 @@
 [
   {
-    "name": "799b. Při popálení nebo opaření malé plochy postižené místo:",
+    "name": "800. Při popálení nebo opaření malé plochy postižené místo:",
     "answers": [
       {
         "body": "chladíme popálené místo pod tekoucí vodou (15–20 minut), ne ledem. Sundáme šperky kvůli otoku. Po zchlazení sterilně překryjeme.",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "name": "800. Při polití kyselinou nebo louhem:",
+    "name": "801. Při polití kyselinou nebo louhem:",
     "answers": [
       {
         "body": "postižené místo okamžitě a dlouze oplachujeme tekoucí vodou směrem ven od těla, abychom zabránili dalšímu šíření chemikálie.",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "name": "801. Jak se postupuje při krátkodobém bezvědomí postiženého, který rychle nabude vědomí (tzv. mdloba):",
+    "name": "802. Jak se postupuje při krátkodobém bezvědomí postiženého, který rychle nabude vědomí (tzv. mdloba):",
     "answers": [
       {
         "body": "posženého ihned posadíme a dáme mu napít vody a najíst, aby se vzpamatoval a probral se vlastní akvitou.",
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "name": "802. V případě použití zaškrcovadla:",
+    "name": "803. V případě použití zaškrcovadla:",
     "answers": [
       {
         "body": "zaškrcovadlo přikládáme na jakékoli místo končeny, ideálně přímo na ránu, aby se krvácení rychle zastavilo.",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "name": "803. Rozhodneme-li se provádět při resuscitaci také dýchání z plic do plic a vidíme-li, že je dýchání z plic do plic neúčinné (tzn. nezvedá se hrudník postiženého):",
+    "name": "804. Rozhodneme-li se provádět při resuscitaci také dýchání z plic do plic a vidíme-li, že je dýchání z plic do plic neúčinné (tzn. nezvedá se hrudník postiženého):",
     "answers": [
       {
         "body": "pokračujeme ve stlačování hrudníku a před dalším vdechem upravíme záklon hlavy, abychom lépe uvolnili dýchací cesty.",
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "name": "804. Při bezvědomí:",
+    "name": "805. Při bezvědomí:",
     "answers": [
       {
         "body": "posženého ihned uložíme do stabilizované polohy, i když ještě nevíme, zda dýchá. Hlavně se nesmí dusit jazykem, takže mu otevřeme ústa a vytáhneme jazyk, pokud to jde.",
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "name": "805. Při dýchání z plic do plic:",
+    "name": "806. Při dýchání z plic do plic:",
     "answers": [
       {
         "body": "po každém stlačení hrudníku uděláme jeden vdech, aby měl posžený dostatek vzduchu. Čím častěji budeme dýchat, m lépe.",
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "name": "806. Resuscitaci provádíme:",
+    "name": "807. Resuscitaci provádíme:",
     "answers": [
       {
         "body": "stlačujeme hrudník měkkou čás dlaně a držíme prsty rozevřené, aby bylo stlačování šetrnější. Hrudník stlačujeme jen do hloubky asi 3-4 cm, abychom neporanili žebra. Pokud se posžený po dvou minutách neprobere, voláme 155.",
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "name": "807. Kdy lze manipulovat s postiženým, u kterého máme podezření na poranění páteře:",
+    "name": "808. Kdy lze manipulovat s postiženým, u kterého máme podezření na poranění páteře:",
     "answers": [
       {
         "body": "zjistíme-li, že postižený nedýchá normálně, musíme ihned zahájit resuscitaci. V takovém případě je nutné postiženého šetrně uložit na záda na tvrdou podložku, i když máme podezření na poranění páteře. Zástava dechu je okamžitě život ohrožující stav, zatímco poranění páteře je v tuto chvíli pouze podezření – prioritou je vždy záchrana života.",
@@ -153,7 +153,7 @@
     ]
   },
   {
-    "name": "808. Jak postupujeme u masivního krvácení na končetinách:",
+    "name": "809. Jak postupujeme u masivního krvácení na končetinách:",
     "answers": [
       {
         "body": "při masivním krvácení přikládáme rovnou tlakový obvaz, bez zbytečného zdržování přímým tlakem. Zaškrcovadlo používáme až jako úplně poslední možnost, protože může způsobit poškození nervů a amputaci končeny. Volání záchranky není nutné, pokud se krvácení podaří zastavit.",
@@ -170,7 +170,7 @@
     ]
   },
   {
-    "name": "809. Cizí těleso v ráně:",
+    "name": "810. Cizí těleso v ráně:",
     "answers": [
       {
         "body": "každé cizí těleso by se mělo z rány co nejrychleji vyjmout, aby rána mohla volně krvácet a byla přístupná pro dezinfekci. Pokud těleso ponecháme, hrozí infekce nebo další poškození tkáně. Po odstranění tělesa krvácení ošetříme tlakem sterilním obvazem a ránu zakryjeme.",
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "name": "810. Zotavovací poloha je:",
+    "name": "811. Zotavovací poloha je:",
     "answers": [
       {
         "body": "poloha na boku, používaná u člověka v bezvědomí, který dýchá normálně. Zajišťuje samostatný záklon hlavy a umožňuje odtok zvratků, krve nebo slin z úst, čímž snižuje riziko vdechnutí. Spodní ruka je natažená před tělo, horní ruka podepírá hlavu, horní noha je pokrčená a zajišťuje stabilitu těla. Tato poloha se používá, pokud je zachránce sám a musí od postiženého odejít, nebo hrozí vdechnutí tekutin.",
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "name": "811. Jak postupujeme při krvácení z nosu:",
+    "name": "812. Jak postupujeme při krvácení z nosu:",
     "answers": [
       {
         "body": "postižený předkloní hlavu. Pomocí prstů stlačíme postiženému měkkou část nosu nad nosními dírkami po dobu 5-10 minut, díky čemuž stlačíme cévy, ze kterých teče krev. Pro úlevu můžeme přiložit studený obklad na zátylek nebo kořen nosu.",
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "name": "812. Jak postupujeme u otevřené zlomeniny?",
+    "name": "813. Jak postupujeme u otevřené zlomeniny?",
     "answers": [
       {
         "body": "Při otevřené zlomenině musíme co nejdříve končenu narovnat, aby se kost dostala zpět do původní polohy. Následně silně utáhneme obvaz, abychom ránu stáhli a zabránili otoku a krvácení.",
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "name": "813. Při podezření na vnitřní poranění břicha, kdy je postižený při vědomí:",
+    "name": "814. Při podezření na vnitřní poranění břicha, kdy je postižený při vědomí:",
     "answers": [
       {
         "body": "při podezření na vnitřní poranění břicha posadíme posženého do vzpřímené polohy, aby se mu lépe dýchalo, a na oblast břicha přiložíme led nebo studený obklad, který pomůže omezit vnitřní krvácení a zmírnit bolest. Tato opatření snižují riziko šoku a pomáhají udržet stabilní stav. Voláme 155.",
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "name": "814. Jak postupujeme u zlomeniny horní končetiny:",
+    "name": "815. Jak postupujeme u zlomeniny horní končetiny:",
     "answers": [
       {
         "body": "zlomeninu zpevníme pevným tlakem, například obinadlem nebo šátkem, abychom kost vráli do správné polohy. Poté ji přitáhneme k tělu a zafixujeme, aby se nehýbala.",
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "name": "815. Jak postupujeme u zlomeniny dolní končetiny:",
+    "name": "816. Jak postupujeme u zlomeniny dolní končetiny:",
     "answers": [
       {
         "body": "zlomeniny nedlahujeme, nezatěžujeme a nehýbeme s nimi. U zlomeniny dolní končetiny voláme ideálně 155 a kontrolujeme stav postiženého do příjezdu záchranné služby.",
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "name": "816. První pomoc je povinen poskytnout:",
+    "name": "817. První pomoc je povinen poskytnout:",
     "answers": [
       {
         "body": "první pomoc poskytuje pouze zdravotník nebo proškolená osoba, ostatní se do zásahu nemají zapojovat, aby neudělali chybu. Běžný neproškolený občan nemá právní povinnost pomáhat.",
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "name": "817. Při střelném poranění:",
+    "name": "818. Při střelném poranění:",
     "answers": [
       {
         "body": "musíme ránu pro zvýšenou možnost infekce důkladně vyčist a vydezinfikovat.",
@@ -323,7 +323,7 @@
     ]
   },
   {
-    "name": "818. Při střelném poranění hrudníku, kdy je postižený při vědomí:",
+    "name": "819. Při střelném poranění hrudníku, kdy je postižený při vědomí:",
     "answers": [
       {
         "body": "voláme 155, usadíme postiženého do polosedu, ránu ničím nepřikrýváme, necháváme zcela nezakrytou s ponechanou komunikací s okolním prostředím. V případě, že rána masivně krvácí, je třeba krvácení zastavit přímým tlakem v ráně a jen v případě nezbytnosti lze použít speciální krytí (prodyšný nebo vybavený chlopní).",
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "name": "819. Při střelném poranění končetiny:",
+    "name": "820. Při střelném poranění končetiny:",
     "answers": [
       {
         "body": "zvedneme končenu vůči tělu do výšky, abychom snížili průtok krve do rány. Místo vstřelu vydezinfikujeme a překryjeme sterilním obvazem.",
@@ -357,7 +357,7 @@
     ]
   },
   {
-    "name": "820. Při poskytování první pomoci je u postiženého v bezvědomí nejdříve nutné:",
+    "name": "821. Při poskytování první pomoci je u postiženého v bezvědomí nejdříve nutné:",
     "answers": [
       {
         "body": "zastavit masivní krvácení, následně zaklonit hlavu pro uvolnění dýchacích cest, zkontrolovat dýchání a v případě, že postižený nedýchá normálně, zahájit resuscitaci.",
@@ -374,7 +374,7 @@
     ]
   },
   {
-    "name": "821. Jaká jsou zásadní základní pravidla pro řešení zlomenin?",
+    "name": "822. Jaká jsou zásadní základní pravidla pro řešení zlomenin?",
     "answers": [
       {
         "body": "Pokud zlomenina působí deformaci např. končeny, co nejrychleji ji narovnáme, abychom zabránili trvalým následkům.",
@@ -391,7 +391,7 @@
     ]
   },
   {
-    "name": "822. Podezření na poranění páteře a míchy vyvolává:",
+    "name": "823. Podezření na poranění páteře a míchy vyvolává:",
     "answers": [
       {
         "body": "pozice těla posženého.",
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "name": "823. Při krátkodobé ztrátě vědomí (tzv. mdlobě) je volání záchranné služby nezbytné:",
+    "name": "824. Při krátkodobé ztrátě vědomí (tzv. mdlobě) je volání záchranné služby nezbytné:",
     "answers": [
       {
         "body": "vždy.",
@@ -425,7 +425,7 @@
     ]
   },
   {
-    "name": "824. Jak se provádí uvolnění dýchacích cest u postiženého v bezvědomí:",
+    "name": "825. Jak se provádí uvolnění dýchacích cest u postiženého v bezvědomí:",
     "answers": [
       {
         "body": "řádným záklonem hlavy.",
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "name": "825. Co je nejdůležitější při poskytování aktivní první pomoci?",
+    "name": "826. Co je nejdůležitější při poskytování aktivní první pomoci?",
     "answers": [
       {
         "body": "Zajištění dýchacích cest.",
@@ -459,7 +459,7 @@
     ]
   },
   {
-    "name": "826. Je dýchání z plic do plic povinná součást laické resuscitace?",
+    "name": "827. Je dýchání z plic do plic povinná součást laické resuscitace?",
     "answers": [
       {
         "body": "Není. Laik by měl provádět dýchání z plic do plic, pokud to umí a neohrožuje ho to na životě a zdraví.",
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "name": "827. Jak mohu nejlépe určit polohu místa nehody, kterou musím sdělit dispečerce záchranné služby?",
+    "name": "828. Jak mohu nejlépe určit polohu místa nehody, kterou musím sdělit dispečerce záchranné služby?",
     "answers": [
       {
         "body": "Pomocí popisu okolí, lesa, polí, cest, křižovatek, budov.",
@@ -493,7 +493,7 @@
     ]
   },
   {
-    "name": "828. Jaká je první pomoc při křečových stavech?",
+    "name": "829. Jaká je první pomoc při křečových stavech?",
     "answers": [
       {
         "body": "Posženého se snažíme udržet silou v jedné pozici, abychom utlumili jeho chvění a zabránili tak případnému zranění.",
@@ -504,13 +504,13 @@
         "right": false
       },
       {
-        "body": "Křeče necháváme volně proběhnout. Kolem postiženého uděláme prostor, aby se dále nezranil (odstraníme okolní nábytek apod.). Po odeznění křečí, zkontrolujeme vědomí postiženého.",
+        "body": "Křeče necháváme volně proběhnout. Kolem postiženého udělame prostor, aby se dále nezranil (odstraníme okolní nábytek apod.). Po odeznění křečí, zkontrolujeme vědomí postiženého.",
         "right": true
       }
     ]
   },
   {
-    "name": "829. Jaký je postup při otravě léky?",
+    "name": "830. Jaký je postup při otravě léky?",
     "answers": [
       {
         "body": "Voláme 155. Pokusíme se u postiženého vyvolat zvracení, je-li postižený při vědomí. Můžeme podat tablety černého uhlí. Důležité je zjistit o jaký druh léčiv se jedná. Další postup konzultujeme s linkou 155 nebo Toxikologickým informačním střediskem.",
@@ -527,7 +527,7 @@
     ]
   },
   {
-    "name": "830. U jakých chemikálií nemůžeme vyvolávat zvracení v rámci poskytování první pomoci u otrav?",
+    "name": "831. U jakých chemikálií nemůžeme vyvolávat zvracení v rámci poskytování první pomoci u otrav?",
     "answers": [
       {
         "body": "Alkohol.",
@@ -544,7 +544,7 @@
     ]
   },
   {
-    "name": "831. Kdy zahajujeme resuscitaci u postiženého, který je v bezvědomí?",
+    "name": "832. Kdy zahajujeme resuscitaci u postiženého, který je v bezvědomí?",
     "answers": [
       {
         "body": "Pokud posžený nereaguje na opakované bolesvé podněty např. špání, údery konečky prstů do žeber, zatahání za vlasy okolo uší, poplácání dlaní po tváři apod.",
@@ -561,7 +561,7 @@
     ]
   },
   {
-    "name": "832. Kdy vytahujeme rukou jazyk postiženého, který je v bezvědomí?",
+    "name": "833. Kdy vytahujeme rukou jazyk postiženého, který je v bezvědomí?",
     "answers": [
       {
         "body": "Nikdy.",
@@ -578,7 +578,7 @@
     ]
   },
   {
-    "name": "833. Postiženého v bezvědomí, který je zasažen elektrickým proudem:",
+    "name": "834. Postiženého v bezvědomí, který je zasažen elektrickým proudem:",
     "answers": [
       {
         "body": "opláchneme studenou vodou, aby se rychleji probral.",
@@ -595,7 +595,7 @@
     ]
   },
   {
-    "name": "834. Jaké příznaky se objevují u cévní mozkové příhody, tzv. mrtvice?",
+    "name": "835. Jaké příznaky se objevují u cévní mozkové příhody, tzv. mrtvice?",
     "answers": [
       {
         "body": "Ochabnutí koutku oka, úst, patrný křivý úsměv, plazení jazyka šikmo, ochrnutí na jednu polovinu těla (špatná hybnost, slabost v končetinách, nepředpažení rukou, jiná síla v rukou), postižení řečového centra (potíže s mluvením).",
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "name": "835. Jaká je první pomoc u člověka s cukrovkou, který je při vědomí a špatně komunikuje?",
+    "name": "836. Jaká je první pomoc u člověka s cukrovkou, který je při vědomí a špatně komunikuje?",
     "answers": [
       {
         "body": "Podáme malé množství tvrdého alkoholu, nejlépe 40 % v množství 0,04L. Pokud nedojde k rychlému zlepšení zdravotního stavu poškozeného, můžeme podat ještě jednu dávku, více však ne.",
@@ -629,7 +629,7 @@
     ]
   },
   {
-    "name": "836. Kdy se používá automatizovaný externí defibrilátor a proč?",
+    "name": "837. Kdy se používá automatizovaný externí defibrilátor a proč?",
     "answers": [
       {
         "body": "U postiženého, který je resuscitován, je-li v dosahu a nezdržuje to zachránce od provádění resuscitace (zpravidla tak musí být na místě více zachránců).",
